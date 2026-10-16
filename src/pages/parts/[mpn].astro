@@ -1,6 +1,7 @@
 ---
 // src/pages/parts/[mpn].astro - Dynamic Product Detail Page (PDP)
 import products from '../../data/products.json';
+import activeItems from '../../data/active_ebay_items.json';
 import '../../styles/global.css';
 import Header from '../../components/Header.astro';
 import TrustStrip from '../../components/TrustStrip.astro';
@@ -8,10 +9,46 @@ import OEInterchangeBadges from '../../components/OEInterchangeBadges.astro';
 import Footer from '../../components/Footer.astro';
 
 export async function getStaticPaths() {
-  return products.map((product) => ({
-    params: { mpn: product.clean_mpn || product.mpn },
-    props: { product },
-  }));
+  const existingKeys = new Set();
+  const paths = [];
+
+  for (const product of products) {
+    const key = String(product.clean_mpn || product.mpn);
+    if (!existingKeys.has(key)) {
+      existingKeys.add(key);
+      paths.push({
+        params: { mpn: key },
+        props: { product },
+      });
+    }
+  }
+
+  for (const item of activeItems) {
+    const key = String(item.item_id);
+    if (!existingKeys.has(key)) {
+      existingKeys.add(key);
+      paths.push({
+        params: { mpn: key },
+        props: {
+          product: {
+            brand: "WNCPARTSLINGERS",
+            mpn: item.sku || item.item_id,
+            title: item.title,
+            price: item.price,
+            quantity: 1,
+            condition_badge: "AUTHENTIC NOS",
+            department: "Automotive Parts",
+            ebay_item_id: item.item_id,
+            media: [{ url: item.image_url || "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85" }],
+            interchanges: [],
+            fitments: []
+          }
+        },
+      });
+    }
+  }
+
+  return paths;
 }
 
 const { product } = Astro.props;
@@ -85,9 +122,15 @@ const interchangeList: Array<[string, string]> = (product.interchanges || []).ma
             </div>
 
             <div style="display: flex; gap: 10px;">
-              <button type="button" class="primary-button" style="flex: 1;">
-                Add to cart <b>+</b>
-              </button>
+              <a
+                href={product.ebay_item_id ? `https://www.ebay.com/itm/${product.ebay_item_id}` : "https://www.ebay.com/str/wncpartslingers"}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="primary-button"
+                style="flex: 1; text-align: center; text-decoration: none; display: block; padding: 12px 20px; font-weight: 800; font-size: 14px; background: #ea580c; color: #ffffff;"
+              >
+                Buy Now on eBay &rarr;
+              </a>
             </div>
             <p style="margin: 12px 0 0; color: #64748b; font-size: 9px; font-family: 'JetBrains Mono', monospace;">
               *Combined shipping applies automatically. Dispatched from Hendersonville, NC.
