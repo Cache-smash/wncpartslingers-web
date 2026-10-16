@@ -1,0 +1,111 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "42085",
+  "clean_mpn": "42085",
+  "title": "Engine Valve Cover Hold Down Tab Set Dorman 42085",
+  "slug": "dormanhelp-42085",
+  "upc": null,
+  "epid": "230364557",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Go a long way in reducing the possibility of oil leaks from the valve cover with Dorman's Engine Valve Cover Hold Down Tab Set. Resistant to both corrosion and breakage, they hold up for enduring use. Durable metal construction Designed not to bend or break the valve cover flange during repair Direct fit for easy replacement A rigorous quality inspection has been undertaken to ensure that this part conforms to product standards Product Specifications Housing Color: Blue Material: Metal Package Contents: Hold Down and Bolt Package Quantity: 1 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Other Engine Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "42085-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1976,
+      "year_end": 1970,
+      "engine": null,
+      "notes": "PCV"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-1Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "V8 7 OL (429 to"
+    },
+    {
+      "make": "Toyota",
+      "model": "Truck",
+      "year_start": 1998,
+      "year_end": 1994,
+      "engine": null,
+      "notes": "PCV to Valve Cover"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "= ee"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42085-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42085 Engine Valve Cover Hold Down Tab Set Dorman 42085"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42085-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42085 Engine Valve Cover Hold Down Tab Set Dorman 42085"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42085_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42085 Engine Valve Cover Hold Down Tab Set Dorman 42085"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Material": "Metal",
+      "Housing Color": "Blue",
+      "Packaging Type": "Card",
+      "Package Contents": "Hold Down and Bolt",
+      "Package Quantity": "1"
+    },
+    "Material": "Metal",
+    "oe_numbers": [],
+    "Housing Color": "Blue",
+    "Package Contents": "Hold Down and Bolt"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.083168+00:00"
+}

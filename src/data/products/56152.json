@@ -1,0 +1,92 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "56152",
+  "clean_mpn": "56152",
+  "title": "HVAC Heater Hose Fitting Connector 3/8\" Hose x 5/8\" NPT Dorman Help 56152",
+  "slug": "dormanhelp-56152",
+  "upc": null,
+  "epid": "26080123489",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Made of quality materials, this HVAC heater hose connector matches the fit and function of an original equipment connector to restore leak-free performance. Quality replacement - this heater hose connector matches the fit and function of the original equipment connector Durable construction - this heater hose connector is made of quality materials for a precise fit and leak-free durability Cost-effective solution - offers original equipment quality at competitive price Performance tested - this connector has been rigorously pressure tested to ensure reliable performance Product Specifications Color: Silver End 1 Outside Diameter: 0.625 in End 1 Type: Hose Barb End 2 Outside Diameter: 0.5 in End 2 Type: Male Thread Fitting Angle: Straight Material: Steel Package Contents: 1 Connector Quick Connect System: No Selling Package Quantity UOM: Piece Packaging Type: Card Package Quantity: 1",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air Conditioning & Heating > Other Air Conditioning & Heating",
+  "store_category": "Hoses & Tubing",
+  "department": "Hoses & Tubing",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-56152",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "56152 Heater hose fitting. Fits 5; hose, %\"' P."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56152-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 56152 HVAC Heater Hose Fitting Connector 3/8\" Hose x 5/8\" NPT Dorman Help 56152"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56152-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 56152 HVAC Heater Hose Fitting Connector 3/8\" Hose x 5/8\" NPT Dorman Help 56152"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56152_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 56152 HVAC Heater Hose Fitting Connector 3/8\" Hose x 5/8\" NPT Dorman Help 56152"
+    }
+  ],
+  "specifications": {
+    "Color": "Silver",
+    "specs": {
+      "Color": "Silver",
+      "Material": "Steel",
+      "End 1 Type": "Hose Barb",
+      "End 2 Type": "Male Thread",
+      "Fitting Angle": "Straight",
+      "Packaging Type": "Card",
+      "Package Contents": "1 Connector",
+      "Package Quantity": "1",
+      "Quick Connect System": "No",
+      "End 1 Outside Diameter": "0.625 in",
+      "End 2 Outside Diameter": "0.5 in",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "Material": "Steel",
+    "End 1 Type": "Hose Barb",
+    "End 2 Type": "Male Thread",
+    "oe_numbers": [],
+    "Fitting Angle": "Straight",
+    "Package Contents": "1 Connector",
+    "Quick Connect System": "No",
+    "End 1 Outside Diameter": "0.625 in",
+    "End 2 Outside Diameter": "0.5 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.995339+00:00"
+}

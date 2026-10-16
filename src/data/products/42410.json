@@ -1,0 +1,92 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "42410",
+  "clean_mpn": "42410",
+  "title": "Dorman Help 42410 Universal Jeep Baja Style Rubber Hood Hold Down Latch Assembly",
+  "slug": "dorman-help-42410",
+  "upc": null,
+  "epid": "230561078",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Hood no longer opening or closing properly? This replacement hood latch assembly matches the fit and function of the original equipment hood latch and is made of corrosion-resistant materials for reliable service. Direct replacement - this hood latch assembly matches the fit and function of the original equipment latch Durable construction - corrosion-resistant housing enhances this latch's durability and prevents functional deterioration Easy installation - requires no special tools to replace Quality tested - this part has undergone vehicle fitment and material testing to ensure proper fit and reliable service Product Specifications Attachment Type: Screw Color: Black and Silver Installation Instructions Included: No Length: 5.3 in Material: Rubber and Metal Package Contents: Hood Hold-down Latch Kit Universal Or Specific Fit: Universal Packaging Type: Card Package Quantity: 1",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Hoods > Hinges, Latches & Additional Hood Components",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-42410",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/7-274-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42410 Dorman Help 42410 Universal Jeep Baja Style Rubber Hood Hold Down Latch Assembly"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/7-274-001.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42410 Dorman Help 42410 Universal Jeep Baja Style Rubber Hood Hold Down Latch Assembly"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/7-274-009.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42410 Dorman Help 42410 Universal Jeep Baja Style Rubber Hood Hold Down Latch Assembly"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/7-274-007.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42410 Dorman Help 42410 Universal Jeep Baja Style Rubber Hood Hold Down Latch Assembly"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42410_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42410 Dorman Help 42410 Universal Jeep Baja Style Rubber Hood Hold Down Latch Assembly"
+    }
+  ],
+  "specifications": {
+    "Color": "Black and Silver",
+    "specs": {
+      "Color": "Black and Silver",
+      "Length": "5.3 in",
+      "Material": "Rubber and Metal",
+      "Packaging Type": "Card",
+      "Attachment Type": "Screw",
+      "Package Contents": "Hood Hold-down Latch Kit",
+      "Package Quantity": "1",
+      "Universal Or Specific Fit": "Universal",
+      "Installation Instructions Included": "No"
+    },
+    "Length": "5.3 in",
+    "Material": "Rubber and Metal",
+    "oe_numbers": [],
+    "Attachment Type": "Screw",
+    "Package Contents": "Hood Hold-down Latch Kit",
+    "Universal Or Specific Fit": "Universal",
+    "Installation Instructions Included": "No"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.042075+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "10104",
+  "clean_mpn": "10104",
+  "title": "Help 10104 Universal Speedometer Cable Kit w/ 101\" Cable, Tip & Crimping Tool",
+  "slug": "dorman-help-10104",
+  "upc": null,
+  "epid": "16080064010",
+  "description_markdown": "Authentic Dorman Help part 10104. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-10104",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Universal speedometer cable kit. 113\u2019 cable length."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 10104"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.190902+00:00"
+}

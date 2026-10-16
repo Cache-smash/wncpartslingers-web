@@ -1,0 +1,349 @@
+{
+  "brand": "Dorman",
+  "mpn": "96074",
+  "clean_mpn": "96074",
+  "title": "Dorman 96074 Air Intake Hose for 1975-76 Buick Century Electra LeSabre Olds NOS",
+  "slug": "dorman-96074",
+  "upc": null,
+  "epid": "75983413",
+  "description_markdown": "Authentic Dorman part 96074. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air & Fuel Delivery > Hoses, Lines & Pipes",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 40.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-96074",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Buick",
+      "model": "Century",
+      "year_start": 1975,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "6 cyl. 231 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "Century",
+      "year_start": 1975,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "8 cyl. 350 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "Electra",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "8 cyl. 350J Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "Electra",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "8 cyl. 455 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "Electra",
+      "year_start": 1975,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "8 cyl. 455 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "LeSabre",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "6 cyl. 231 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "LeSabre",
+      "year_start": 1975,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "8 cyl. 455 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "LeSabre",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "8 cyl. 350 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "LeSabre",
+      "year_start": 1975,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "8 cyl. 350, 400 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "Regal",
+      "year_start": 1975,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "6 cyl. 231 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "Regal",
+      "year_start": 1975,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "8 cyl. 350 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "Riviera",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "8 cyl. 455 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Buick",
+      "model": "Riviera",
+      "year_start": 1975,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "8 cyl. 455 Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "98",
+      "year_start": 1977,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "8 cyl. 350R, 403K Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "98",
+      "year_start": 1979,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "8 cyl. 350N Diesel Eng; 36\" Length - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "98",
+      "year_start": 1978,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "8 cyl. 350N Diesel Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Custom Cruiser",
+      "year_start": 1977,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "8 cyl. 350R, 403K Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Custom Cruiser",
+      "year_start": 1979,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "8 cyl. 350N Diesel Eng; 36\" Length - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Custom Cruiser",
+      "year_start": 1978,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "8 cyl. 350N Diesel Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Cutlass",
+      "year_start": 1974,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "6 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Cutlass",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Cutlass",
+      "year_start": 1974,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Cutlass Supreme",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "6 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Cutlass Supreme",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Cutlass Supreme",
+      "year_start": 1974,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Delta 88",
+      "year_start": 1977,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "8 cyl. 260F, 350R Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Delta 88",
+      "year_start": 1977,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "8 cyl. 403K Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Delta 88",
+      "year_start": 1979,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "8 cyl. 350N Diesel Eng; 36\" Length - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Delta 88",
+      "year_start": 1978,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "8 cyl. 350N Diesel Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Omega",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "8 cyl. 350J Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Omega",
+      "year_start": 1974,
+      "year_end": 1974,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Toronado",
+      "year_start": 1976,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Toronado",
+      "year_start": 1974,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Toronado",
+      "year_start": 1971,
+      "year_end": 1973,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Vista Cruiser",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Vista Cruiser",
+      "year_start": 1974,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Pontiac",
+      "model": "Grand Prix",
+      "year_start": 1977,
+      "year_end": 1977,
+      "engine": null,
+      "notes": "8 cyl. 350P, 400Z, 403K Eng - Air Intake Hose (Mighty Flow)"
+    },
+    {
+      "make": "Pontiac",
+      "model": "Ventura",
+      "year_start": 1973,
+      "year_end": 1974,
+      "engine": null,
+      "notes": "8 cyl.  - Air Intake Hose (Mighty Flow)"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman 96074"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.031407+00:00"
+}

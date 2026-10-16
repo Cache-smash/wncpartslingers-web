@@ -1,0 +1,60 @@
+{
+  "brand": "Grote",
+  "mpn": "45413",
+  "clean_mpn": "45413",
+  "title": "Grote 45413-5 Round 2-1/2\" Side Marker Light Lamp - AMBER",
+  "slug": "grote-45413",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman offers a comprehensive line of Clip / Spring Nuts for a range of automotive applications. They are available for use with a large variety of screw sizes, throat depths, and panel ranges. Constructed of high-quality materials for long-lasting durability Many different styles are available, including threaded and wide panel Packaged in a variety of piece counts for use with both small and large projects Also suitable for a broad range of industrial and commercial uses Product Specifications ACQ Rated: No Callout Size: 5/16-18 in Color: Black Integral Washer: No Material: Steel Package Contents: 2 CLIP NUTs Package Quantity: 2 Packaging Type: Card Thread Direction: Clockwise OE Numbers DIRECT OE CROSS 1494258 GENERAL MOTORS 379831S FORD MOTOR COMPANY",
+  "description_html": null,
+  "category_breadcrumb": "Clearance & Marker Lights",
+  "store_category": "Clearance & Marker Lights",
+  "department": "Clearance & Marker Lights",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Grote-45413",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Grote 45413"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Color": "Black",
+      "Material": "Steel",
+      "ACQ Rated": "No",
+      "Callout Size": "5/16-18 in",
+      "Packaging Type": "Card",
+      "Integral Washer": "No",
+      "Package Contents": "2 CLIP NUTs",
+      "Package Quantity": "2",
+      "Thread Direction": "Clockwise"
+    },
+    "oe_numbers": [
+      "379831S",
+      "1494258"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.932468+00:00"
+}

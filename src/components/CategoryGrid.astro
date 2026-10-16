@@ -1,0 +1,51 @@
+---
+// CategoryGrid.astro - Warehouse Departments & Inventory Categorization
+const categories = [
+  {
+    index: "01",
+    title: "Dorman HELP! Fasteners",
+    detail: "Clips, retainers, plugs & hardware",
+    count: "1,240 parts",
+  },
+  {
+    index: "02",
+    title: "Vintage Muscle & Truck",
+    detail: "Factory-correct restoration components",
+    count: "842 parts",
+  },
+  {
+    index: "03",
+    title: "Brake & Hydraulic",
+    detail: "Fittings, springs, lines & rebuild parts",
+    count: "616 parts",
+  },
+  {
+    index: "04",
+    title: "The 1-of-1 NOS Vault",
+    detail: "Unrepeatable warehouse discoveries",
+    count: "View 93 finds",
+  },
+];
+---
+
+<section class="category-section shell" id="categories">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Browse the warehouse</p>
+      <h2>PARTS BY DEPARTMENT</h2>
+    </div>
+    <a href="#categories">View full catalog <span>&rarr;</span></a>
+  </div>
+  <div class="category-grid">
+    {categories.map((category) => (
+      <a class="category-card" href="#categories">
+        <span class="category-number">{category.index}</span>
+        <div>
+          <h3>{category.title}</h3>
+          <p>{category.detail}</p>
+        </div>
+        <strong>{category.count} <b>&rarr;</b></strong>
+      </a>
+    ))}
+  </div>
+</section>

@@ -1,71 +1,61 @@
 ---
+// index.astro - WNCPARTSLINGERS High-Velocity Jamstack Storefront
 import '../styles/global.css';
-import { Wrench, ShieldCheck, Truck, Sparkles } from 'lucide-astro';
+import Header from '../components/Header.astro';
+import VehicleSelectorHero from '../components/VehicleSelectorHero.astro';
+import TrustStrip from '../components/TrustStrip.astro';
+import CategoryGrid from '../components/CategoryGrid.astro';
+import WarehouseFinds from '../components/WarehouseFinds.astro';
+import MechanicPicks from '../components/MechanicPicks.astro';
+import ProductDetailPreview from '../components/ProductDetailPreview.astro';
+import SellYourNOS from '../components/SellYourNOS.astro';
+import Footer from '../components/Footer.astro';
+
+const garageImage =
+  "https://images.unsplash.com/photo-1763848843732-a36a8c9c37da?auto=format&fit=crop&w=1600&q=85";
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="generator" content={Astro.generator} />
-		<title>WNCPARTSLINGERS | NOS & Vintage Automotive Components</title>
-	</head>
-	<body class="bg-slate-950 text-slate-100 min-h-screen font-sans antialiased selection:bg-amber-500 selection:text-slate-950">
-		<header class="border-b border-slate-800 bg-slate-900/60 backdrop-blur sticky top-0 z-50 px-6 py-4">
-			<div class="max-w-6xl mx-auto flex items-center justify-between">
-				<div class="flex items-center gap-3">
-					<div class="h-10 w-10 rounded-lg bg-amber-500 text-slate-950 flex items-center justify-center font-black text-xl shadow-lg shadow-amber-500/20">
-						W
-					</div>
-					<div>
-						<h1 class="text-xl font-black tracking-wider uppercase">WNCPARTSLINGERS</h1>
-						<p class="text-xs text-slate-400 font-mono">NOS & Vintage Auto Parts</p>
-					</div>
-				</div>
-				<div class="hidden sm:flex items-center gap-6 text-sm text-slate-300 font-medium">
-					<span class="flex items-center gap-1.5"><Truck class="w-4 h-4 text-amber-400" /> Ships in 24 Hrs</span>
-					<span class="flex items-center gap-1.5"><ShieldCheck class="w-4 h-4 text-emerald-400" /> Verified OEM / NOS</span>
-				</div>
-			</div>
-		</header>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+    <title>WNCPARTSLINGERS | NOS & Vintage Automotive Components</title>
+    <meta
+      name="description"
+      content="Hard-to-find New Old Stock (NOS) automotive parts, vintage factory restoration hardware, and Dorman HELP! fasteners. Warehouse direct from Hendersonville, NC."
+    />
+    <meta name="p:domain_verify" content="84b06eac7f89764d1148798575c74a4a" />
+  </head>
+  <body class="app">
+    <Header />
 
-		<main class="max-w-6xl mx-auto px-6 py-16">
-			<div class="text-center max-w-2xl mx-auto space-y-6">
-				<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-400 text-xs font-mono uppercase tracking-widest">
-					<Sparkles class="w-3.5 h-3.5" /> Project Scaffolding Complete
-				</div>
-				<h2 class="text-4xl sm:text-5xl font-black tracking-tight text-white">
-					High-Velocity Jamstack Catalog Engine
-				</h2>
-				<p class="text-slate-400 text-base leading-relaxed">
-					Pre-rendered with Astro 7, styled with Tailwind CSS, and optimized for sub-50ms automotive fitment lookups. Ready to ingest catalog assets, brand logos, and parts data.
-				</p>
-			</div>
+    <main>
+      <section class="hero">
+        <img class="hero-bg" src={garageImage} alt="" fetchpriority="high" />
+        <div class="hero-overlay"></div>
+        <div class="shell hero-content">
+          <div class="hero-copy">
+            <p class="eyebrow amber">Warehouse inventory · Western North Carolina</p>
+            <h1>THE PART THEY<br />STOPPED MAKING.</h1>
+            <p>
+              New old stock, restoration hardware, and hard-to-find fasteners—
+              cataloged by people who know the difference.
+            </p>
+          </div>
+          <VehicleSelectorHero />
+        </div>
+      </section>
 
-			<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-16">
-				<div class="p-6 rounded-xl border border-slate-800 bg-slate-900/40 hover:border-slate-700 transition">
-					<div class="p-3 rounded-lg bg-amber-500/10 text-amber-400 w-fit mb-4">
-						<Wrench class="w-6 h-6" />
-					</div>
-					<h3 class="text-lg font-bold text-white mb-2">Automotive Taxonomy</h3>
-					<p class="text-sm text-slate-400">Structured tables for thread pitch, OE interchange numbers, and Year/Make/Model fitment trees.</p>
-				</div>
-				<div class="p-6 rounded-xl border border-slate-800 bg-slate-900/40 hover:border-slate-700 transition">
-					<div class="p-3 rounded-lg bg-emerald-500/10 text-emerald-400 w-fit mb-4">
-						<ShieldCheck class="w-6 h-6" />
-					</div>
-					<h3 class="text-lg font-bold text-white mb-2">Core Web Vitals Optimized</h3>
-					<p class="text-sm text-slate-400">Zero client JavaScript by default. Static HTML guarantees sub-50ms TTFB and maximum Google SEO rank.</p>
-				</div>
-				<div class="p-6 rounded-xl border border-slate-800 bg-slate-900/40 hover:border-slate-700 transition">
-					<div class="p-3 rounded-lg bg-blue-500/10 text-blue-400 w-fit mb-4">
-						<Truck class="w-6 h-6" />
-					</div>
-					<h3 class="text-lg font-bold text-white mb-2">Edge CDN Deployment</h3>
-					<p class="text-sm text-slate-400">Ready to link with Cloudflare Pages via GitHub CLI for $0/mo hosting and automated builds.</p>
-				</div>
-			</div>
-		</main>
-	</body>
+      <TrustStrip />
+      <CategoryGrid />
+      <WarehouseFinds />
+      <MechanicPicks />
+      <ProductDetailPreview />
+      <SellYourNOS />
+    </main>
+
+    <Footer />
+  </body>
 </html>

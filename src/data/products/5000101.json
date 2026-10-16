@@ -1,0 +1,93 @@
+{
+  "brand": "KD Lamp Company",
+  "mpn": "500-0101",
+  "clean_mpn": "5000101",
+  "title": "KD Lamp Co. 500-0101  Clearance Marker Light(s) AMBER - Made in USA",
+  "slug": "kd-lamp-company-500-0101",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "<p>KD Lamp Company #500-0101 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "Clearance & Marker Lights",
+  "store_category": "Clearance & Marker Lights",
+  "department": "Clearance & Marker Lights",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 5.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "KD-500-0101",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179249/wnc_parts/DOR_500-0101/500-0101_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "KD Lamp Company 500-0101 KD Lamp Co. 500-0101  Clearance Marker Light(s) AMBER - Made in USA"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179250/wnc_parts/DOR_500-0101/500-0101_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "KD Lamp Company 500-0101 KD Lamp Co. 500-0101  Clearance Marker Light(s) AMBER - Made in USA"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179252/wnc_parts/DOR_500-0101/500-0101_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "KD Lamp Company 500-0101 KD Lamp Co. 500-0101  Clearance Marker Light(s) AMBER - Made in USA"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179253/wnc_parts/DOR_500-0101/500-0101_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "KD Lamp Company 500-0101 KD Lamp Co. 500-0101  Clearance Marker Light(s) AMBER - Made in USA"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179255/wnc_parts/DOR_500-0101/500-0101_5.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "cloudinary",
+      "alt_text": "KD Lamp Company 500-0101 KD Lamp Co. 500-0101  Clearance Marker Light(s) AMBER - Made in USA"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179256/wnc_parts/DOR_500-0101/500-0101_6.jpg",
+      "is_primary": false,
+      "order": 5,
+      "media_source": "cloudinary",
+      "alt_text": "KD Lamp Company 500-0101 KD Lamp Co. 500-0101  Clearance Marker Light(s) AMBER - Made in USA"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179258/wnc_parts/DOR_500-0101/500-0101_7.jpg",
+      "is_primary": false,
+      "order": 6,
+      "media_source": "cloudinary",
+      "alt_text": "KD Lamp Company 500-0101 KD Lamp Co. 500-0101  Clearance Marker Light(s) AMBER - Made in USA"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179260/wnc_parts/DOR_500-0101/500-0101_8.jpg",
+      "is_primary": false,
+      "order": 7,
+      "media_source": "cloudinary",
+      "alt_text": "KD Lamp Company 500-0101 KD Lamp Co. 500-0101  Clearance Marker Light(s) AMBER - Made in USA"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.939351+00:00"
+}

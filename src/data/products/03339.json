@@ -1,0 +1,62 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "03339",
+  "clean_mpn": "03339",
+  "title": "Dorman 03339 Cable Stop(s) -Universal For Up To 1/8\" Diameter Cable - Set of 2",
+  "slug": "dorman-help-03339",
+  "upc": null,
+  "epid": "229976941",
+  "description_markdown": "Authentic Dorman Help part 03339. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Safety & Security Accessories > Security > Other Security Accessories",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 6.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-03339",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03339-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 03339 Dorman 03339 Cable Stop(s) -Universal For Up To 1/8\" Diameter Cable - Set of 2"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03339-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 03339 Dorman 03339 Cable Stop(s) -Universal For Up To 1/8\" Diameter Cable - Set of 2"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03339_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 03339 Dorman 03339 Cable Stop(s) -Universal For Up To 1/8\" Diameter Cable - Set of 2"
+    }
+  ],
+  "specifications": {
+    "Color/Finish": "Silver",
+    "Cable Material": "Steel",
+    "Package Contents": "2 Cable Locks"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.189900+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "47109",
+  "clean_mpn": "47109",
+  "title": "Camaro Firebird Corvette Windshield Washer Fluid Reservoir Filter Dorman 47109",
+  "slug": "dormanhelp-47109",
+  "upc": null,
+  "epid": "112869289",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This washer fluid reservoir filter is designed to match the fit and function of the original filter on specified vehicles, and is engineered for durability and reliable performance. Direct replacement - this washer fluid reservoir filter is designed to match the fit and function of the original filter on specified vehicles Restores functionality - reliable replacement for an original part that has failed due to clogging Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1990 Chevrolet Caprice 1990 Chevrolet G10 1990 Chevrolet G20 1990 Chevrolet G30 1990 Chevrolet P30 1990 GMC G1500 1990 GMC G2500 1990 GMC G3500 1990 GMC P3500 1990 Oldsmobile Custom Cruiser 1989 Chevrolet Blazer 1989 Chevrolet Caprice 1989 Chevrolet G10 1989 Chevrolet G20 1989 Chevrolet G30 1989 Chevrolet P20 1989 Chevrolet P30 1989 Chevrolet R1500 Suburban 1989 Chevrolet R2500 1989 Chevrolet R2500 Suburban 1989 Chevrolet R3500 1989 Chevrolet V1500 Suburban 1989 Chevrolet V2500 Suburban 1989 Chevrolet V3500 1989 GMC G1500 1989 GMC G2500 1989 GMC G3500 1989 GMC Jimmy 1989 GMC P2500 1989 GMC P3500 1989 GMC R1500 Suburban 1989 GMC R2500 1989 GMC R2500 Suburban 1989 GMC R3500 1989 GMC V1500 Suburban 1989 GMC V2500 Suburban 1989 GMC V3500 1989 Oldsmobile Custom Cruiser 1989 Pontiac Safari 1988 Buick Century 1988 Buick Reatta 1988 Buick Riviera 1988 Buick Skyhawk wo/Nut 1988 Chevrolet Beretta 1988 Chevrolet Blazer 1988 Chevrolet Caprice 1988 Chevrolet Cavalier 1988 Chevrolet Celebrity 1988 Chevrolet Corsica 1988 Chevrolet G10 --> 1 234567 \u00bb Product Specifications Package ",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Wipers & Washers > Additional Wiper & Washer Components",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "47109-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47109-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 47109 Camaro Firebird Corvette Windshield Washer Fluid Reservoir Filter Dorman 47109"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47109-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 47109 Camaro Firebird Corvette Windshield Washer Fluid Reservoir Filter Dorman 47109"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47109_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 47109 Camaro Firebird Corvette Windshield Washer Fluid Reservoir Filter Dorman 47109"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "1 Reservoir Filter",
+      "Package Quantity": "1"
+    },
+    "OE_Numbers": "3986821 (GENERAL MOTORS)",
+    "oe_numbers": [
+      "3986821"
+    ],
+    "Package Contents": "1 Reservoir Filter"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.091845+00:00"
+}

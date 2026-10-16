@@ -1,0 +1,44 @@
+{
+  "brand": "Belden Automotive Wire & Cable",
+  "mpn": "730512",
+  "clean_mpn": "730512",
+  "title": "Belden Automotive 14 AWG Gauge Copper Primary Wire - 25 FT - PINK - Made in USA",
+  "slug": "belden-automotive-wire-cable-730512",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Belden Automotive Wire & Cable part 730512. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Wire & Cables",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-730512",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Belden Automotive Wire & Cable 730512"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.185519+00:00"
+}

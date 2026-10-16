@@ -1,0 +1,158 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "42124",
+  "clean_mpn": "42124",
+  "title": "Dorman Headlight Adjusting Screw 42124 Cadillac Sealed Beam 2-Pack",
+  "slug": "dormanhelp-42124",
+  "upc": null,
+  "epid": "21080040213",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This headlight adjusting screw is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance. Direct replacement - this headlight adjusting screw matches the fit and function of the factory part on specified years, makes and models Ideal solution - this screw is a reliable replacement for an original part that is missing or has failed due to fatigue Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1988 American Motors Eagle 1987 American Motors Eagle 1986 American Motors Eagle 1985 American Motors Eagle 1984 American Motors Eagle 1983 American Motors Eagle 1982 American Motors Eagle 1981 American Motors Eagle 1980 American Motors Eagle 1979 Cadillac Fleetwood 1979 Cadillac Seville 1978 Cadillac DeVille 1978 Cadillac Eldorado 1978 Cadillac Fleetwood 1978 Cadillac Seville 1977 Cadillac DeVille 1977 Cadillac Eldorado 1977 Cadillac Fleetwood 1977 Cadillac Seville 1976 Cadillac Calais 1976 Cadillac DeVille 1976 Cadillac Eldorado 1976 Cadillac Fleetwood 1976 Cadillac Seville Product Specifications Adjustable: Yes Attachment Method: Screw On Headlight Type: Sealed Beam Installation Hardware Included: No Material: Metal; Plastic Package Contents: 2 Adjusting Screw Package Quantity: 2 Universal Or Specific Fit: Specific Packaging Type: Card OE Numbers DIRECT OE CROSS 4006204 GENERAL MOTORS",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Lighting & Lamps > Other Lighting & Lamps",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "42124-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "AMERICAN MOTORS",
+      "model": "EAGLE",
+      "year_start": 1980,
+      "year_end": 1988,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CADILLAC",
+      "model": "CALAIS",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CADILLAC",
+      "model": "DEVILLE",
+      "year_start": 1976,
+      "year_end": 1978,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CADILLAC",
+      "model": "ELDORADO",
+      "year_start": 1976,
+      "year_end": 1978,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CADILLAC",
+      "model": "FLEETWOOD",
+      "year_start": 1976,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CADILLAC",
+      "model": "SEVILLE",
+      "year_start": 1976,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 42124"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Material": "Metal; Plastic",
+      "Adjustable": "Yes",
+      "Headlight Type": "Sealed Beam",
+      "Packaging Type": "Card",
+      "Package Contents": "2 Adjusting Screw",
+      "Package Quantity": "2",
+      "Attachment Method": "Screw On",
+      "Universal Or Specific Fit": "Specific",
+      "Installation Hardware Included": "No"
+    },
+    "Plastic": "Yes",
+    "Material": "Metal",
+    "fitments": [
+      {
+        "make": "AMERICAN MOTORS",
+        "model": "EAGLE",
+        "years": "1980-1988",
+        "engine": ""
+      },
+      {
+        "make": "CADILLAC",
+        "model": "CALAIS",
+        "years": "1976",
+        "engine": ""
+      },
+      {
+        "make": "CADILLAC",
+        "model": "DEVILLE",
+        "years": "1976-1978",
+        "engine": ""
+      },
+      {
+        "make": "CADILLAC",
+        "model": "ELDORADO",
+        "years": "1976-1978",
+        "engine": ""
+      },
+      {
+        "make": "CADILLAC",
+        "model": "FLEETWOOD",
+        "years": "1976-1979",
+        "engine": ""
+      },
+      {
+        "make": "CADILLAC",
+        "model": "SEVILLE",
+        "years": "1976-1979",
+        "engine": ""
+      }
+    ],
+    "Adjustable": "Yes",
+    "OE_Numbers": "4006204 (GENERAL MOTORS)",
+    "oe_numbers": [
+      "4006204"
+    ],
+    "Headlight Type": "Sealed Beam",
+    "oe_interchanges": [
+      "4006204"
+    ],
+    "Package Contents": "2 Adjusting Screw",
+    "Attachment Method": "Screw On",
+    "Universal Or Specific Fit": "Specific",
+    "Installation Hardware Included": "No"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.084225+00:00"
+}

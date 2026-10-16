@@ -1,0 +1,497 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "42055",
+  "clean_mpn": "42055",
+  "title": "Dorman Help 42055 PCV Valve Grommet - OER GM 9776721, 10198949",
+  "slug": "dorman-help-42055",
+  "upc": null,
+  "epid": "19079999075",
+  "description_markdown": "This PCV valve grommet is designed to match the fit and function of the original grommet on specified vehicles, and is engineered for durability and reliable performance.\n\n\u2022 Direct replacement - this PCV valve grommet is designed to match the fit and function of the original grommet on specified vehicles\n\u2022 Restores functionality - this grommet is made to fit and fully restore part functionality after the original grommet fails\n\u2022 Durable construction - this part is made from quality materials to ensure reliable performance and long service life\n\u2022 Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience\n\nApplication Summary:Buick 1985-75, Cadillac 2003-02, 1983-80, Chevrolet 2003-91, 1983-75, GMC 2003-91, 1983-81, Oldsmobile 1983-79, Pontiac 2001-98, 1983-73",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air & Fuel Delivery > Other Air & Fuel Delivery",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.3,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-42055",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "CID)",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "M1 To Valve Cover; 1\" Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "CID)",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "To"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "- oe.",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Cover: 1* Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "- oe.",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Cover. 1* Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "- oe.",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "- oe.",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1\" Diameter"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "VE-23"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "neve Cover, i* Diameter"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "verve"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "deve"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1963,
+      "year_end": 1982,
+      "engine": null,
+      "notes": "Ts Cover 1\" Diameter"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1980,
+      "engine": null,
+      "notes": "Tovelve Cover 1*Oremeter"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1985,
+      "year_end": 1982,
+      "engine": null,
+      "notes": "To Valve Cover, 1\" Diameter"
+    },
+    {
+      "make": "Buick",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "V8 -5.7L (350 CID) 1981 To Valve Cover, 1\u00b0 Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "V8-7 OL 430 C10!"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "L4-2.0L (122 CID) Tbe"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "CID)"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\""
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "14-161 (98CID) 1980 To Valve Cover: -+\"Diamet 1\u2019 Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "cook dopemn 19 rovave Cover -1\"Diameter {Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "L4- 2.0L stant (122 CID) 19"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1976 To Valve Cover:"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "V8 7.44 (454 CID) 1976 To Valve Cover:"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u2018GAN ave"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u00abog i a ener"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "PCy"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "; cip)",
+      "year_start": 1981,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "44 00:"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u201c431 wey ee\" Olameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "CID) ei oe"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "CID)",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "sc, 1"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "_ 14-201 (122 CID) 1983 __ToValve Cover,\" Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1983,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "To Valve Cover: 1\" Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Cover; 1\u00b0 Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- _"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "i00__ cont"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ee G10) Cover \u2014_ 1\" Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Cover:"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "(60! 1\u00b0 Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1* Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ip Cover; 1\u00b0"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\"963-22 To"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "-",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "VG-4.1L(252 CID) 1982 __ To Vaive Cover: 1* Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "-",
+      "year_start": 1983,
+      "year_end": 1982,
+      "engine": null,
+      "notes": "_ To Valve Cover: 1* Diameter;"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "-",
+      "year_start": 1976,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "To Valve Cover; 1* Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "-",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "_"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "-",
+      "year_start": 1980,
+      "year_end": 1977,
+      "engine": null,
+      "notes": "To Valve Cover: 1\u00b0 Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "-",
+      "year_start": 1983,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "To Valve Cover; 1* Diameter"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "sa sote"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42055-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42055 Dorman Help 42055 PCV Valve Grommet - OER GM 9776721, 10198949"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42055-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42055 Dorman Help 42055 PCV Valve Grommet - OER GM 9776721, 10198949"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42055-003.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42055 Dorman Help 42055 PCV Valve Grommet - OER GM 9776721, 10198949"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42055-007.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42055 Dorman Help 42055 PCV Valve Grommet - OER GM 9776721, 10198949"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42055_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42055 Dorman Help 42055 PCV Valve Grommet - OER GM 9776721, 10198949"
+    }
+  ],
+  "specifications": {
+    "Material": "Rubber",
+    "Thickness": "0.464 in",
+    "OE_Numbers": "9776721 (GENERAL MOTORS) | 10198949 (GENERAL MOTORS)",
+    "Inside Diameter": "0.711 in",
+    "Outside Diameter": "1.285 in",
+    "Package Contents": "Grommet",
+    "Attachment Method": "Push On"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.039076+00:00"
+}

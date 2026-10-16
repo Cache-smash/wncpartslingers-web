@@ -1,0 +1,44 @@
+{
+  "brand": "Counterparts Automotive Inc.",
+  "mpn": "THR2",
+  "clean_mpn": "THR2",
+  "title": "Counterparts THR2 Universal Self-Tapping Choke Tube Repair Kit w/ Copper Tubing",
+  "slug": "counterparts-automotive-inc-thr2",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Counterparts Automotive Inc. part THR2. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Choke Kits & Tubes",
+  "store_category": "Choke Kits & Tubes",
+  "department": "Choke Kits & Tubes",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 15.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-THR2",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Counterparts Automotive Inc. THR2"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.927435+00:00"
+}

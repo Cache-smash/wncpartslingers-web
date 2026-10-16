@@ -1,0 +1,97 @@
+{
+  "brand": "Dorman",
+  "mpn": "77050",
+  "clean_mpn": "77050",
+  "title": "Dorman 77050 Tailgate Handle for 80-86 Ford F-100 F-150 F-250 F-350 Trucks",
+  "slug": "dorman-77050",
+  "upc": null,
+  "epid": "24079961158",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This tailgate handle matches the fit and function of the original handle in specific vehicles. Constructed of durable materials, this handle is manufactured to quality standards to ensure reliability over the long haul. Direct replacement - this tailgate handle matches the fit and function of the original handle on specific vehicles Durable construction - this part is made of quality materials for a long service life Saves money - this tailgate handle delivers original equipment quality at a competitive price Quality assured - this tailgate handle has undergone testing to assure proper fit and durability over a long service life Detailed Applications Year Make Model Configuration Positions Application Notes 1986 Ford F-150 Chrome 1986 Ford F-250 Chrome 1986 Ford F-350 Chrome 1985 Ford F-150 Chrome 1985 Ford F-250 Chrome 1985 Ford F-350 Chrome 1984 Ford F-150 Chrome 1984 Ford F-250 Chrome 1984 Ford F-350 Chrome 1983 Ford F-100 Chrome 1983 Ford F-150 Chrome 1983 Ford F-250 Chrome 1983 Ford F-350 Chrome 1982 Ford F-100 Chrome 1982 Ford F-150 Chrome 1982 Ford F-250 Chrome 1982 Ford F-350 Chrome 1981 Ford F-100 Chrome 1981 Ford F-150 Chrome 1981 Ford F-250 Chrome 1981 Ford F-350 Chrome 1980 Ford F-100 Chrome 1980 Ford F-150 Chrome 1980 Ford F-250 Chrome 1980 Ford F-350 Chrome Product Specifications Color: Chrome Key Lock Hole: No Key Pad: No Key Pad Cutout: No Lock Cylinder/Key Included: No Material: Metal Package Contents: Handle Package Quantity: 1 Packaging Type: Card OE Numbers DIRECT OE CROSS E5TZ 9943400-B FORD MOTOR COMPANY",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Doors, Trunk Lids & Hatches > Door Handles",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 35.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "77050",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "aa. Tailgate Handle"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77050-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 77050 Dorman 77050 Tailgate Handle for 80-86 Ford F-100 F-150 F-250 F-350 Trucks"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77050-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 77050 Dorman 77050 Tailgate Handle for 80-86 Ford F-100 F-150 F-250 F-350 Trucks"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77050-001.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 77050 Dorman 77050 Tailgate Handle for 80-86 Ford F-100 F-150 F-250 F-350 Trucks"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77050_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 77050 Dorman 77050 Tailgate Handle for 80-86 Ford F-100 F-150 F-250 F-350 Trucks"
+    }
+  ],
+  "specifications": {
+    "Color": "Chrome",
+    "specs": {
+      "Color": "Chrome",
+      "Key Pad": "No",
+      "Material": "Metal",
+      "Key Lock Hole": "No",
+      "Key Pad Cutout": "No",
+      "Packaging Type": "Card",
+      "Package Contents": "Handle",
+      "Package Quantity": "1",
+      "Lock Cylinder/Key Included": "No"
+    },
+    "Key Pad": "No",
+    "Material": "Metal",
+    "OE_Numbers": "E5TZ 9943400-B (FORD MOTOR COMPANY)",
+    "oe_numbers": [
+      ""
+    ],
+    "Key Lock Hole": "No",
+    "Key Pad Cutout": "No",
+    "Package Contents": "Handle",
+    "Lock Cylinder Included": "No"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.022702+00:00"
+}

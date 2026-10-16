@@ -1,0 +1,97 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "13903",
+  "clean_mpn": "13903",
+  "title": "Dorman 13903 Brake Bleeder Screw(s) 5/16-24 X 1 In. - 1970-82 Chevrolet Corvette",
+  "slug": "dorman-help-13903",
+  "upc": null,
+  "epid": "14079933912",
+  "description_markdown": "This brake bleeder screw is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance.\n\n\u2022 Direct replacement - this brake bleeder screw matches the fit and function of the factory part on specified years, makes and models\n\u2022 Ideal solution - this screw is a reliable replacement for an original part that is missing or has failed due to fatigue\n\u2022 Durable construction - this part is made from quality materials to ensure reliable performance and long service life\n\u2022 Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience\n\nApplication Summary:Chevrolet Corvette 1982-70",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Brakes & Brake Parts > Brake Hoses, Lines & Fittings",
+  "store_category": "Brake Hardware & Hydraulics",
+  "department": "Brake Hardware & Hydraulics",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Dorman-13903",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Acura",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "t3002 Azte4"
+    },
+    {
+      "make": "Chrysler",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "13903 Brake bleeder screw. Chrysler, 45\" x 1\""
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/484-146.1-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13903 Dorman 13903 Brake Bleeder Screw(s) 5/16-24 X 1 In. - 1970-82 Chevrolet Corvette"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/484-146.1-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13903 Dorman 13903 Brake Bleeder Screw(s) 5/16-24 X 1 In. - 1970-82 Chevrolet Corvette"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/484-146.1-001.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13903 Dorman 13903 Brake Bleeder Screw(s) 5/16-24 X 1 In. - 1970-82 Chevrolet Corvette"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/484-146.1-007.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13903 Dorman 13903 Brake Bleeder Screw(s) 5/16-24 X 1 In. - 1970-82 Chevrolet Corvette"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13903_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13903 Dorman 13903 Brake Bleeder Screw(s) 5/16-24 X 1 In. - 1970-82 Chevrolet Corvette"
+    }
+  ],
+  "specifications": {
+    "Color": "Natural",
+    "Material": "Steel",
+    "OE_Numbers": "5469230 (GENERAL MOTORS)",
+    "Bolt Thread Size": "5/16-24 X 1 in",
+    "Package Contents": "1 Check Valve",
+    "Screw/Bolt Head Style": "Hex",
+    "Bleeder Screw Check Valve": "Yes"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.914251+00:00"
+}

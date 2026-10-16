@@ -1,0 +1,44 @@
+{
+  "brand": "TRW Service Line",
+  "mpn": "610135",
+  "clean_mpn": "610135",
+  "title": "TRW NOS Vintage Universal 6 & 12 Volt Accessory Power Outlet w/ Mounting Bracket",
+  "slug": "trw-service-line-610135",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic TRW Service Line part 610135. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-610135",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "TRW Service Line 610135"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.134867+00:00"
+}

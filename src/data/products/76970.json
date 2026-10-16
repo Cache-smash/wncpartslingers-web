@@ -1,0 +1,98 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76970",
+  "clean_mpn": "76970",
+  "title": "Dorman Help 76970 OER Window Crank Handle 1978-81 Honda Accord Civic & Prelude",
+  "slug": "dormanhelp-76970",
+  "upc": null,
+  "epid": "74335494",
+  "description_markdown": "Worn or broken window crank handle leading to difficult window operation? Made of durable material for reliable performance, this window crank handle replaces the original equipment handle.\n\n\u2022 Ideal replacement - this window crank handle matches the fit and function of the original equipment component\n\u2022 Durable construction - this window crank handle is made of durable material to withstand extended use\n\u2022 Easy to install - this window crank requires no special tools to install\n\u2022 Versatile design - this window crank handle is suitable for use in various locations in the vehicle\n\nApplication Summary:Honda Accord 1981-78, Honda Civic 1981-78, Honda Prelude 1980-79",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handles & Cranks",
+  "department": "Window Handles & Cranks",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-76970",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ". ee!"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1977,
+      "year_end": 1984,
+      "engine": null,
+      "notes": "Window handle. Honda 1977-1984. e@."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76970-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76970 Dorman Help 76970 OER Window Crank Handle 1978-81 Honda Accord Civic & Prelude"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76970-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76970 Dorman Help 76970 OER Window Crank Handle 1978-81 Honda Accord Civic & Prelude"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76970-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76970 Dorman Help 76970 OER Window Crank Handle 1978-81 Honda Accord Civic & Prelude"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76970_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76970 Dorman Help 76970 OER Window Crank Handle 1978-81 Honda Accord Civic & Prelude"
+    }
+  ],
+  "specifications": {
+    "Color": "Black",
+    "Material": "Plastic",
+    "Knob Color": "Textured Black",
+    "OE_Numbers": "75330679000 (HONDA) | 75330-679-010 (HONDA) | 75330679010ZA (HONDA) | 75330-679-101 (HONDA) | 75330-SA0-000ZA (HONDA)",
+    "Knob Material": "Plastic",
+    "Package Contents": "Window Crank Handle",
+    "Window Crank Shaft Attachment": "Clip"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.182224+00:00"
+}

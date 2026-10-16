@@ -1,0 +1,69 @@
+{
+  "brand": "Dorman",
+  "mpn": "82585",
+  "clean_mpn": "82585",
+  "title": "Dorman Power Steering Reservoir Cap 82585 Direct Replacement",
+  "slug": "dorman-82585",
+  "upc": null,
+  "epid": "16080075746",
+  "description_markdown": "Authentic Dorman part 82585. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Steering & Suspension > Other Steering & Suspension Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 20.25,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "82585-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman 82585"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.024695+00:00"
+}

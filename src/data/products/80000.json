@@ -1,0 +1,66 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "80000",
+  "clean_mpn": "80000",
+  "title": "Dorman Multi-Purpose O-Ring 80000 16-Piece Rubber",
+  "slug": "dormanhelp-80000",
+  "upc": null,
+  "epid": "230515040",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman offers a comprehensive line of O-rings for almost any automotive repair job. All our O-rings are constructed of high-quality materials for long-lasting durability. Available in metric and standard sizes Wide range of diameters and thickness available Conveniently packaged in a variety of piece counts to assist with both small and large projects Also suitable for a broad variety of household, industrial and commercial uses Product Specifications Color: Black Inside Diameter: 1/8 in To 3/4 in Material: Rubber O-Ring Thickness: 1/16 in To 1/8 in Outside Diameter: 1/4 in To 5/16 in Package Contents: 16 O-Rings Package Quantity: 16 Packaging Type: Card Rim Shape: Round",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Other Car & Truck Parts & Accessories",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "80000-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u201c0\u201d ring assortment. Used for compression neck or seai- ing. One each of %\" to %_\" 0.D., 4\" to %\"' 1.D., with Ye\", %42\"' oF %\"' thickness. Sixteen popular sizes, sixteen per card."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 80000"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Color": "Black",
+      "Material": "Rubber",
+      "Rim Shape": "Round",
+      "Packaging Type": "Card",
+      "Inside Diameter": "1/8 in To 3/4 in",
+      "O-Ring Thickness": "1/16 in To 1/8 in",
+      "Outside Diameter": "1/4 in To 5/16 in",
+      "Package Contents": "16 O-Rings",
+      "Package Quantity": "16"
+    },
+    "oe_numbers": []
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.099017+00:00"
+}

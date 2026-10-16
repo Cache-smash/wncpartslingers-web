@@ -1,0 +1,208 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "61110",
+  "clean_mpn": "61110",
+  "title": "Dorman Radiator Drain Petcock 61110 M12x1.25 Thread",
+  "slug": "dormanhelp-61110",
+  "upc": null,
+  "epid": "15080123710",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This radiator drain petcock is a direct replacement for the original equipment plug that may have deteriorated or corroded. Made of quality materials, this petcock is engineered to strict standards for durable use over time. Direct replacement - this radiator drain petcock matches the fit and function of the original equipment part Durable construction - this part is made of quality materials for a long service life Saves money - offers original equipment quality at a competitive price Quality assured - this petcock has undergone virtual testing to assure proper fit and function Detailed Applications Year Make Model Configuration Positions Application Notes 1994 Geo Metro Plastic 1994 Suzuki Swift Plastic 1993 Geo Metro Plastic 1993 Suzuki Swift Plastic 1992 Geo Metro Plastic 1992 Suzuki Swift Plastic 1991 Geo Metro Plastic 1991 Suzuki Swift Plastic 1991 Toyota Previa Plastic 1990 Geo Metro Plastic 1990 Mitsubishi Sigma Plastic 1990 Suzuki Swift Plastic 1989 Geo Metro Plastic 1989 Mitsubishi Sigma Plastic 1989 Suzuki Swift Plastic 1989 Toyota MR2 Left Plastic 1988 Chevrolet Sprint Plastic 1988 Dodge Colt Plastic 1988 Mitsubishi Cordia Plastic 1988 Mitsubishi Mirage Plastic 1988 Mitsubishi Tredia Plastic 1988 Plymouth Colt Plastic 1988 Toyota MR2 Left Plastic 1987 Chevrolet Sprint Plastic 1987 Dodge Colt Plastic 1987 Honda Civic Plastic 1987 Honda Wagovan Plastic 1987 Mitsubishi Cordia Plastic 1987 Mitsubishi Galant Plastic 1987 Mitsubishi Mirage Plastic 1987 Mitsubishi Tredia Plastic 1987 Plymouth Colt Plastic 1987 Toyota MR2 Left Plastic 1986 Chevrolet Sprint Plastic 1986 Dodge Colt Plastic 1986 Dodge Conquest Plastic; w/Intercooler 1986 Honda Civic Plastic 1986 Honda Wagovan Plastic 1986 Mitsubishi Cordia Plastic 1986 Mitsubishi Galant Plastic 1986 Mitsubishi Mirage Plastic 1986 Mitsubishi Tredia",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.19,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "61110-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "= SS ."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "i"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "a \u2014"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u2014\u2014"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1980 -"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1979 AT & 5-Speed"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1988,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1988,
+      "year_end": 1984,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1986,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w/intercooler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1980 -"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "7 :"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "BS Lett"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "=\""
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1986,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Intercooler"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/61110-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 61110 Dorman Radiator Drain Petcock 61110 M12x1.25 Thread"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/61110-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 61110 Dorman Radiator Drain Petcock 61110 M12x1.25 Thread"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/61110_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 61110 Dorman Radiator Drain Petcock 61110 M12x1.25 Thread"
+    }
+  ],
+  "specifications": {
+    "Color": "White",
+    "specs": {
+      "Brand": "Dorman - HELP! - Carded",
+      "Color": "White",
+      "Material": "Plastic",
+      "Thread Size": "12 mm X 1.25",
+      "Tube Length": "1.224 in",
+      "Packaging Type": "Card",
+      "Package Contents": "1 Radiator Drain Cock",
+      "Package Quantity": "1",
+      "Overall Width (in)": "0.447 in",
+      "Universal Or Specific Fit": "Specific"
+    },
+    "Material": "Plastic",
+    "OE_Numbers": "96051829 (GENERAL MOTORS) | 19011-PA0-003 (HONDA) | 19011-PA0-004 (HONDA) | 8-94208-373-0 (ISUZU) | 0710-15-203 (MAZDA) | MB007468 (MITSUBISHI) | MB007833 (MITSUBISHI) | MB044438 (MITSUBISHI) | 17751-82000 (SUZUKI) | 90910-09052 (TOYOTA) | 90910-09067 (TOYOTA) | 90910-09081 (TOYOTA)",
+    "oe_numbers": [
+      "90910-09081",
+      "90910-09052",
+      "96051829",
+      "19011-PA0-003",
+      "19011-PA0-004",
+      "90910-09067"
+    ],
+    "Thread Size": "12 mm X 1.25",
+    "Tube Length": "1.224 in",
+    "Package Contents": "1 Radiator Drain Cock",
+    "Overall Width (in)": "0.447 in",
+    "Universal Or Specific Fit": "Specific"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.095315+00:00"
+}

@@ -1,0 +1,146 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76964",
+  "clean_mpn": "76964",
+  "title": "Dorman Help 76964 Chrome Window Crank Handle for 1968-1988 Jeep CJ7 AMC Eagle",
+  "slug": "dormanhelp-76964",
+  "upc": null,
+  "epid": "9080016875",
+  "description_markdown": "Worn or broken window crank handle leading to difficult window operation? Made of durable material for reliable performance, this window crank handle replaces the original equipment handle.\n\n\u2022 Ideal replacement - this window crank handle matches the fit and function of the original equipment component\n\u2022 Durable construction - this window crank handle is made of durable material to withstand extended use\n\u2022 Easy to install - this window crank requires no special tools to install\n\u2022 Versatile design - this window crank handle is suitable for use in various locations in the vehicle\n\nApplication Summary:American Motors 1988-79, Jeep 1986-68",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handles & Cranks",
+  "department": "Window Handles & Cranks",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 14.25,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-76964",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Handle,"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ie Handle,"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "gent\u2019 Handle"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Handle"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "al Handle,"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Handle, a"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Handle,"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "197468"
+    },
+    {
+      "make": "Amc",
+      "model": "Truck",
+      "year_start": 1969,
+      "year_end": 1984,
+      "engine": null,
+      "notes": "76964 Window handle. AMC 1969-1984. * Truck Window Handles @"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76964-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76964 Dorman Help 76964 Chrome Window Crank Handle for 1968-1988 Jeep CJ7 AMC Eagle"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76964-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76964 Dorman Help 76964 Chrome Window Crank Handle for 1968-1988 Jeep CJ7 AMC Eagle"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76964-001.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76964 Dorman Help 76964 Chrome Window Crank Handle for 1968-1988 Jeep CJ7 AMC Eagle"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76964_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76964 Dorman Help 76964 Chrome Window Crank Handle for 1968-1988 Jeep CJ7 AMC Eagle"
+    }
+  ],
+  "specifications": {
+    "Color": "Chrome",
+    "Material": "Metal",
+    "Knob Color": "Black",
+    "OE_Numbers": "3726992 (CHRYSLER) | J3721181 (CHRYSLER) | J3726992 (CHRYSLER)",
+    "Knob Material": "Plastic",
+    "Package Contents": "Window Crank Handle",
+    "Window Crank Shaft Attachment": "Screw"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.180716+00:00"
+}

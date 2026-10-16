@@ -1,0 +1,964 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "42189",
+  "clean_mpn": "42189",
+  "title": "Dorman 42189 Headlight Adjust Screws Lamps for Dodge Ram Truck 50 Pickup Pair",
+  "slug": "dormanhelp-42189",
+  "upc": null,
+  "epid": "9080003506",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This headlight adjusting screw is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance. Direct replacement - this headlight adjusting screw matches the fit and function of the factory part on specified years, makes and models Ideal solution - this screw is a reliable replacement for an original part that is missing or has failed due to fatigue Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1981 Dodge D150 Round Headlights 1981 Dodge D250 Round Headlights 1981 Dodge D350 Round Headlights 1981 Dodge D400 Round Headlights 1981 Dodge D450 Round Headlights 1981 Dodge D50 Round Headlights 1981 Dodge Ramcharger Round Headlights 1981 Dodge W150 Round Headlights 1981 Dodge W250 Round Headlights 1981 Dodge W350 Round Headlights 1981 Plymouth PB150 1981 Plymouth PB250 1981 Plymouth PB350 1981 Plymouth Trailduster Round Headlights 1980 Dodge CB300 Round Headlights 1980 Dodge D150 Round Headlights 1980 Dodge D200 Round Headlights 1980 Dodge D300 Round Headlights 1980 Dodge D400 Round Headlights 1980 Dodge D450 Round Headlights 1980 Dodge D50 Round Headlights 1980 Dodge Ramcharger Round Headlights 1980 Dodge W150 Round Headlights 1980 Dodge W200 Round Headlights 1980 Dodge W300 Round Headlights 1980 Plymouth PB100 1980 Plymouth PB200 1980 Plymouth PB300 1980 Plymouth Trailduster Round Headlights 1979 Dodge Aspen 1979 Dodge CB300 Round Headlights 1979 Dodge D100 Round Headlights 1979 Dodge D150 Round Headlights 1979 Dodge D200 Round Headlights 1",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Lighting & Lamps > Other Lighting & Lamps",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "42189-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1976 Exc. SE"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1975 Custom"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "C8300 CUTAWAY : CAB"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1978,
+      "year_end": 1974,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "__",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "__",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Exc Sport"
+    },
+    {
+      "make": "Chrysler",
+      "model": "Truck",
+      "year_start": 1979,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "Headlamp adjusting screw. Chrysler. Aspen and Volare 4972-1979, Fury 1977-1979, Valiant and Dart 1975-1976."
+    },
+    {
+      "make": "CHRYSLER",
+      "model": "300",
+      "year_start": 1970,
+      "year_end": 1971,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CHRYSLER",
+      "model": "CORDOBA",
+      "year_start": 1975,
+      "year_end": 1977,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CHRYSLER",
+      "model": "IMPERIAL",
+      "year_start": 1971,
+      "year_end": 1975,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CHRYSLER",
+      "model": "NEW YORKER",
+      "year_start": 1969,
+      "year_end": 1975,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CHRYSLER",
+      "model": "NEWPORT",
+      "year_start": 1969,
+      "year_end": 1973,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "CHRYSLER",
+      "model": "TOWN & COUNTRY",
+      "year_start": 1970,
+      "year_end": 1975,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "ASPEN",
+      "year_start": 1976,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "B100",
+      "year_start": 1971,
+      "year_end": 1978,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "B200",
+      "year_start": 1972,
+      "year_end": 1978,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "B300",
+      "year_start": 1972,
+      "year_end": 1978,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "CB300",
+      "year_start": 1979,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "CHALLENGER",
+      "year_start": 1970,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "CHARGER",
+      "year_start": 1969,
+      "year_end": 1978,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "CORONET",
+      "year_start": 1969,
+      "year_end": 1975,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "D100 PICKUP",
+      "year_start": 1974,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "D150 PICKUP",
+      "year_start": 1977,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "D200 PICKUP",
+      "year_start": 1974,
+      "year_end": 1980,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "D250 PICKUP",
+      "year_start": 1981,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "D300 PICKUP",
+      "year_start": 1974,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "D350 PICKUP",
+      "year_start": 1981,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "D450 PICKUP",
+      "year_start": 1979,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "D50 PICKUP",
+      "year_start": 1981,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "DART",
+      "year_start": 1969,
+      "year_end": 1975,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "MONACO",
+      "year_start": 1970,
+      "year_end": 1978,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "POLARA",
+      "year_start": 1969,
+      "year_end": 1973,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "RAMCHARGER",
+      "year_start": 1974,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "ROYAL MONACO",
+      "year_start": 1975,
+      "year_end": 1975,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "W100 PICKUP",
+      "year_start": 1974,
+      "year_end": 1977,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "W150 PICKUP",
+      "year_start": 1977,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "W200 PICKUP",
+      "year_start": 1974,
+      "year_end": 1980,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "W300 PICKUP",
+      "year_start": 1974,
+      "year_end": 1980,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "W350 PICKUP",
+      "year_start": 1981,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "BARRACUDA",
+      "year_start": 1969,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "BELVEDERE",
+      "year_start": 1970,
+      "year_end": 1970,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "CUDA",
+      "year_start": 1970,
+      "year_end": 1973,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "DUSTER",
+      "year_start": 1970,
+      "year_end": 1976,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "FURY",
+      "year_start": 1969,
+      "year_end": 1978,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "GRAN FURY",
+      "year_start": 1972,
+      "year_end": 1975,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "GTX",
+      "year_start": 1969,
+      "year_end": 1971,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "PB100",
+      "year_start": 1976,
+      "year_end": 1980,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "PB100 VAN",
+      "year_start": 1974,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "PB150",
+      "year_start": 1981,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "PB200",
+      "year_start": 1976,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "PB200 VAN",
+      "year_start": 1974,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "PB250",
+      "year_start": 1981,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "PB300",
+      "year_start": 1976,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "PB300 VAN",
+      "year_start": 1974,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "PB350",
+      "year_start": 1981,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "ROADRUNNER",
+      "year_start": 1969,
+      "year_end": 1975,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "SATELLITE",
+      "year_start": 1969,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "SCAMP",
+      "year_start": 1971,
+      "year_end": 1976,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "SUPERBIRD",
+      "year_start": 1970,
+      "year_end": 1970,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "TRAILDUSTER",
+      "year_start": 1974,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "VALIANT",
+      "year_start": 1970,
+      "year_end": 1975,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "PLYMOUTH",
+      "model": "VOLARE",
+      "year_start": 1976,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 42189"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Material": "Metal; Plastic",
+      "Adjustable": "Yes",
+      "Headlight Type": "Sealed Beam",
+      "Packaging Type": "Card",
+      "Package Contents": "2 Adjusting Screw",
+      "Package Quantity": "2",
+      "Attachment Method": "Screw On",
+      "Universal Or Specific Fit": "Specific",
+      "Installation Hardware Included": "No"
+    },
+    "Plastic": "Yes",
+    "Material": "Metal",
+    "fitments": [
+      {
+        "make": "CHRYSLER",
+        "model": "300",
+        "years": "1970-1971",
+        "engine": ""
+      },
+      {
+        "make": "CHRYSLER",
+        "model": "CORDOBA",
+        "years": "1975-1977",
+        "engine": ""
+      },
+      {
+        "make": "CHRYSLER",
+        "model": "IMPERIAL",
+        "years": "1971-1975",
+        "engine": ""
+      },
+      {
+        "make": "CHRYSLER",
+        "model": "NEW YORKER",
+        "years": "1969-1975",
+        "engine": ""
+      },
+      {
+        "make": "CHRYSLER",
+        "model": "NEWPORT",
+        "years": "1969-1973",
+        "engine": ""
+      },
+      {
+        "make": "CHRYSLER",
+        "model": "TOWN & COUNTRY",
+        "years": "1970-1975",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "ASPEN",
+        "years": "1976-1979",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "B100",
+        "years": "1971-1978",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "B200",
+        "years": "1972-1978",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "B300",
+        "years": "1972-1978",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "CB300",
+        "years": "1979",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "CHALLENGER",
+        "years": "1970-1974",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "CHARGER",
+        "years": "1969-1978",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "CORONET",
+        "years": "1969-1975",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "D100 PICKUP",
+        "years": "1974-1979",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "D150 PICKUP",
+        "years": "1977-1981",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "D200 PICKUP",
+        "years": "1974-1980",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "D250 PICKUP",
+        "years": "1981",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "D300 PICKUP",
+        "years": "1974-1979",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "D350 PICKUP",
+        "years": "1981",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "D450 PICKUP",
+        "years": "1979-1981",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "D50 PICKUP",
+        "years": "1981",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "DART",
+        "years": "1969-1975",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "MONACO",
+        "years": "1970-1978",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "POLARA",
+        "years": "1969-1973",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "RAMCHARGER",
+        "years": "1974-1981",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "ROYAL MONACO",
+        "years": "1975",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "W100 PICKUP",
+        "years": "1974-1977",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "W150 PICKUP",
+        "years": "1977-1981",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "W200 PICKUP",
+        "years": "1974-1980",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "W300 PICKUP",
+        "years": "1974-1980",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "W350 PICKUP",
+        "years": "1981",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "BARRACUDA",
+        "years": "1969-1974",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "BELVEDERE",
+        "years": "1970",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "CUDA",
+        "years": "1970-1973",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "DUSTER",
+        "years": "1970-1976",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "FURY",
+        "years": "1969-1978",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "GRAN FURY",
+        "years": "1972-1975",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "GTX",
+        "years": "1969-1971",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "PB100",
+        "years": "1976-1980",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "PB100 VAN",
+        "years": "1974",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "PB150",
+        "years": "1981",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "PB200",
+        "years": "1976-1979",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "PB200 VAN",
+        "years": "1974",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "PB250",
+        "years": "1981",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "PB300",
+        "years": "1976-1979",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "PB300 VAN",
+        "years": "1974",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "PB350",
+        "years": "1981",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "ROADRUNNER",
+        "years": "1969-1975",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "SATELLITE",
+        "years": "1969-1974",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "SCAMP",
+        "years": "1971-1976",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "SUPERBIRD",
+        "years": "1970",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "TRAILDUSTER",
+        "years": "1974-1981",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "VALIANT",
+        "years": "1970-1975",
+        "engine": ""
+      },
+      {
+        "make": "PLYMOUTH",
+        "model": "VOLARE",
+        "years": "1976-1979",
+        "engine": ""
+      }
+    ],
+    "Adjustable": "Yes",
+    "OE_Numbers": "3574085 (CHRYSLER)",
+    "oe_numbers": [
+      "3574085"
+    ],
+    "Headlight Type": "Sealed Beam",
+    "oe_interchanges": [
+      "3574085"
+    ],
+    "Package Contents": "2 Adjusting Screw",
+    "Attachment Method": "Screw On",
+    "Universal Or Specific Fit": "Specific",
+    "Installation Hardware Included": "No"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.087224+00:00"
+}

@@ -1,0 +1,66 @@
+---
+// MechanicProductCard.astro - High-Density Automotive Catalog Product Card
+interface Props {
+  image?: string;
+  brand?: string;
+  title?: string;
+  mpn?: string;
+  price?: string;
+  thread?: string;
+  length?: string;
+  finish?: string;
+  fitment?: string;
+  stock?: string;
+}
+
+const {
+  image = "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+  brand = "Dorman / AutoGrade",
+  title = "Brake pedal return spring & retainer kit",
+  mpn = "HW-1457-NOS",
+  price = "$42.80",
+  thread = '3/8"-24',
+  length = '2.75"',
+  finish = "Zinc",
+  fitment = "✓ VERIFIED: 1967–72 GM A-BODY",
+  stock = "3 IN STOCK",
+} = Astro.props;
+---
+
+<article class="product-card">
+  <div class="product-image">
+    <img src={image} alt={title} loading="lazy" />
+    <span class="nos-flag">AUTHENTIC NOS</span>
+    <button type="button" class="watch-button" aria-label="Add to watchlist">WATCH +</button>
+  </div>
+  <div class="product-content">
+    <div class="product-meta">
+      <span>{brand}</span>
+      <span class="stock"><i></i> {stock}</span>
+    </div>
+    <h3>{title}</h3>
+    <code>MPN {mpn}</code>
+    <dl class="spec-row">
+      <div>
+        <dt>Thread</dt>
+        <dd>{thread}</dd>
+      </div>
+      <div>
+        <dt>Length</dt>
+        <dd>{length}</dd>
+      </div>
+      <div>
+        <dt>Finish</dt>
+        <dd>{finish}</dd>
+      </div>
+    </dl>
+    <div class="fitment-chip">{fitment}</div>
+    <div class="product-footer">
+      <div>
+        <span class="price">{price}</span>
+        <small>each · ready to ship</small>
+      </div>
+      <button type="button" class="add-button">Add to cart <b>+</b></button>
+    </div>
+  </div>
+</article>

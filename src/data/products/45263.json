@@ -1,0 +1,61 @@
+{
+  "brand": "Grote",
+  "mpn": "45263",
+  "clean_mpn": "45263",
+  "title": "Grote 45263 Side Marker Light AMBER Duramold 2-Bulb Oval, 1 Wire W/Optic Lens",
+  "slug": "grote-45263",
+  "upc": null,
+  "epid": "6080108431",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Constructed of quality materials, this multi-purpose retainer provides the same function and versatility as the original equipment retainer ensuring long service life. Ideal replacement - this retainer matches the fit and function of the original equipment retainer for this vehicle application Quality material - this retainer is made of durable material for long-lasting service Versatile design - this retainer is suitable for a variety of automotive uses Excellent value - this part offers original equipment quality at a competitive cost Product Specifications Center Groove Diameter: 0 in Color: Black Head Diameter: 5/8 in Material: Nylon Outside Diameter: 5/8 in Overall Length: 9/16 in Package Contents: 4 Pieces Selling Package Quantity UOM: Piece Shaft Diameter: 5/16 in Package Quantity: 4 Packaging Type: Card OE Numbers DIRECT OE CROSS 383142S FORD MOTOR COMPANY",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Clearance & Marker Lights",
+  "department": "Clearance & Marker Lights",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-45263",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Grote 45263"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Color": "Black",
+      "Material": "Nylon",
+      "Head Diameter": "5/8 in",
+      "Overall Length": "9/16 in",
+      "Packaging Type": "Card",
+      "Shaft Diameter": "5/16 in",
+      "Outside Diameter": "5/8 in",
+      "Package Contents": "4 Pieces",
+      "Package Quantity": "4",
+      "Center Groove Diameter": "0 in",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "oe_numbers": [
+      "383142S"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.932468+00:00"
+}

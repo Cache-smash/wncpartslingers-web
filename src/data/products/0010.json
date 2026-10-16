@@ -1,0 +1,44 @@
+{
+  "brand": "Allison Corp.",
+  "mpn": "0010",
+  "clean_mpn": "0010",
+  "title": "Vintage Anti-Theft Interior Door Lock Knob(s) - Ford Falcon Mustang Comet GM etc",
+  "slug": "allison-corp-0010",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Allison Corp. part 0010. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Door Lock Knobs",
+  "store_category": "Door Lock Knobs",
+  "department": "Door Lock Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-0010",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Allison Corp. 0010"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.946101+00:00"
+}

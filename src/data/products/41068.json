@@ -1,0 +1,95 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "41068",
+  "clean_mpn": "41068",
+  "title": "Dorman Spare Tire Hold Down Kit Long J-Bolt Steel For Tire Size 13\" 14\" 15 in",
+  "slug": "dorman-help-41068",
+  "upc": null,
+  "epid": "230342232",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman's Spare Tire Hold-Down is suitable for a range of applications. Constructed from high-quality materials, it provides a long service life. Comes with all necessary mounting hardware Durable metal construction Available in different assortments for a range of vehicles Universal fit for ease of installation Product Specifications Fits Tire Size: 13 in; 14 in; Or 15 in Housing Color: Black; Gold; Silver Material: Steel Package Contents: 1 Each Of The Following Long J-bolt; Hold-down Nut; and Special Retaining Plate Package Quantity: 1 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Spare Tire Carriers & Covers",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 15.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-41068",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Universal spare tire holdown kit. Includes long \u201cJ\u201d bolt for ease of installation, holdown nut and special retaining plate to securely hold all 13\u2019, 14\u2019\u201d\u2019 and 15\u201d wheels. e Other Items"
+    },
+    {
+      "make": "GM",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "41068 Universal. 4\" and fits GM, %'-20."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/41068-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 41068 Dorman Spare Tire Hold Down Kit Long J-Bolt Steel For Tire Size 13\" 14\" 15 in"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/41068-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 41068 Dorman Spare Tire Hold Down Kit Long J-Bolt Steel For Tire Size 13\" 14\" 15 in"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/41068_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 41068 Dorman Spare Tire Hold Down Kit Long J-Bolt Steel For Tire Size 13\" 14\" 15 in"
+    }
+  ],
+  "specifications": {
+    "Gold": "Yes",
+    "14 in": "Yes",
+    "specs": {
+      "Material": "Steel",
+      "Housing Color": "Black; Gold; Silver",
+      "Fits Tire Size": "13 in; 14 in; Or 15 in",
+      "Packaging Type": "Card",
+      "Package Contents": "1 Each Of The Following Long J-bolt; Hold-down Nut; and Special Retaining Plate",
+      "Package Quantity": "1"
+    },
+    "Silver": "Yes",
+    "Material": "Steel",
+    "Or 15 in": "Yes",
+    "oe_numbers": [],
+    "Hold-down Nut": "Yes",
+    "Housing Color": "Black",
+    "Fits Tire Size": "13 in",
+    "Package Contents": "1 Each Of The Following Long J-bolt",
+    "and Special Retaining Plate": "Yes"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.038074+00:00"
+}

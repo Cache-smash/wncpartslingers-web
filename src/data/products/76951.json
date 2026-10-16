@@ -1,0 +1,80 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "76951",
+  "clean_mpn": "76951",
+  "title": "Dorman Help 76951 Universal Window Handle Crank Removal Tool",
+  "slug": "dorman-help-76951",
+  "upc": null,
+  "epid": "24079964995",
+  "description_markdown": "Authentic Dorman Help part 76951. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Window Handles & Cranks",
+  "department": "Window Handles & Cranks",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 11.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-76951",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Window handle tool. Specially designed large flat blade i fits under the handle skirt, opens the retaining ring and allows han dle to be gently pried off the spline. No need to risk injury or _ damage to interior panel with pliers and/or screwdrivers. Opposite end of tool also helpful in removing trim or interior panel if required."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76951-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76951 Dorman Help 76951 Universal Window Handle Crank Removal Tool"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76951-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76951 Dorman Help 76951 Universal Window Handle Crank Removal Tool"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76951-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76951 Dorman Help 76951 Universal Window Handle Crank Removal Tool"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76951_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76951 Dorman Help 76951 Universal Window Handle Crank Removal Tool"
+    }
+  ],
+  "specifications": {
+    "Tube Length": "10 in",
+    "Handle Color": "Black",
+    "Tool Material": "Steel",
+    "Handle Material": "Steel",
+    "Package Contents": "1 Window Handle Removal Tool"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.173789+00:00"
+}

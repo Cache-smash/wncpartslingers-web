@@ -1,0 +1,64 @@
+{
+  "brand": "TRW Service Line",
+  "mpn": "620412",
+  "clean_mpn": "620412",
+  "title": "TRW 20' Power Take Off Control Cable with 4\" Travel PTO Valve Dump Truck",
+  "slug": "trw-service-line-620412",
+  "upc": null,
+  "epid": "28080161142",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This engine cooling fan assembly is precision-engineered to match the fit and performance of the stock radiator fan on specific vehicle years, makes and models. It has been rigorously tested to ensure it cools as effectively as the original part. Ideal replacement - this engine cooling fan assembly was precision-engineered to match the fit and performance of the stock radiator fan assembly on specific vehicles Complete package - assembly is designed with the same materials and components as the original part Quality assured - motors are tested in laboratory settings to ensure performance Cost effective and reliable - trustworthy manufacturing for far less than same part at the dealership Detailed Applications Year Make Model Configuration Positions Application Notes 2007 Nissan Murano 2006 Nissan Murano 2005 Nissan Murano 2004 Nissan Murano 2003 Nissan Murano Product Specifications Blade Material: Plastic Connector Gender: Male Connector Quantity: 1 Fan Quantity: 2 Motor Type: Brushed Package Contents: 1 Condenser Fan Assembly Package Quantity: 1 Packaging Type: Box Shroud Color: Black Shroud Included: Yes Shroud Material: Plastic Terminal Quantity: 4 OE Numbers DIRECT OE CROSS 21481-CA000 NISSAN 21481-CA00A NISSAN 21481CA00B NISSAN",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engine Cooling Components > Fan & Shroud Assemblies",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 100.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-620412",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "TRW Service Line 620412"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Motor Type": "Brushed",
+      "Fan Quantity": "2",
+      "Shroud Color": "Black",
+      "Blade Material": "Plastic",
+      "Packaging Type": "Box",
+      "Shroud Included": "Yes",
+      "Shroud Material": "Plastic",
+      "Connector Gender": "Male",
+      "Package Contents": "1 Condenser Fan Assembly",
+      "Package Quantity": "1",
+      "Terminal Quantity": "4",
+      "Connector Quantity": "1"
+    },
+    "oe_numbers": [
+      "21481-CA000",
+      "21481-CA00A",
+      "21481CA00B"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.199608+00:00"
+}

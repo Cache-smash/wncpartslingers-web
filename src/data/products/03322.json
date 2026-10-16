@@ -1,0 +1,80 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "03322",
+  "clean_mpn": "03322",
+  "title": "Dorman 03322 Hood Release Cable Kit",
+  "slug": "dorman-help-03322",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "<p>Dorman #03322 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "Wire & Cables",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-03322",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179050/wnc_parts/DOR_03322/03322_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 03322 Dorman 03322 Hood Release Cable Kit"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179051/wnc_parts/DOR_03322/03322_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 03322 Dorman 03322 Hood Release Cable Kit"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179053/wnc_parts/DOR_03322/03322_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 03322 Dorman 03322 Hood Release Cable Kit"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179055/wnc_parts/DOR_03322/03322_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 03322 Dorman 03322 Hood Release Cable Kit"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "AUDI",
+        "model": "TT",
+        "years": "2008-2014",
+        "engine": ""
+      }
+    ],
+    "oe_interchanges": [
+      "8J0411105BC",
+      "8J0411105CP",
+      "8J0411105CQ",
+      "90178154"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.188895+00:00"
+}

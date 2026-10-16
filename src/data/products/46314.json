@@ -1,0 +1,53 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "46314",
+  "clean_mpn": "46314",
+  "title": "Dorman Help 46314 Headlight Spring Hook & Brake Spring Puller Hook Tool",
+  "slug": "dorman-help-46314",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Dorman Help part 46314. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Tools & Equipment",
+  "store_category": "Tools & Equipment",
+  "department": "Tools & Equipment",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-46314",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Headlamp spring tool. Hooked end easily catches the end of the spring allowing removal or installation without damaging other headlamp parts. May be used for any type spring. @ BRAKE, WHEEL AND SUSPENSION TOOLS"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 46314"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.156983+00:00"
+}

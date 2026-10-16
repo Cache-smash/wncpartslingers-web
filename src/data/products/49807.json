@@ -1,0 +1,75 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "49807",
+  "clean_mpn": "49807",
+  "title": "Dorman Help 49807 9 Piece Spark Plug Wire End Assortment - Made in USA",
+  "slug": "dormanhelp-49807",
+  "upc": null,
+  "epid": "8079994929",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman's Spark Plug Wire End Plugs are available in multiple styles for a range of applications. The assortment contains three straight plug ends, three 90- degree plug ends, and three distributor cap ends. Constructed from high-quality materials for long-lasting durability Easy to install Provide a tight, secure fit for spark plug wires Rigorous quality control measures ensure conformance to product standards Product Specifications Package Contents: 1 Assortment Package Quantity: 1 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Ignition Systems & Components > Other Ignition Systems & Components",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-49807",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "_",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u201coe 9303 CELEBRITY /"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49807-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 49807 Dorman Help 49807 9 Piece Spark Plug Wire End Assortment - Made in USA"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49807-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 49807 Dorman Help 49807 9 Piece Spark Plug Wire End Assortment - Made in USA"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49807_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 49807 Dorman Help 49807 9 Piece Spark Plug Wire End Assortment - Made in USA"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "1 Assortment",
+      "Package Quantity": "1"
+    },
+    "oe_numbers": [],
+    "Package Contents": "1 Assortment"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.192900+00:00"
+}

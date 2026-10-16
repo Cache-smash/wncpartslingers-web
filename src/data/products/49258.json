@@ -1,0 +1,101 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "49258",
+  "clean_mpn": "49258",
+  "title": "Dorman Help 49258 Universal License Plate Retainer Kit",
+  "slug": "dormanhelp-49258",
+  "upc": null,
+  "epid": "230016604",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This license plate retainer matches the fit and function of the original equipment part. Made of durable materials, this retainer is designed to reliably secure the license plate to the body. Direct replacement - this license plate retainer matches the fit and function on the original retainer Durable construction - this part is made of quality materials for a long service life Saves money - offers original equipment quality at a competitive price Quality assured - this license plate retainer has undergone virtual testing to ensure proper fit and function Product Specifications Color: White/zinc Clear Material: Metal; Plastic Package Contents: 14 X 5/8 Security Screw; 1/4 Nylon Push Nut Size: 5/8 Packaging Type: Card Package Quantity: 4",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > License Plates & Frames",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.95,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-49258",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Security screw kit. Provents theft. Screws on with flat blade screw driver but requires special tool to remove. Four screws and nuts per card. #14 x 5%\u201d tamper proof screws/with nylon nuts. 1."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1786351475/wnc_parts/DOR_49258/49258_1.webp",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 49258 Dorman Help 49258 Universal License Plate Retainer Kit"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1786351476/wnc_parts/DOR_49258/49258_2.webp",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 49258 Dorman Help 49258 Universal License Plate Retainer Kit"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49258-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 49258 Dorman Help 49258 Universal License Plate Retainer Kit"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49258-003.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 49258 Dorman Help 49258 Universal License Plate Retainer Kit"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49258_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 49258 Dorman Help 49258 Universal License Plate Retainer Kit"
+    }
+  ],
+  "specifications": {
+    "Size": "5/8",
+    "Brand": "Dorman",
+    "Color": "White/zinc Clear",
+    "specs": {
+      "Size": "5/8",
+      "Color": "White/zinc Clear",
+      "Material": "Metal; Plastic",
+      "Packaging Type": "Card",
+      "Package Contents": "14 X 5/8 Security Screw; 1/4 Nylon Push Nut",
+      "Package Quantity": "4"
+    },
+    "Plastic": "Yes",
+    "Material": "Metal",
+    "oe_numbers": [],
+    "Fitment Type": "Direct Replacement",
+    "Package Contents": "14 X 5/8 Security Screw",
+    "1/4 Nylon Push Nut": "Yes",
+    "Interchange Part Number": "",
+    "Manufacturer Part Number": "49258"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.092841+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "56237",
+  "clean_mpn": "56237",
+  "title": "Dorman Help 56237 HVAC Heater Hose Fitting 3/4\" Hose x 1/2\" NPT x 2-\u00be\" Long",
+  "slug": "dorman-help-56237",
+  "upc": null,
+  "epid": "13080087283",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Made of quality materials, this HVAC heater hose connector matches the fit and function of an original equipment connector to restore leak-free performance. Quality replacement - this heater hose connector matches the fit and function of the original equipment connector Durable construction - this heater hose connector is made of quality materials for a precise fit and leak-free durability Cost-effective solution - offers original equipment quality at competitive price Performance tested - this connector has been rigorously pressure tested to ensure reliable performance Product Specifications End 1 Outside Diameter: 0.75 in End 1 Type: Hose Barb End 2 Outside Diameter: 0.6 in End 2 Type: Male Thread Fitting Angle: Straight Material: Steel Package Contents: 1 Heater Hose Fitting Quick Connect System: No Selling Package Quantity UOM: Piece Packaging Type: Card Package Quantity: 1",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air Conditioning & Heating > Other Air Conditioning & Heating",
+  "store_category": "Hoses & Tubing",
+  "department": "Hoses & Tubing",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 11.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-56237",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Heater hose fitting. Fits 44\u201d hose, 1\" P-"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56237-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56237 Dorman Help 56237 HVAC Heater Hose Fitting 3/4\" Hose x 1/2\" NPT x 2-\u00be\" Long"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56237-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56237 Dorman Help 56237 HVAC Heater Hose Fitting 3/4\" Hose x 1/2\" NPT x 2-\u00be\" Long"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56237_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56237 Dorman Help 56237 HVAC Heater Hose Fitting 3/4\" Hose x 1/2\" NPT x 2-\u00be\" Long"
+    }
+  ],
+  "specifications": {
+    "Type": "Hose Bypass",
+    "Color": "Silver",
+    "Shape": "Cylinder",
+    "specs": {
+      "Material": "Steel",
+      "End 1 Type": "Hose Barb",
+      "End 2 Type": "Male Thread",
+      "Fitting Angle": "Straight",
+      "Packaging Type": "Card",
+      "Package Contents": "1 Heater Hose Fitting",
+      "Package Quantity": "1",
+      "Quick Connect System": "No",
+      "End 1 Outside Diameter": "0.75 in",
+      "End 2 Outside Diameter": "0.6 in",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "Thread": "Yes",
+    "End Type": "Hose Barb",
+    "Material": "Steel",
+    "End 1 Type": "Hose Barb",
+    "End 2 Type": "NPT Thread",
+    "oe_numbers": [],
+    "End Quantity": "2",
+    "Bypass Length": "2.75 in",
+    "Fitting Angle": "Straight",
+    "Bypass Quantity": "1",
+    "Package Contents": "1 Heater Hose Fitting",
+    "Hose Inside Diameter": "0.603 in",
+    "Quick Connect System": "No",
+    "End 1 Inside Diameter": "0.603 in",
+    "End 2 Inside Diameter": "0.603 in",
+    "Tube Outside Diameter": "0.846 In",
+    "Bypass Inside Diameter": "0.603 in",
+    "End 1 Outside Diameter": "0.846 In",
+    "End 2 Outside Diameter": "0.71 in",
+    "End 3 Outside Diameter": "0.846 In",
+    "Bypass Outside Diameter": "0.846 In",
+    "Fitting Size End 1 (in)": "0.846 In",
+    "Fitting Size End 2 (in)": "0.71 in",
+    "Fitting Attachment End Type 1": "Hose Barb",
+    "Fitting Attachment End Type 2": "Threaded"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.992826+00:00"
+}

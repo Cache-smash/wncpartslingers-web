@@ -1,0 +1,82 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "13921",
+  "clean_mpn": "13921",
+  "title": "Dorman Help 13921 20752 OER Brake Pedal Pad 1966-89 Ford Mustang Mercury Cougar",
+  "slug": "dormanhelp-13921",
+  "upc": null,
+  "epid": "168873341",
+  "description_markdown": "Authentic Dorman/Help part 13921. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Pedal Assemblies, Pads & Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-13921",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "AUDI",
+      "model": "A4",
+      "year_start": 2000,
+      "year_end": 2001,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "VOLKSWAGEN",
+      "model": "PASSAT",
+      "year_start": 1999,
+      "year_end": 2005,
+      "engine": null,
+      "notes": null
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 13921"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "AUDI",
+        "model": "A4",
+        "years": "2000-2001",
+        "engine": ""
+      },
+      {
+        "make": "VOLKSWAGEN",
+        "model": "PASSAT",
+        "years": "1999-2005",
+        "engine": ""
+      }
+    ],
+    "oe_interchanges": [
+      "including Genco",
+      "sorted",
+      "038903018E",
+      "06B903016A"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.064386+00:00"
+}

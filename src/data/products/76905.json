@@ -1,0 +1,84 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76905",
+  "clean_mpn": "76905",
+  "title": "Dorman 76905 Window Handle Knob for 1971-1995 GM Chevrolet Buick Pontiac - BLACK",
+  "slug": "dormanhelp-76905",
+  "upc": null,
+  "epid": "168896079",
+  "description_markdown": "<div align=\"center\" style=\"font-family: Arial, sans-serif; text-align: center; color: #222; max-width: 800px; margin: 0 auto; line-height: 1.5;\"> <h2 style=\"font-size: 20px; font-weight: bold; margin-bottom: 8px;\">Dorman Help 76905 </h2> <p style=\"font-size: 16px; font-weight: bold; margin-top: 4px; margin-bottom: 12px;\">Exact Original Equipment Duplicate</p> <p style=\"font-size: 15px; font-weight: bold; margin-bottom: 12px;\">Replaces the following OE #s: 20348200 (GENERAL MOTORS)</p> <p style=\"font-size: 15px; font-weight: bold; margin-bottom: 16px;\">Direct OE Replacement Fitment</p> <div style=\"font-size: 14px; font-weight: bold; margin-bottom: 16px;\"> <p style=\"margin: 4px 0;\">Attachment Method: Snap On</p> <p style=\"margin: 4px 0;\">Color: Black</p> <p style=\"margin: 4px 0;\">Material: Plastic</p> <p style=\"margin: 4px 0;\">Outside Diameter: 1.25 in</p> <p style=\"margin: 4px 0;\">Package Contents: Knob ; Attaching Hardware</p> <p style=\"margin: 4px 0;\">Package Quantity: 1</p> <p style=\"margin: 4px 0;\">Packaging Type: Card</p> <p style=\"margin: 4px 0;\">Universal Or Specific Fit: Universal</p> <p style=\"margin: 4px 0;\">Window Crank Shaft Attachment Diameter (in): 0.3 in</p> </div> <p style=\"font-size: 14px; font-weight: bold; margin-top: 24px; color: #444;\">*Shipping will combine at checkout.</p></div>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handle Knobs",
+  "department": "Window Handle Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-76905",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "GM",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Window handle knob. GM, black."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76905-002.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76905 Dorman 76905 Window Handle Knob for 1971-1995 GM Chevrolet Buick Pontiac - BLACK"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76905-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76905 Dorman 76905 Window Handle Knob for 1971-1995 GM Chevrolet Buick Pontiac - BLACK"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76905-001.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76905 Dorman 76905 Window Handle Knob for 1971-1995 GM Chevrolet Buick Pontiac - BLACK"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76905_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76905 Dorman 76905 Window Handle Knob for 1971-1995 GM Chevrolet Buick Pontiac - BLACK"
+    }
+  ],
+  "specifications": {
+    "Color": "Black",
+    "Material": "Plastic",
+    "OE_Numbers": "20348200 (GENERAL MOTORS)",
+    "Outside Diameter": "1.25 in",
+    "Package Contents": "Knob",
+    "Attachment Method": "Snap On",
+    "Attaching Hardware": "Yes",
+    "Universal Or Specific Fit": "Universal",
+    "Window Crank Shaft Attachment Diameter (in)": "0.3 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.163662+00:00"
+}

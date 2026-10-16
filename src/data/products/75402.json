@@ -1,0 +1,82 @@
+{
+  "brand": "Dorman",
+  "mpn": "75402",
+  "clean_mpn": "75402",
+  "title": "Dorman Door Lock Knob 75402 Direct Replacement Interior Lock Pin",
+  "slug": "dorman-75402",
+  "upc": null,
+  "epid": "2351068536",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Missing or damaged knob making it difficult to lock or unlock a door from the inside? Designed to fit like original equipment, this convenient solution easily restores the vehicle's door lock function and interior appearance. Ideal replacement - this door lock knob replacement fits and functions like original equipment Authentic appearance - designed to blend seamlessly with the vehicle's original interior finish Convenient solution - offers original equipment quality without the hassle of sourcing from the dealership Quality tested - has undergone try-on testing to ensure a quality fit Product Specifications Package Contents: 1 Knob and 1 Grommet Package Quantity: 1 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Exterior Locks & Lock Hardware",
+  "store_category": "Door Lock Knobs",
+  "department": "Door Lock Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "75402-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chrysler",
+      "model": "Truck",
+      "year_start": 1965,
+      "year_end": 1984,
+      "engine": null,
+      "notes": "Door lock knob. For Chrysler cars and trucks, all 1965-1984. One knob and two door panel grommets per card."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75402-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 75402 Dorman Door Lock Knob 75402 Direct Replacement Interior Lock Pin"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75402-001.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 75402 Dorman Door Lock Knob 75402 Direct Replacement Interior Lock Pin"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75402-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 75402 Dorman Door Lock Knob 75402 Direct Replacement Interior Lock Pin"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75402_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 75402 Dorman Door Lock Knob 75402 Direct Replacement Interior Lock Pin"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "1 Knob and 1 Grommet",
+      "Package Quantity": "1"
+    },
+    "oe_numbers": [],
+    "Package Contents": "1 Knob and 1 Grommet"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.947437+00:00"
+}

@@ -1,0 +1,654 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76910",
+  "clean_mpn": "76910",
+  "title": "Dorman Help 76910 Window Crank Handle Fits 1952-84 General Motors GM Clear Knob",
+  "slug": "dormanhelp-76910",
+  "upc": null,
+  "epid": "10079980482",
+  "description_markdown": "Worn or broken window crank handle leading to difficult window operation? Made of durable material for reliable performance, this window crank handle replaces the original equipment handle.\n\n\u2022 Ideal replacement - this window crank handle matches the fit and function of the original equipment component\n\u2022 Durable construction - this window crank handle is made of durable material to withstand extended use\n\u2022 Easy to install - this window crank requires no special tools to install\n\u2022 Versatile design - this window crank handle is suitable for use in various locations in the vehicle\n\nApplication Summary:Buick 1981-65, Cadillac 1968-67, Chevrolet 1981-67, GMC 1981-72, Oldsmobile 1981-65, Pontiac 1981-67",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handle Knobs",
+  "department": "Window Handle Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help_76910",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "uA"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Handle, w/Clear"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Chrome Handle, le, w, w/Clear Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w/Clear Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1968,
+      "year_end": 1967,
+      "engine": null,
+      "notes": "Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "aes Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w/Clear"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "iets w/Clear Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Chrome w/Clear Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "sas"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1980,
+      "year_end": 469,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1988 Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w,Clear Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Hood"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "CWAER F910 w/"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1968"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w,"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "_w."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1969,
+      "engine": null,
+      "notes": "__ChromeHance.wtearKnop Chrome Handle. \u00ab, Crear Knob 7891"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "__ 1968 Chrome Handle. w Clear biearknop Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w,"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Chrome Handle, w: Clear Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "yoneg"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "@> \"ORS rome Sante Oba Cat"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "i Sate nate a Oe Aa"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ag"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Fo rare Net aw Der at"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "JOSS eee"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Ivove wee Cee Knot"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w Knob"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\"981 Chrome Handle, Clear Knob"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Chrome Handle. w Clear Knob"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "196\" Chrome Handle. Clear Knob"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "_ *FBU-BY Chrome Handle, Clear Knob"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u201cGEL\u00b0> Chrome Handie, w, Clear Knob"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "7 198-69 Chrome Handle w/Clear Knob"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1968,
+      "year_end": 1967,
+      "engine": null,
+      "notes": "Chrome Handle wClearKnod"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1972,
+      "year_end": 1969,
+      "engine": null,
+      "notes": "Chrome Handle w. Cleat Knab"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1960,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "Chrome"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1960,
+      "year_end": 1969,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1968,
+      "year_end": 1967,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "GRAND SAFARI"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "GRANDVILLE"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "G10"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w/Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1980,
+      "year_end": 1969,
+      "engine": null,
+      "notes": "Chrome w/Clea Knoo"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1968,
+      "year_end": 1967,
+      "engine": null,
+      "notes": "wiBlack Xnoo"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "PARISIENNE"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w. Knoo"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "_"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "_"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "TRANS SPORT"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "GM",
+      "model": "Truck",
+      "year_start": 1952,
+      "year_end": 1984,
+      "engine": null,
+      "notes": "Window handle. GM, 1952-1984. c"
+    },
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "76910 and #"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76910-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76910 Dorman Help 76910 Window Crank Handle Fits 1952-84 General Motors GM Clear Knob"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76910-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76910 Dorman Help 76910 Window Crank Handle Fits 1952-84 General Motors GM Clear Knob"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76910-002.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76910 Dorman Help 76910 Window Crank Handle Fits 1952-84 General Motors GM Clear Knob"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76910_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76910 Dorman Help 76910 Window Crank Handle Fits 1952-84 General Motors GM Clear Knob"
+    }
+  ],
+  "specifications": {
+    "Color": "Chrome",
+    "Material": "Metal",
+    "Arm Width": "2.047 in",
+    "Arm Length": "5.039 in",
+    "Knob Color": "Clear",
+    "OE_Numbers": "20037597 (GENERAL MOTORS) | 20041444 (GENERAL MOTORS) | 7689654 (GENERAL MOTORS) | 7689666 (GENERAL MOTORS) | 7689670 (GENERAL MOTORS) | 7689672 (GENERAL MOTORS) | 7767324 (GENERAL MOTORS) | 7767326 (GENERAL MOTORS) | 7767327 (GENERAL MOTORS) | 7767333 (GENERAL MOTORS) | 8732961 (GENERAL MOTORS) | 8732962 (GENERAL MOTORS) | 9715962 (GENERAL MOTORS)",
+    "Knob Material": "Plastic",
+    "Package Contents": "Window Crank Handle",
+    "Locking Clip Included": "Yes",
+    "Mounting Shaft Diameter": "0.453 in",
+    "Window Crank Shaft Attachment": "Clip"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.164664+00:00"
+}

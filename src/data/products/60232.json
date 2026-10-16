@@ -1,0 +1,53 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "60232",
+  "clean_mpn": "60232",
+  "title": "Dorman Help 60232 Universal 8 Row Fuse Block  for Glass Fuses Cut to Any Length",
+  "slug": "dorman-help-60232",
+  "upc": null,
+  "epid": "230517138",
+  "description_markdown": "Authentic Dorman Help part 60232. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Leaf & Coil Springs",
+  "store_category": "Fuses & Fusible Links",
+  "department": "Fuses & Fusible Links",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-60232",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Fuse block. Universal type, Holds elght fuses. Each clip fit. ted with solder lug for secure low voltage drop connections. e@."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 60232"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.984870+00:00"
+}

@@ -1,0 +1,267 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "04991",
+  "clean_mpn": "04991",
+  "title": "Dorman Front Spindle Lock Nut Kit 04991 3/4-16 Thread Ford F-150 F-250",
+  "slug": "dormanhelp-04991",
+  "upc": null,
+  "epid": "24080054777",
+  "description_markdown": "<p>Dorman #04991 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Transmission & Drivetrain > Other Transmission & Drivetrain",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "04991-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "FORD",
+      "model": "E-100",
+      "year_start": 1975,
+      "year_end": 1983,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "E-150",
+      "year_start": 1984,
+      "year_end": 1986,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "E-250",
+      "year_start": 1980,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "E-350",
+      "year_start": 1980,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F SUPER DUTY",
+      "year_start": 1988,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F-100",
+      "year_start": 1975,
+      "year_end": 1983,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F-150",
+      "year_start": 1975,
+      "year_end": 1986,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F-250",
+      "year_start": 1975,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F-350",
+      "year_start": 1980,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F53",
+      "year_start": 1988,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F59",
+      "year_start": 1988,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "RANGER",
+      "year_start": 1983,
+      "year_end": 1983,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "Ford / Lincoln",
+      "model": "Mustang",
+      "year_start": 1958,
+      "year_end": 1969,
+      "engine": null,
+      "notes": "Ford 1958-1969, all except Fairlane, Mustang and Falcon. Lincoln/Mer- cury, all excapt Comet and Couga"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179067/wnc_parts/DOR_04991/04991_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 04991 Dorman Front Spindle Lock Nut Kit 04991 3/4-16 Thread Ford F-150 F-250"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179068/wnc_parts/DOR_04991/04991_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 04991 Dorman Front Spindle Lock Nut Kit 04991 3/4-16 Thread Ford F-150 F-250"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/05191-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 04991 Dorman Front Spindle Lock Nut Kit 04991 3/4-16 Thread Ford F-150 F-250"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/05191-005.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 04991 Dorman Front Spindle Lock Nut Kit 04991 3/4-16 Thread Ford F-150 F-250"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/04991_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 04991 Dorman Front Spindle Lock Nut Kit 04991 3/4-16 Thread Ford F-150 F-250"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "FORD",
+        "model": "E-100",
+        "years": "1975-1983",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "E-150",
+        "years": "1984-1986",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "E-250",
+        "years": "1980-1989",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "E-350",
+        "years": "1980-1989",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F SUPER DUTY",
+        "years": "1988-1989",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F-100",
+        "years": "1975-1983",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F-150",
+        "years": "1975-1986",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F-250",
+        "years": "1975-1989",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F-350",
+        "years": "1980-1989",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F53",
+        "years": "1988-1989",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F59",
+        "years": "1988-1989",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "RANGER",
+        "years": "1983",
+        "engine": ""
+      }
+    ],
+    "OE_Numbers": "3173401 (AMERICAN MOTORS) | J3173401 (AMERICAN MOTORS) | 1673324 (CHRYSLER) | 374536-S (FORD MOTOR COMPANY) | 390622-S (FORD MOTOR COMPANY) | C2AZ 1195-A (FORD MOTOR COMPANY) | 40264-68200 (NISSAN)",
+    "Thread Size": "3/4-16",
+    "One Time Use": "Yes",
+    "oe_interchanges": [
+      "Kit",
+      "Thread Size: 3/4-16",
+      "1673324",
+      "3173401",
+      "374536S",
+      "390622S",
+      "4026468200",
+      "C2AZ1195A",
+      "J3173401"
+    ],
+    "Package Contents": "Spindle Lock Nut Kit"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.062339+00:00"
+}

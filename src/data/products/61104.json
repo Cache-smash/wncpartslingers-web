@@ -1,0 +1,83 @@
+{
+  "brand": "Dorman Help, Service Supply Co.",
+  "mpn": "61104",
+  "clean_mpn": "61104",
+  "title": "Dorman Help 61104 Universal 1/4\" NPT Radiator Drain Cock Drain Plug",
+  "slug": "dorman-help-service-supply-co-61104",
+  "upc": null,
+  "epid": "7080093280",
+  "description_markdown": "<p>Dorman #61104 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Power Steering Pumps",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 5.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-61104",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1963,
+      "year_end": 1991,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1988,
+      "year_end": 1987,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Drain cock, standard. 44\" P.T. . d,"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179402/wnc_parts/WNC_61104/61104_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help, Service Supply Co. 61104 Dorman Help 61104 Universal 1/4\" NPT Radiator Drain Cock Drain Plug"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179404/wnc_parts/WNC_61104/61104_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help, Service Supply Co. 61104 Dorman Help 61104 Universal 1/4\" NPT Radiator Drain Cock Drain Plug"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179406/wnc_parts/WNC_61104/61104_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help, Service Supply Co. 61104 Dorman Help 61104 Universal 1/4\" NPT Radiator Drain Cock Drain Plug"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.953575+00:00"
+}

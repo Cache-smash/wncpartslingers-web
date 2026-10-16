@@ -1,0 +1,119 @@
+{
+  "brand": "JT&T",
+  "mpn": "2598H",
+  "clean_mpn": "2598H",
+  "title": "JT&T 2598F 1/2\" Universal Instrument Panel 'Cluster' Light Bulb Socket",
+  "slug": "jtt-2598h",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "<p>JT&T #2598H Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "2598H-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179092/wnc_parts/WNC_2598H/2598H_1.webp",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "JT&T 2598H JT&T 2598F 1/2\" Universal Instrument Panel 'Cluster' Light Bulb Socket"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179094/wnc_parts/WNC_2598H/2598H_2.webp",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "JT&T 2598H JT&T 2598F 1/2\" Universal Instrument Panel 'Cluster' Light Bulb Socket"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179095/wnc_parts/WNC_2598H/2598H_3.webp",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "JT&T 2598H JT&T 2598F 1/2\" Universal Instrument Panel 'Cluster' Light Bulb Socket"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "AUDI",
+        "model": "A4",
+        "years": "2009-2020",
+        "engine": ""
+      },
+      {
+        "make": "AUDI",
+        "model": "A4 ALLROAD",
+        "years": "2017-2018",
+        "engine": ""
+      },
+      {
+        "make": "AUDI",
+        "model": "A5",
+        "years": "2010-2023",
+        "engine": ""
+      },
+      {
+        "make": "AUDI",
+        "model": "A6",
+        "years": "2012-2018",
+        "engine": ""
+      },
+      {
+        "make": "AUDI",
+        "model": "ALLROAD",
+        "years": "2013",
+        "engine": ""
+      },
+      {
+        "make": "AUDI",
+        "model": "Q7",
+        "years": "2017-2018",
+        "engine": ""
+      },
+      {
+        "make": "AUDI",
+        "model": "RS5",
+        "years": "2018-2023",
+        "engine": ""
+      },
+      {
+        "make": "AUDI",
+        "model": "S4",
+        "years": "2018-2020",
+        "engine": ""
+      },
+      {
+        "make": "AUDI",
+        "model": "S5",
+        "years": "2018-2023",
+        "engine": ""
+      }
+    ],
+    "oe_interchanges": [
+      "8K0598611",
+      "WA512557HD"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.109363+00:00"
+}

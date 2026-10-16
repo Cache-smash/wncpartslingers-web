@@ -1,0 +1,44 @@
+{
+  "brand": "MOOG",
+  "mpn": "K6327",
+  "clean_mpn": "K6327",
+  "title": "MOOG K6327 Suspension Control Arm Bushing Kit fits Chevrolet C1500",
+  "slug": "moog-k6327",
+  "upc": null,
+  "epid": "76935429",
+  "description_markdown": "Authentic MOOG part K6327. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Steering & Suspension Bushings",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 22.05,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "K6327-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "MOOG K6327"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.116165+00:00"
+}

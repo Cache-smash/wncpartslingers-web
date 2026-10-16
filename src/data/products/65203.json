@@ -1,0 +1,87 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65203",
+  "clean_mpn": "65203",
+  "title": "Dorman 65203 Oil Drain Plug Magnetic 1/2-20, Head Size 3/4 In.",
+  "slug": "dormanhelp-65203",
+  "upc": null,
+  "epid": "193415408",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles. It is engineered to replace a missing or damaged plug and help ensure a secure seal. Direct replacement - this engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles Ideal solution - engineered to replace a missing or damaged plug and help ensure a secure seal Durable construction - designed and manufactured to strict specifications for reliable performance Trustworthy quality - backed by a team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 2006 Dodge Ram 1500 V10 505 8.3L (8275cc) 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 2005 Dodge Ram 1500 V10 505 8.3L (8275cc) 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 2004 Dodge Ram 1500 V10 505 8.3L (8275cc) 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 2003 Dodge Viper 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 2002 Dodge Viper 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 2001 Dodge Viper 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 2000 AM General Hummer 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 2000 Dodge Viper 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 1999 AM General Hummer 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 1999 Dodge Viper 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 1998 AM General Hummer 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 1998 Dodge Viper 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 1997 AM General Hummer 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 1997 Dodge Viper 1/2 In. x 20 Thread; 3/4 In. Head; Magnetic Plug 1996 AM General Hummer 1/2 In. x 20 Thread; 3/4 In. Hea",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Oil Drain Plugs, Filler Caps & Dipsticks",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65203-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179445/wnc_parts/DOR_65203/65203_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65203 Dorman 65203 Oil Drain Plug Magnetic 1/2-20, Head Size 3/4 In."
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179446/wnc_parts/DOR_65203/65203_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65203 Dorman 65203 Oil Drain Plug Magnetic 1/2-20, Head Size 3/4 In."
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Color": "Silver",
+      "Length": "0.751 in",
+      "Magnetic": "Yes",
+      "Material": "Steel",
+      "Bolt Grade": "3",
+      "Gasket Type": "Gasket",
+      "Thread Size": "1/2-20",
+      "Thread Type": "Fine",
+      "Drain Method": "Conventional",
+      "Thread Pitch": "20",
+      "Describe Type": "Magnetic",
+      "SAE or Metric": "SAE",
+      "Socket Points": "M6 -1.0",
+      "Head Tool Size": "3/4 in",
+      "Packaging Type": "Card",
+      "Head Drive Type": "Hex",
+      "Thread Diameter": "1/2 in",
+      "Oversized Thread": "No",
+      "Package Contents": "1 Oil Drain Plug",
+      "Package Quantity": "1",
+      "Threads Per Inch": "20",
+      "Special Tool Required": "No",
+      "Gasket Or Seal Included": "Yes"
+    },
+    "oe_numbers": [
+      "944740",
+      "J3206696",
+      "23011420",
+      "4763739",
+      "2372661",
+      "337185",
+      "3866776"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.955585+00:00"
+}

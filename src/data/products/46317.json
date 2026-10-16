@@ -1,0 +1,53 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "46317",
+  "clean_mpn": "46317",
+  "title": "Dorman Help 46317 Universal Solid Rubber Heater Hose Plug Kit 1/2\", 5/8\" & 3/4\"",
+  "slug": "dorman-help-46317",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Dorman Help part 46317. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Hoses & Tubing",
+  "store_category": "Hoses & Tubing",
+  "department": "Hoses & Tubing",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-46317",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Heater hose plugs. Solid rubber plugs fit all 2\", 54\" and *4\u201d\u2019 hoses. Allows use of vehicle when heater ig removed for service. Chain keeps plugs together and can be used to hang disconnected hoses. Also fits PCV hoses. NEW @."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 46317"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.992826+00:00"
+}

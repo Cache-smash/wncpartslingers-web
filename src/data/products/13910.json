@@ -1,0 +1,92 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "13910",
+  "clean_mpn": "13910",
+  "title": "Dorman Help 13910 Universal Master Cylinder Bleeder Kit 3/8\" 7/16\" 1/2\" & 9/16\"",
+  "slug": "dorman-help-13910",
+  "upc": null,
+  "epid": "230509338",
+  "description_markdown": "Authentic Dorman Help part 13910. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Shop Equipment & Supplies > Brake Service Tools",
+  "store_category": "Brake Hardware & Hydraulics",
+  "department": "Brake Hardware & Hydraulics",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 15.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-13910",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13910-010.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13910 Dorman Help 13910 Universal Master Cylinder Bleeder Kit 3/8\" 7/16\" 1/2\" & 9/16\""
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13910-011.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13910 Dorman Help 13910 Universal Master Cylinder Bleeder Kit 3/8\" 7/16\" 1/2\" & 9/16\""
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13910-009.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13910 Dorman Help 13910 Universal Master Cylinder Bleeder Kit 3/8\" 7/16\" 1/2\" & 9/16\""
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13910-012.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13910 Dorman Help 13910 Universal Master Cylinder Bleeder Kit 3/8\" 7/16\" 1/2\" & 9/16\""
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13910-007.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13910 Dorman Help 13910 Universal Master Cylinder Bleeder Kit 3/8\" 7/16\" 1/2\" & 9/16\""
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13910_1.jpg",
+      "is_primary": false,
+      "order": 5,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13910 Dorman Help 13910 Universal Master Cylinder Bleeder Kit 3/8\" 7/16\" 1/2\" & 9/16\""
+    }
+  ],
+  "specifications": {
+    "Rubber": "Yes",
+    "Material": "Plastic",
+    "1/2 in-20": "Yes",
+    "7/16 in-24": "Yes",
+    "9/16 in-18": "Yes",
+    "9/16 in-20": "Yes",
+    "Package Contents": "(1) 22 in Hose",
+    "Bleeder Tubing Included": "Yes",
+    "Bleeder Adapters Included": "Yes",
+    "Bleeder Pressure Gauge Included": "No",
+    "Master Cylinder Adapter Included": "No",
+    "(1) Clip and (1) Each Of The Following Size Fittings 3/8 in-24": "Yes"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.915327+00:00"
+}

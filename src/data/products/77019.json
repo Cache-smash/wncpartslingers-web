@@ -1,0 +1,108 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "77019",
+  "clean_mpn": "77019",
+  "title": "Drivers Side Exterior Door Handle for 1970-81 Chevy Pontiac Dorman Help 77019",
+  "slug": "dormanhelp-77019",
+  "upc": null,
+  "epid": "17080116573",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Want a new exterior door handle that matches the original, for far less than going back to the dealership? This replacement door handle was engineered to match the fit and appearance of the stock handle on specific vehicle years, makes and models. Matching appearance - this replacement exterior door handle was specifically designed to look and function the same as the original handle on particular vehicles Seamless replacement - designed to match the dimensions and specifications of the handle that came stock on the vehicle Excellent value - original equipment quality at a lower price Ensure fit - this handle is vehicle position specific, so double check you have the correct handle for the same position and side of the vehicle you want to replace Detailed Applications Year Make Model Configuration Positions Application Notes 1981 Chevrolet Camaro Front Left Bright Finish 1981 Pontiac Firebird Front Left Bright Finish 1980 Buick Skyhawk Front Left Bright Finish 1980 Chevrolet Camaro Front Left Bright Finish 1980 Chevrolet Monza Front Left Bright Finish 1980 Oldsmobile Starfire Front Left Bright Finish 1980 Pontiac Firebird Front Left Bright Finish 1980 Pontiac Sunbird Front Left Bright Finish 1979 Buick Skyhawk Front Left Bright Finish 1979 Chevrolet Camaro Front Left Bright Finish 1979 Chevrolet Monza Front Left Bright Finish 1979 Oldsmobile Starfire Front Left Bright Finish 1979 Pontiac Firebird Front Left Bright Finish 1979 Pontiac Sunbird Front Left Bright Finish 1978 Buick Skyhawk Front Left Bright Finish 1978 Chevrolet Camaro Front Left Bright Finish 1978 Chevrolet Monza Front Left Bright Finish 1978 Oldsmobile Starfire Front Left Bright Finish 1978 Pontiac Firebird Front Left Bright Finish 1978 Pontiac Sunbird Front Left Bright Finish 1977 Buick Skyhawk Front Left Bright Finish 1977 Chevrolet",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Doors, Trunk Lids & Hatches > Door Handles",
+  "store_category": "Exterior Door Handles",
+  "department": "Exterior Door Handles",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 15.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-77019",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "BROOKWOOD",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Bright"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BROOKWOOD",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Bright"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77019-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 77019 Drivers Side Exterior Door Handle for 1970-81 Chevy Pontiac Dorman Help 77019"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77019-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 77019 Drivers Side Exterior Door Handle for 1970-81 Chevy Pontiac Dorman Help 77019"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77019-001.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 77019 Drivers Side Exterior Door Handle for 1970-81 Chevy Pontiac Dorman Help 77019"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77019_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 77019 Drivers Side Exterior Door Handle for 1970-81 Chevy Pontiac Dorman Help 77019"
+    }
+  ],
+  "specifications": {
+    "Color": "Chrome",
+    "specs": {
+      "Color": "Chrome",
+      "Key Pad": "No",
+      "Material": "Metal",
+      "Key Lock Hole": "No",
+      "Keys Included": "No",
+      "Key Pad Cutout": "No",
+      "Packaging Type": "Card",
+      "Package Contents": "Exterior Door Handle",
+      "Package Quantity": "1"
+    },
+    "Key Pad": "No",
+    "Material": "Metal",
+    "OE_Numbers": "20099253 (GENERAL MOTORS) | 20099255 (GENERAL MOTORS) | 3060797 (GENERAL MOTORS) | 9827571 (GENERAL MOTORS)",
+    "oe_numbers": [
+      "3060797",
+      "20099253",
+      "20099255",
+      "9827571"
+    ],
+    "Key Lock Hole": "No",
+    "Keys Included": "No",
+    "Key Pad Cutout": "No",
+    "Package Contents": "Exterior Door Handle"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.965344+00:00"
+}

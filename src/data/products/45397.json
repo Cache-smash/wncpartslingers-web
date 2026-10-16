@@ -1,0 +1,105 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "45397",
+  "clean_mpn": "45397",
+  "title": "Dorman Help 45397 Hood Rod Retainer Clip Pinto Mustang Hood Prop Rod",
+  "slug": "dorman-help-45397",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "<p>Dorman #45397 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.99,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-45397",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179195/wnc_parts/DOR_45397/45397_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 45397 Dorman Help 45397 Hood Rod Retainer Clip Pinto Mustang Hood Prop Rod"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179197/wnc_parts/DOR_45397/45397_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 45397 Dorman Help 45397 Hood Rod Retainer Clip Pinto Mustang Hood Prop Rod"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179198/wnc_parts/DOR_45397/45397_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 45397 Dorman Help 45397 Hood Rod Retainer Clip Pinto Mustang Hood Prop Rod"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179200/wnc_parts/DOR_45397/45397_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 45397 Dorman Help 45397 Hood Rod Retainer Clip Pinto Mustang Hood Prop Rod"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179201/wnc_parts/DOR_45397/45397_5.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 45397 Dorman Help 45397 Hood Rod Retainer Clip Pinto Mustang Hood Prop Rod"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179203/wnc_parts/DOR_45397/45397_6.jpg",
+      "is_primary": false,
+      "order": 5,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 45397 Dorman Help 45397 Hood Rod Retainer Clip Pinto Mustang Hood Prop Rod"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "GLB200",
+        "years": "2021-2024",
+        "engine": ""
+      },
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "GLB220",
+        "years": "2025",
+        "engine": ""
+      },
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "GLB250",
+        "years": "2020-2025",
+        "engine": ""
+      }
+    ],
+    "oe_interchanges": [
+      "545-397",
+      "safe operation.",
+      "2473308701"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.044076+00:00"
+}

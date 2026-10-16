@@ -1,0 +1,74 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "45319",
+  "clean_mpn": "45319",
+  "title": "Dorman 45319  Interior Trim Panel Clip Assortment 10 Pack",
+  "slug": "dormanhelp-45319",
+  "upc": null,
+  "epid": "230337654",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This interior panel clip is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance. Direct replacement - this interior panel clip matches the fit and function of the factory part on specified years, makes and models Ideal solution - this clip is a reliable replacement for an original part that is missing or has failed due to fatigue Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Product Specifications Color: Black and White Fastener Type: Trim Panel Clip Material: Nylon Package Contents: Trim Panel Clips - Nylon - Assortment - 10 Pcs. Package Quantity: 10 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Other Interior Parts & Accessories",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "45319-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "GM / Ford / Chrysler / Amc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Door panel retainer assortment. Specially molded nylon retainers to hold door panel to door frame on GM, Chrysler, Ford and AMC. Four sizes, ten pieces per card."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45319-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 45319 Dorman 45319  Interior Trim Panel Clip Assortment 10 Pack"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45319_1.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 45319 Dorman 45319  Interior Trim Panel Clip Assortment 10 Pack"
+    }
+  ],
+  "specifications": {
+    "Color": "Black and White",
+    "specs": {
+      "Color": "Black and White",
+      "Material": "Nylon",
+      "Fastener Type": "Trim Panel Clip",
+      "Packaging Type": "Card",
+      "Package Contents": "Trim Panel Clips - Nylon - Assortment - 10 Pcs.",
+      "Package Quantity": "10"
+    },
+    "Material": "Nylon",
+    "oe_numbers": [],
+    "Fastener Type": "Trim Panel Clip",
+    "Package Contents": "Trim Panel Clips - Nylon - Assortment - 10 Pcs."
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.088828+00:00"
+}

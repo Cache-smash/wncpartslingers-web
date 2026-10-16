@@ -1,0 +1,75 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76992",
+  "clean_mpn": "76992",
+  "title": "Dorman  76992 OER Chrome Interior Door Handle for IHC Trucks 862106R2",
+  "slug": "dormanhelp-76992",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Dorman/Help part 76992. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Interior Door Handles",
+  "store_category": "Interior Door Handles",
+  "department": "Interior Door Handles",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 25.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "76992-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "76992"
+    },
+    {
+      "make": "International",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "76992 interlor door handle. International Harvester. * Door Hinge Pin and Bushing Kits Replaces worn sticking hinge pins and bushings for smoother, even door operation. Worn or damaged hinge pins cause door to rub or scrape fender or trim and will not line up with latch. Test by opening door and noting If It drops down. Pull up on door at point farthest vom bushing and note looseness. Pins made of high tensile strength eel."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294185/wnc_parts/Dorman_Help_76992/76992_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 76992 Dorman  76992 OER Chrome Interior Door Handle for IHC Trucks 862106R2"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294186/wnc_parts/Dorman_Help_76992/76992_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 76992 Dorman  76992 OER Chrome Interior Door Handle for IHC Trucks 862106R2"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294187/wnc_parts/Dorman_Help_76992/76992_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 76992 Dorman  76992 OER Chrome Interior Door Handle for IHC Trucks 862106R2"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.996889+00:00"
+}

@@ -1,0 +1,168 @@
+{
+  "brand": "Dorman (OE Solutions)",
+  "mpn": "14552",
+  "clean_mpn": "14552",
+  "title": "Dorman 14552 Clutch Fork for 2012-13 INFINITI M35h New Old Stock",
+  "slug": "dorman-oe-solutions-14552",
+  "upc": null,
+  "epid": "26080003575",
+  "description_markdown": "Authentic Dorman (OE Solutions) part 14552. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 40.94,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-14552",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Aes \u2018WY To Viti #0G0001"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "SAS SRT"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "5 VATS, \u201cFETS"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "5A VLOG \u2018TS To AN #DG0061"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "5 VL OO \u201cGI2-77"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "4RUNNER",
+      "year_start": 1984,
+      "year_end": 1984,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "TOYOTA",
+      "model": "PICKUP",
+      "year_start": 1981,
+      "year_end": 1984,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "TOYOTA",
+      "model": "4RUNNER",
+      "year_start": 1984,
+      "year_end": 1984,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "TOYOTA",
+      "model": "PICKUP",
+      "year_start": 1981,
+      "year_end": 1984,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "TOYOTA",
+      "model": "4RUNNER",
+      "year_start": 1984,
+      "year_end": 1984,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "TOYOTA",
+      "model": "PICKUP",
+      "year_start": 1981,
+      "year_end": 1984,
+      "engine": null,
+      "notes": null
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790266477/wnc_parts/Dorman__OE_Solutions__14552/14552_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman (OE Solutions) 14552 Dorman 14552 Clutch Fork for 2012-13 INFINITI M35h New Old Stock"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790266556/wnc_parts/Dorman__OE_Solutions__14552/14552_1.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman (OE Solutions) 14552 Dorman 14552 Clutch Fork for 2012-13 INFINITI M35h New Old Stock"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790266484/wnc_parts/Dorman__OE_Solutions__14552/14552_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman (OE Solutions) 14552 Dorman 14552 Clutch Fork for 2012-13 INFINITI M35h New Old Stock"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "TOYOTA",
+        "model": "4RUNNER",
+        "years": "1984",
+        "engine": ""
+      },
+      {
+        "make": "TOYOTA",
+        "model": "PICKUP",
+        "years": "1981-1984",
+        "engine": ""
+      }
+    ],
+    "oe_interchanges": [
+      "MPA14552",
+      "10463731",
+      "19134629",
+      "2702035050"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.031407+00:00"
+}

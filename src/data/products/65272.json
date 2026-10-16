@@ -1,0 +1,59 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65272",
+  "clean_mpn": "65272",
+  "title": "Dorman 65272 Engine Oil Drain Plug Nylon Gasket 9/16\" M14 Pack of 5",
+  "slug": "dormanhelp-65272",
+  "upc": null,
+  "epid": "191946447",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description These oil drain plug gaskets are designed to specific sizes and standards for reliable replacement at every oil change. Direct replacement - these engine oil drain plug gaskets are made to match the fit and performance of the original equipment components Restores functionality - built to restore a proper seal Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 2001 Ford Explorer OHV; V6 245 4.0L 2001 Ford Explorer V8 302 5.0L 2001 Mercury Mountaineer V8 302 5.0L Nylon Gasket 2000 Ford Explorer OHV; V6 245 4.0L 2000 Ford Explorer V8 302 5.0L 2000 Ford Ranger V6 245 4.0L 2000 Mercury Mountaineer V8 302 5.0L Nylon Gasket 1999 Ford Explorer OHV; V6 245 4.0L 1999 Ford Explorer V8 302 5.0L 1999 Ford Ranger V6 245 4.0L 1999 Mercury Mountaineer V8 302 5.0L Nylon Gasket 1998 Ford Explorer OHV; V6 245 4.0L 1998 Ford Explorer V8 302 5.0L 1998 Ford Ranger V6 245 4.0L Nylon Gasket 1998 Mercury Mountaineer V8 302 5.0L Nylon Gasket 1997 Ford Aerostar V6 245 4.0L Nylon Gasket 1997 Ford Contour L4 121 2.0L (1989cc) Nylon Gasket 1997 Ford Explorer OHV; V6 245 4.0L 1997 Ford Explorer V8 302 5.0L 1997 Ford Ranger V6 245 4.0L Nylon Gasket 1997 Mercury Mountaineer Nylon Gasket 1997 Mercury Mystique L4 121 2.0L (1989cc) Nylon Gasket 1996 Ford Aerostar V6 245 4.0L Nylon Gasket 1996 Ford Contour L4 121 2.0L (1989cc) Nylon Gasket 1996 Ford Explorer V8 302 5.0L 1996 Ford Ranger V6 245 4.0L Nylon Gasket 1996 Mercury Mystique L4 121 2.0L (1989cc) Nylon Gasket 1995 Ford Aerostar V6 245 4.0L 1995 Ford Contour L4 121 2.0L (1989cc) Nylon Gasket 1995 Ford Explorer ",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Gaskets, Seals & Hardware > Gaskets & Seals",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65272-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179470/wnc_parts/DOR_65272/65272_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65272 Dorman 65272 Engine Oil Drain Plug Nylon Gasket 9/16\" M14 Pack of 5"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Material": "Nylon",
+      "Thickness": "1.75 mm",
+      "Packaging Type": "Card",
+      "Inside Diameter": "0.502 in",
+      "Outside Diameter": "0.866 in",
+      "Package Contents": "5 Nylon Gasket",
+      "Package Quantity": "5",
+      "Gasket Thickness (in)": "0.053 in"
+    },
+    "oe_numbers": [
+      "5203148"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.958585+00:00"
+}

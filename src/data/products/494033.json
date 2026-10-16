@@ -1,0 +1,44 @@
+{
+  "brand": "Dorman Products",
+  "mpn": "494-033",
+  "clean_mpn": "494033",
+  "title": "5/16\" ID Barb Mender Straight Union Splicer Brass Fitting Water, Fuel, Air, Gas",
+  "slug": "dorman-products-494-033",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Dorman Products part 494-033. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Fittings & Adapters",
+  "store_category": "Fittings & Adapters",
+  "department": "Fittings & Adapters",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-494033",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Products 494-033"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.977182+00:00"
+}

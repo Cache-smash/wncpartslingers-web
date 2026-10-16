@@ -1,0 +1,44 @@
+{
+  "brand": "TRW Service Line",
+  "mpn": "622254",
+  "clean_mpn": "622254",
+  "title": "NEW TRW Forged Lift Arm Pin 1-\u215b\" Dia. x 5-\u00bc\" Long x \u215e-14 Thread Category 1 to 2",
+  "slug": "trw-service-line-622254",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic TRW Service Line part 622254. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-622254",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "TRW Service Line 622254"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.138847+00:00"
+}

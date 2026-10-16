@@ -1,0 +1,70 @@
+---
+// OEInterchangeBadges.astro - Interchange Cross-Reference Matrix with 1-Click Clipboard Copy
+interface Props {
+  references?: Array<[string, string]>;
+}
+
+const {
+  references = [
+    ["FORD", "D4AZ-7A039-A"],
+    ["DORMAN", "14557"],
+    ["MOTORCRAFT", "BR-112"],
+    ["WAGNER", "H7034"],
+  ],
+} = Astro.props;
+---
+
+<section class="interchange-box">
+  <div class="interchange-header">
+    <div>
+      <p class="eyebrow amber">Cross-reference matrix</p>
+      <h3>OE interchange numbers</h3>
+    </div>
+    <span>{references.length} verified references</span>
+  </div>
+  <div class="interchange-list">
+    {references.map(([brand, part]) => (
+      <div class="interchange-row">
+        <span>{brand}</span>
+        <code>{part}</code>
+        <button
+          type="button"
+          class="copy-mpn-btn"
+          data-mpn={part}
+          aria-label={`Copy ${part}`}
+        >
+          <span class="btn-text">COPY MPN</span>
+          <span class="copy-tip">Copied to clipboard</span>
+        </button>
+      </div>
+    ))}
+  </div>
+  <p class="interchange-footnote">
+    Numbers shown for interchange only. Match dimensions and application before installation.
+  </p>
+</section>
+
+<script>
+  document.querySelectorAll('.copy-mpn-btn').forEach((btn) => {
+    btn.addEventListener('click', async (e) => {
+      const button = e.currentTarget as HTMLButtonElement;
+      const mpn = button.getAttribute('data-mpn');
+      const tip = button.querySelector('.copy-tip');
+      const text = button.querySelector('.btn-text');
+
+      if (mpn && navigator.clipboard) {
+        try {
+          await navigator.clipboard.writeText(mpn);
+          if (text) text.textContent = 'COPIED';
+          tip?.classList.add('show');
+          setTimeout(() => {
+            if (text) text.textContent = 'COPY MPN';
+            tip?.classList.remove('show');
+          }, 1600);
+        } catch (err) {
+          console.error('Failed to copy', err);
+        }
+      }
+    });
+  });
+</script>

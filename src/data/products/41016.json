@@ -1,0 +1,80 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "41016",
+  "clean_mpn": "41016",
+  "title": "Dorman Help 41016 Carburetor Throttle Rod Linkage Clip Assortment",
+  "slug": "dormanhelp-41016",
+  "upc": null,
+  "epid": "230486724",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman offers a line of Throttle Rod Couplings for a many different applications. All our Throttle Rod Couplings are engineered from high-quality materials for a long service life. Conveniently packaged in varied assortments Each assortment contain a range of quantities, sizes and styles Easy to install Rigorous quality control measures have been undertaken to ensure that this part conforms to product standards Product Specifications Color: Black Material: Metal Package Contents: Linkage Clip Assortment - Universal - 6 Pcs. Package Quantity: 6 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air & Fuel Delivery > Carburetor Parts",
+  "store_category": "Carburetor Parts & Kits",
+  "department": "Carburetor Parts & Kits",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help_41016",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "41016 Carburetor linkage ollp assortment. Conaisis of five assorted sizes : on one car"
+    },
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Linkage clip assortment. Many carburetor, air contro! and other uses. Five popular sizes per card. O 13 oak Ye\u201d 4L mm, %\" 7A mm, S49\" 2L Am Se OR ne each 8\u00b0 4A mm,"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/41016-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 41016 Dorman Help 41016 Carburetor Throttle Rod Linkage Clip Assortment"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/41016_1.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 41016 Dorman Help 41016 Carburetor Throttle Rod Linkage Clip Assortment"
+    }
+  ],
+  "specifications": {
+    "Color": "Black",
+    "specs": {
+      "Color": "Black",
+      "Material": "Metal",
+      "Packaging Type": "Card",
+      "Package Contents": "Linkage Clip Assortment - Universal - 6 Pcs.",
+      "Package Quantity": "6"
+    },
+    "Material": "Metal",
+    "oe_numbers": [],
+    "Package Contents": "Linkage Clip Assortment - Universal - 6 Pcs."
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.920706+00:00"
+}

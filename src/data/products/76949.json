@@ -1,0 +1,78 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76949",
+  "clean_mpn": "76949",
+  "title": "Dorman Help 76949 Universal Chrome Multi-Purpose Utility Knob",
+  "slug": "dormanhelp-76949",
+  "upc": null,
+  "epid": "230383507",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Multi-purpose knobs serve a wide range of automotive, truck, industrial, commercial and household project uses. Dorman offers a variety of knobs, including ones that can be used to control functions such as headlights and temperature on certain vehicles. Check the product dimensions, style and construction to select the best knob or assortment for your needs. Many uses - Dorman offers a variety of knobs for automotive and other applications, including ones that can be used to control functions such as headlights and temperature on certain vehicles Ideal solution - when an original equipment knob is broken or missing, a multi-purpose knob can be a reliable replacement solution Ensure fit - check the product dimensions, style and construction to select the best knob or assortment of knobs for your needs Quality construction - engineered for a hassle-free installation and made from quality high-strength materials for long service life Product Specifications Package Contents: 1 Multi-Purpose Knob Package Quantity: 1 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Other Car & Truck Parts & Accessories",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.25,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-76949",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Universal utility knob. Used to replace various interior knobs with %e\u00ab\" shaft size or smaller where secure set screw attach- ment is desired. Bright metalized plastic. * Gear Shift Handle Knobs. Sturdy OEM duplicate. High impact plastic replacement knobs for broken or missing gon\" shift knobs. Facilitates shifting and promotes safety. installation Instructions are given on the back of each card."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1786351467/wnc_parts/DOR_76949/76949_1.avif",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 76949 Dorman Help 76949 Universal Chrome Multi-Purpose Utility Knob"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1786351468/wnc_parts/DOR_76949/76949_2.avif",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 76949 Dorman Help 76949 Universal Chrome Multi-Purpose Utility Knob"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1786351469/wnc_parts/DOR_76949/76949_3.avif",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 76949 Dorman Help 76949 Universal Chrome Multi-Purpose Utility Knob"
+    }
+  ],
+  "specifications": {
+    "Brand": "Dorman",
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "1 Multi-Purpose Knob",
+      "Package Quantity": "1"
+    },
+    "oe_numbers": [],
+    "Fitment Type": "Direct Replacement",
+    "Interchange Part Number": "35008134 (CHRYSLER), 35025104 (CHRYSLER)",
+    "Manufacturer Part Number": "76949"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.098352+00:00"
+}

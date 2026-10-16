@@ -1,0 +1,72 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65219",
+  "clean_mpn": "65219",
+  "title": "Dorman 65219 Oil Drain Plug Pilot Point M16-1.50 Peugeot 505 Volvo 760 1983-1990",
+  "slug": "dormanhelp-65219",
+  "upc": null,
+  "epid": "6080019442",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles. It is engineered to replace a missing or damaged plug and help ensure a secure seal. Direct replacement - this engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles Ideal solution - engineered to replace a missing or damaged plug and help ensure a secure seal Durable construction - designed and manufactured to strict specifications for reliable performance Trustworthy quality - backed by a team of product experts in the United States and more than a century of automotive experience Product Specifications Bolt Grade: 3 Color: Silver Describe Type: Pilot Point Drain Method: Conventional Gasket Or Seal Included: Yes Gasket Type: Gasket Head Drive Type: Hex Head Tool Size: 17 mm Length: 0.847 in Magnetic: No Material: Steel Oversized Thread: No Package Contents: 1 Oil Drain Plug SAE or Metric: Metric Socket Points: M6 -1.0 Special Tool Required: No Thread Diameter: 16 mm Thread Size: M16-1.50 Thread Type: Fine Threads Per Inch: 0 Package Quantity: 1 Brand: Dorman - AutoGrade - Oil-Tite! Packaging Type: Card Thread Pitch: 1.5 mm",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Oil Drain Plugs, Filler Caps & Dipsticks",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65219-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 65219"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Color": "Silver",
+      "Length": "0.847 in",
+      "Magnetic": "No",
+      "Material": "Steel",
+      "Bolt Grade": "3",
+      "Gasket Type": "Gasket",
+      "Thread Size": "M16-1.50",
+      "Thread Type": "Fine",
+      "Drain Method": "Conventional",
+      "Thread Pitch": "1.5 mm",
+      "Describe Type": "Pilot Point",
+      "SAE or Metric": "Metric",
+      "Socket Points": "M6 -1.0",
+      "Head Tool Size": "17 mm",
+      "Packaging Type": "Card",
+      "Head Drive Type": "Hex",
+      "Thread Diameter": "16 mm",
+      "Oversized Thread": "No",
+      "Package Contents": "1 Oil Drain Plug",
+      "Package Quantity": "1",
+      "Threads Per Inch": "0",
+      "Special Tool Required": "No",
+      "Gasket Or Seal Included": "Yes"
+    },
+    "oe_numbers": []
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.957586+00:00"
+}

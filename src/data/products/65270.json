@@ -1,0 +1,70 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65270",
+  "clean_mpn": "65270",
+  "title": "Dorman Engine Oil Drain Plug Gasket 65270 Nylon 5-Pack",
+  "slug": "dormanhelp-65270",
+  "upc": null,
+  "epid": "193695190",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description These oil drain plug gaskets are designed to specific sizes and standards for reliable replacement at every oil change. Direct replacement - these engine oil drain plug gaskets are made to match the fit and performance of the original equipment components Restores functionality - built to restore a proper seal Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 2002 Chrysler Prowler V6 215 3.5L (3497cc) Nylon Gasket 2001 Chrysler Prowler V6 215 3.5L (3497cc) Nylon Gasket 2001 Plymouth Prowler V6 215 3.5L (3497cc) Nylon Gasket 2000 Chrysler 300M V6 215 3.5L (3497cc) Nylon Gasket 2000 Chrysler Concorde V6 167 2.7L (2736cc) Nylon Gasket 2000 Chrysler Concorde V6 197 3.2L (3200cc) Nylon Gasket 2000 Chrysler Grand Voyager V6 201 3.3L (3301cc) Nylon Gasket 2000 Chrysler LHS V6 215 3.5L (3497cc) Nylon Gasket 2000 Chrysler Town and Country V6 201 3.3L (3301cc) Nylon Gasket 2000 Chrysler Town and Country V6 231 3.8L (3778cc) Nylon Gasket 2000 Chrysler Voyager V6 201 3.3L (3301cc) Nylon Gasket 2000 Dodge Caravan V6 201 3.3L (3301cc) Nylon Gasket 2000 Dodge Grand Caravan V6 201 3.3L (3301cc) Nylon Gasket 2000 Dodge Grand Caravan V6 231 3.8L (3778cc) Nylon Gasket 2000 Dodge Intrepid V6 167 2.7L (2736cc) Nylon Gasket 2000 Dodge Intrepid V6 197 3.2L (3200cc) Nylon Gasket 2000 Dodge Intrepid V6 215 3.5L (3497cc) Nylon Gasket 2000 Plymouth Grand Voyager V6 201 3.3L (3301cc) Nylon Gasket 2000 Plymouth Prowler V6 215 3.5L (3497cc) Nylon Gasket 2000 Plymouth Voyager V6 201 3.3L (3301cc) Nylon Gasket 1999 Chrysler 300M V6 215 3.5L (3497cc) Nylon Gasket",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Gaskets, Seals & Hardware > Gaskets & Seals",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65270-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179466/wnc_parts/DOR_65270/65270_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65270 Dorman Engine Oil Drain Plug Gasket 65270 Nylon 5-Pack"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179467/wnc_parts/DOR_65270/65270_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65270 Dorman Engine Oil Drain Plug Gasket 65270 Nylon 5-Pack"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Material": "Nylon",
+      "Thickness": "1.65 mm",
+      "Packaging Type": "Card",
+      "Inside Diameter": "0.534 in",
+      "Outside Diameter": "0.963 in",
+      "Package Contents": "5 Drain Plug Gaskets",
+      "Package Quantity": "5",
+      "Gasket Thickness (in)": "0.065 in"
+    },
+    "oe_numbers": [
+      "J8132294",
+      "8132294",
+      "6032145",
+      "2268513",
+      "3921989"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.958585+00:00"
+}

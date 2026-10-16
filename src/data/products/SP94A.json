@@ -1,0 +1,44 @@
+{
+  "brand": "Other / Unbranded",
+  "mpn": "SP94A",
+  "clean_mpn": "SP94A",
+  "title": "Signal-Stat SP94A CATS EYE 94 2-\u00bd\" Round Marker Light(s) AMBER NOS Vintage",
+  "slug": "other-unbranded-sp94a",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Other / Unbranded part SP94A. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Clearance & Marker Lights",
+  "store_category": "Clearance & Marker Lights",
+  "department": "Clearance & Marker Lights",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-SP94A",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Other / Unbranded SP94A"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.944100+00:00"
+}

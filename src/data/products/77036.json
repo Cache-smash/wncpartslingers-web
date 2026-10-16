@@ -1,0 +1,114 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "77036",
+  "clean_mpn": "77036",
+  "title": "Dorman Help 77036 OE Replacement Interior Door Handle for 1973-1987 Ford Vans",
+  "slug": "dorman-help-77036",
+  "upc": null,
+  "epid": "24079972618",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Want a new interior door handle that matches the original, for far less than going back to the dealership? This replacement door handle was engineered to match the fit and appearance of the stock handle on specific vehicle years, makes and models. Matching appearance - this replacement door handle was specifically designed to look and function the same as the original interior handle on particular vehicles Seamless replacement - designed to match the dimensions and specifications of the handle that came stock on the vehicle Trustworthy construction - engineered in North America and backed by 100 years of automotive aftermarket experience Ensure fit - this handle is vehicle position specific, so double check you have the correct handle for the same position and side of the vehicle you want to replace Detailed Applications Year Make Model Configuration Positions Application Notes 1987 Ford E-150 Econoline Front Left Chrome 1987 Ford E-150 Econoline Club Wagon Front Left Chrome 1987 Ford E-250 Econoline Front Left Chrome 1987 Ford E-250 Econoline Club Wagon Front Left Chrome 1987 Ford E-350 Econoline Front Left Chrome 1987 Ford E-350 Econoline Club Wagon Front Left Chrome 1986 Ford E-150 Econoline Front Left Chrome 1986 Ford E-150 Econoline Club Wagon Front Left Chrome 1986 Ford E-250 Econoline Front Left Chrome 1986 Ford E-250 Econoline Club Wagon Front Left Chrome 1986 Ford E-350 Econoline Front Left Chrome 1986 Ford E-350 Econoline Club Wagon Front Left Chrome 1985 Ford E-150 Econoline Front Left Chrome 1985 Ford E-150 Econoline Club Wagon Front Left Chrome 1985 Ford E-250 Econoline Front Left Chrome 1985 Ford E-250 Econoline Club Wagon Front Left Chrome 1985 Ford E-350 Econoline Front Left Chrome 1985 Ford E-350 Econoline Club Wagon Front Left Chrome 1984 Ford E-150 Econoline Front Left Chrome 198",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Interior Door Handles",
+  "department": "Interior Door Handles",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 17.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-77036",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "= OEE Fram"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "i ria"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "@ \u201cCOG See Baca oo"
+    },
+    {
+      "make": "Mercury",
+      "model": "Truck",
+      "year_start": 1986,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "7703%"
+    },
+    {
+      "make": "Mercury",
+      "model": "Truck",
+      "year_start": 1982,
+      "year_end": 1981,
+      "engine": null,
+      "notes": "Exe XRT 77038"
+    },
+    {
+      "make": "Mercury",
+      "model": "Truck",
+      "year_start": 1983,
+      "year_end": 1981,
+      "engine": null,
+      "notes": "77039"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 77036"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Color": "Chrome",
+      "Shape": "Rectangle",
+      "Length": "3 in",
+      "Lockable": "No",
+      "Material": "Plastic",
+      "Thickness": "1.5 in",
+      "Cable Included": "No",
+      "Packaging Type": "Card",
+      "Attachment Type": "Bolt",
+      "Linkage Included": "No",
+      "Package Contents": "1 Interior Door Handle",
+      "Package Quantity": "1",
+      "Universal Or Specific Fit": "Specific",
+      "Mounting Hardware Included": "No",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "oe_numbers": [
+      ""
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.996889+00:00"
+}

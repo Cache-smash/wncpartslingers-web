@@ -1,0 +1,111 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76914",
+  "clean_mpn": "76914",
+  "title": "Dorman Help 76914 Window Crank Handle for 1977-80 Chevrolet GMC Truck & Blazer",
+  "slug": "dormanhelp-76914",
+  "upc": null,
+  "epid": "75387727",
+  "description_markdown": "Worn or broken window crank handle leading to difficult window operation? Made of durable material for reliable performance, this window crank handle replaces the original equipment handle.\n\n\u2022 Ideal replacement - this window crank handle matches the fit and function of the original equipment component\n\u2022 Durable construction - this window crank handle is made of durable material to withstand extended use\n\u2022 Easy to install - this window crank requires no special tools to install\n\u2022 Versatile design - this window crank handle is suitable for use in various locations in the vehicle\n\nApplication Summary:Chevrolet 1980-77, GMC 1980-77",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handles & Cranks",
+  "department": "Window Handles & Cranks",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 5.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-76914",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "i - So"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "x"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Baw"
+    },
+    {
+      "make": "GM",
+      "model": "Truck",
+      "year_start": 1977,
+      "year_end": 1984,
+      "engine": null,
+      "notes": "Window handle. GM and GMC trucks, vans and pick-ups, 1977-1984. :"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76914-002.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76914 Dorman Help 76914 Window Crank Handle for 1977-80 Chevrolet GMC Truck & Blazer"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76914-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76914 Dorman Help 76914 Window Crank Handle for 1977-80 Chevrolet GMC Truck & Blazer"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76914-001.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76914 Dorman Help 76914 Window Crank Handle for 1977-80 Chevrolet GMC Truck & Blazer"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76914_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76914 Dorman Help 76914 Window Crank Handle for 1977-80 Chevrolet GMC Truck & Blazer"
+    }
+  ],
+  "specifications": {
+    "Color": "Black and Chrome",
+    "Material": "Plastic",
+    "Knob Color": "Black With Chrome Inserts",
+    "OE_Numbers": "458030 (GENERAL MOTORS)",
+    "Knob Material": "Plastic",
+    "oe_crossovers": [],
+    "Package Contents": "Window Crank Handle",
+    "fitment_applications": [
+      "1980-77 Back to Search Description"
+    ],
+    "C:Placement on Vehicle": "Front Left",
+    "Window Crank Shaft Attachment": "Clip"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.178369+00:00"
+}

@@ -1,0 +1,90 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76936",
+  "clean_mpn": "76936",
+  "title": "Dorman Help 76936 Window Crank Handle Knob(s) 1969-86 Jeep CJ5 CJ7 Scrambler AMC",
+  "slug": "dormanhelp-76936",
+  "upc": null,
+  "epid": "168999725",
+  "description_markdown": "Authentic Dorman/Help part 76936. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handle Knobs",
+  "department": "Window Handle Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "76936-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Amc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Window handle knob. AMC, black."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76936-009.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76936 Dorman Help 76936 Window Crank Handle Knob(s) 1969-86 Jeep CJ5 CJ7 Scrambler AMC"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76936-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76936 Dorman Help 76936 Window Crank Handle Knob(s) 1969-86 Jeep CJ5 CJ7 Scrambler AMC"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76936-002.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76936 Dorman Help 76936 Window Crank Handle Knob(s) 1969-86 Jeep CJ5 CJ7 Scrambler AMC"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76936-001.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76936 Dorman Help 76936 Window Crank Handle Knob(s) 1969-86 Jeep CJ5 CJ7 Scrambler AMC"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76936_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76936 Dorman Help 76936 Window Crank Handle Knob(s) 1969-86 Jeep CJ5 CJ7 Scrambler AMC"
+    }
+  ],
+  "specifications": {
+    "Color": "Black",
+    "Material": "Plastic",
+    "Outside Diameter": "1.25 in",
+    "Package Contents": "Knob",
+    "Attachment Method": "Clip",
+    "Attaching Hardware": "Yes",
+    "Universal Or Specific Fit": "Universal",
+    "Window Crank Shaft Attachment Diameter (in)": "0.3 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.167291+00:00"
+}

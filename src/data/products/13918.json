@@ -1,0 +1,56 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "13918",
+  "clean_mpn": "13918",
+  "title": "Dorman 13918 Pedal Pad for 1988-97 GMC C2500 New Old Stock",
+  "slug": "dormanhelp-13918",
+  "upc": null,
+  "epid": "168934260",
+  "description_markdown": "Authentic Dorman/Help part 13918. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Pedal Assemblies, Pads & Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 16.48,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-13918",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 13918"
+    }
+  ],
+  "specifications": {
+    "oe_interchanges": [
+      "145813918",
+      "744946H",
+      "975913918",
+      "A186415",
+      "CHR13918",
+      "S103258",
+      "T19388",
+      "T19388T",
+      "XD91610"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.064386+00:00"
+}

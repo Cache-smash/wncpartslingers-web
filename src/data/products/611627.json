@@ -1,0 +1,100 @@
+{
+  "brand": "TRW Service Line",
+  "mpn": "611627",
+  "clean_mpn": "611627",
+  "title": "NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX",
+  "slug": "trw-service-line-611627",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "<p>TRW Service Line 611627 OER AM/FM Antenna</p>",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 50.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-611627",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179420/wnc_parts/WNC_611627/611627_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "TRW Service Line 611627 NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179422/wnc_parts/WNC_611627/611627_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "TRW Service Line 611627 NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179423/wnc_parts/WNC_611627/611627_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "TRW Service Line 611627 NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179425/wnc_parts/WNC_611627/611627_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "TRW Service Line 611627 NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179426/wnc_parts/WNC_611627/611627_5.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "cloudinary",
+      "alt_text": "TRW Service Line 611627 NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179428/wnc_parts/WNC_611627/611627_6.jpg",
+      "is_primary": false,
+      "order": 5,
+      "media_source": "cloudinary",
+      "alt_text": "TRW Service Line 611627 NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179429/wnc_parts/WNC_611627/611627_7.jpg",
+      "is_primary": false,
+      "order": 6,
+      "media_source": "cloudinary",
+      "alt_text": "TRW Service Line 611627 NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179431/wnc_parts/WNC_611627/611627_8.jpg",
+      "is_primary": false,
+      "order": 7,
+      "media_source": "cloudinary",
+      "alt_text": "TRW Service Line 611627 NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179432/wnc_parts/WNC_611627/611627_9.jpg",
+      "is_primary": false,
+      "order": 8,
+      "media_source": "cloudinary",
+      "alt_text": "TRW Service Line 611627 NOS OER Pillar Mount AM/FM Radio Antenna Kit for 1976-85 Honda Accord Civic, CRX"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.137837+00:00"
+}

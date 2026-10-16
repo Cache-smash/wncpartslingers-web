@@ -1,0 +1,44 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "83211",
+  "clean_mpn": "83211",
+  "title": "Dorman 83211 Rack And Sector Gear Kit - With Tilt Wheel",
+  "slug": "dormanhelp-83211",
+  "upc": null,
+  "epid": "20079960113",
+  "description_markdown": "Authentic Dorman/Help part 83211. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Steering & Suspension > Other Steering & Suspension Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 17.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "83211-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 83211"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.100033+00:00"
+}

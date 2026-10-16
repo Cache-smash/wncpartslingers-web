@@ -1,0 +1,69 @@
+{
+  "brand": "TRW Service Line",
+  "mpn": "611051",
+  "clean_mpn": "611051",
+  "title": "TRW Service Line License Plate Mounting Frame Kit - Heavy Duty Diecast - USA",
+  "slug": "trw-service-line-611051",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description These wheel lug nuts are designed to match the fit, function and performance of the original equipment hardware on specified vehicles. They are engineered from durable materials to exacting specifications for long service life and a perfect fit. Direct replacement - these wheel lug nuts are designed to match the fit, function and performance of the original equipment hardware on specified vehicles Ensure fit - available in a variety of sizes and assortments, please check product dimensions and details to ensure you select the right wheel lug nut(s) for your application Durable construction - designed and manufactured to strict specifications for reliable performance Trustworthy quality - backed by a team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1976 Ford P-350 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1976 Ford P-400 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1975 Ford P-350 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1975 Ford P-400 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1974 Ford P-350 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1973 Ford P-350 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1972 Ford P-350 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1972 Ford P400 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1971 Ford P-350 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1971 Ford P400 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1970 Ford P-350 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1970 Ford P400 Front w/Single Rear Wheel (SRW); Open Design; 6 Bolt Wheels 1969 Ford P-350 Front w/Single Rear W",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 30.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-611051",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "TRW Service Line 611051"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Color": "Silver",
+      "Hex Size": "1-1/16 in",
+      "Material": "Steel",
+      "Grade Type": "Regular",
+      "Seat Style": "Conical Seat - 90 deg",
+      "Thread Size": "5/8-18",
+      "Thread Type": "Fine",
+      "SAE or Metric": "SAE",
+      "Overall Length": "0.906 in",
+      "Packaging Type": "Box",
+      "Open End Design": "Yes",
+      "Thread Diameter": "5/8 in",
+      "Wheel Nut Style": "Standard",
+      "Package Contents": "10 Wheel Lug Nuts",
+      "Package Quantity": "10",
+      "Thread Direction": "Clockwise (Right)",
+      "Washers Included": "No",
+      "Wheel Lock Key Included": "No",
+      "OE Replacement Or Custom Performance": "OE Replacement"
+    },
+    "oe_numbers": [
+      "C5TA-1120-A"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.135530+00:00"
+}

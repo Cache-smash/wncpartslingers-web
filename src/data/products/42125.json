@@ -1,0 +1,94 @@
+{
+  "brand": "Dorman",
+  "mpn": "42125",
+  "clean_mpn": "42125",
+  "title": "Dorman 42125 Headlight Adjusting Screw for 1972-1979 Buick Cadillac Pontiac",
+  "slug": "dorman-42125",
+  "upc": null,
+  "epid": "6080158577",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This headlight adjusting screw is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance. Direct replacement - this headlight adjusting screw matches the fit and function of the factory part on specified years, makes and models Ideal solution - this screw is a reliable replacement for an original part that is missing or has failed due to fatigue Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1979 Buick Skylark 1978 Buick Skylark 1977 Buick Skylark 1976 Buick Skylark 1976 Pontiac Ventura 1975 Buick Apollo 1975 Buick Skylark 1975 Pontiac Grand Am 1975 Pontiac Grand LeMans 1975 Pontiac Grand Prix 1975 Pontiac LeMans 1974 Buick Apollo 1974 Buick Century 1974 Buick Electra 1974 Buick Estate Wagon 1974 Buick LeSabre 1974 Buick Riviera 1974 Cadillac Calais Snap In Style 1974 Cadillac DeVille Snap In Style 1974 Cadillac Eldorado Snap In Style 1974 Cadillac Fleetwood Snap In Style 1974 Pontiac Grand Am 1974 Pontiac Grand Prix 1974 Pontiac LeMans 1973 Buick Apollo 1973 Buick Centurion 1973 Buick Century 1973 Buick Electra 1973 Buick Estate Wagon 1973 Buick LeSabre 1973 Buick Riviera 1973 Cadillac Calais Snap In Style 1973 Cadillac DeVille Snap In Style 1973 Cadillac Eldorado Snap In Style 1973 Cadillac Fleetwood Snap In Style 1973 Pontiac Bonneville 1973 Pontiac Catalina 1973 Pontiac Firebird 1973 Pontiac Grand Am 1973 Pontiac Grand Prix 1973 Pontiac Grand Safari 1973 Pontiac Grandville 1973 Pontiac LeMans 1972 Buick Centurion 1972 Buick Elec",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Lighting & Lamps > Other Lighting & Lamps",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "42125",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "GM / Cadillac / Pontiac",
+      "model": "Skylark",
+      "year_start": 1969,
+      "year_end": 1969,
+      "engine": null,
+      "notes": "42125 Headiamp adjusting screw. GM. Bui 4 \u00bb GM. k 1969- Skylark 1975-1979, Cadillac 1969-1974, Pontiac 1988-1976."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42125-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 42125 Dorman 42125 Headlight Adjusting Screw for 1972-1979 Buick Cadillac Pontiac"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42125-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 42125 Dorman 42125 Headlight Adjusting Screw for 1972-1979 Buick Cadillac Pontiac"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42125_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 42125 Dorman 42125 Headlight Adjusting Screw for 1972-1979 Buick Cadillac Pontiac"
+    }
+  ],
+  "specifications": {
+    "epid": "6080158577",
+    "specs": {
+      "Material": "Metal; Plastic",
+      "Adjustable": "Yes",
+      "Headlight Type": "Sealed Beam",
+      "Packaging Type": "Card",
+      "Package Contents": "2 Adjusting Screw",
+      "Package Quantity": "2",
+      "Attachment Method": "Screw On",
+      "Universal Or Specific Fit": "Specific",
+      "Installation Hardware Included": "No"
+    },
+    "Plastic": "Yes",
+    "Material": "Metal",
+    "Adjustable": "Yes",
+    "OE_Numbers": "1235816 (GENERAL MOTORS) | 1493541 (GENERAL MOTORS)",
+    "oe_numbers": [
+      "1235816",
+      "1493541",
+      "421252"
+    ],
+    "Headlight Type": "Sealed Beam",
+    "Package Contents": "2 Adjusting Screw",
+    "Attachment Method": "Screw On",
+    "Universal Or Specific Fit": "Specific",
+    "Installation Hardware Included": "No"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.020193+00:00"
+}

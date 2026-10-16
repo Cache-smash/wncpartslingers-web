@@ -1,0 +1,59 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65273",
+  "clean_mpn": "65273",
+  "title": "Dorman 65273 16mm 5/8 Copper Oil Drain Plug Gasket Washer 2-Pack",
+  "slug": "dormanhelp-65273",
+  "upc": null,
+  "epid": "193228479",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description These oil drain plug gaskets are designed to specific sizes and standards for reliable replacement at every oil change. Direct replacement - these engine oil drain plug gaskets are made to match the fit and performance of the original equipment components Restores functionality - built to restore a proper seal Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1991 Peugeot 405 1990 Peugeot 405 1989 Peugeot 405 1989 Peugeot 505 1988 Peugeot 505 L4 2.2L (2155cc) 1988 Peugeot 505 L4 2.2L (2165cc) 1988 Peugeot 505 V6 2.8L (2849cc) 1987 Peugeot 505 1987 Renault Alliance 1986 Nissan 200SX L4 2.0L (1974cc) 1986 Nissan 720 L4 152 2.5L (2488cc) 1986 Nissan 720 RWD; L4 2.4L (2389cc) 1986 Nissan D21 RWD; L4 2.4L (2389cc) 1986 Nissan Sentra L4 1.7L (1688cc) 1986 Nissan Stanza Sedan; L4 2.0L (1974cc) 1986 Peugeot 505 L4 2.0L (1971cc) 1986 Peugeot 505 L4 2.2L (2155cc) 1986 Peugeot 505 L4 2.3L (2304cc) 1986 Peugeot 505 L4 2.5L (2498cc) 1986 Renault Alliance 1986 Renault Encore 1986 Renault R18i 1985 Nissan 200SX L4 2.0L (1974cc) 1985 Nissan 720 L4 152 2.5L (2488cc) 1985 Nissan 720 L4 2.0L (1952cc) 1985 Nissan 720 RWD; L4 2.4L (2389cc) 1985 Nissan Sentra L4 1.7L (1688cc) From 4/85 1985 Nissan Stanza 1985 Nissan Tsuru (Mexico) B11 Body Code; Mexico Region From 4/85; 1.7L Engine 1985 Peugeot 505 L4 2.0L (1971cc) 1985 Peugeot 505 L4 2.2L (2155cc) 1985 Peugeot 505 L4 2.3L (2304cc) 1985 Peugeot 505 L4 2.5L (2498cc) 1985 Renault Alliance 1985 Renault Encore 1985 Renault Fuego 1985 Renault R18i 1984 Nissan 200SX L4 2.0L (1974cc) 1984 Nissan 720 L4 152 2.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Gaskets, Seals & Hardware > Gaskets & Seals",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65273-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179472/wnc_parts/DOR_65273/65273_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65273 Dorman 65273 16mm 5/8 Copper Oil Drain Plug Gasket Washer 2-Pack"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Material": "Copper",
+      "Thickness": "1.13 mm",
+      "Packaging Type": "Card",
+      "Inside Diameter": "0.669 in",
+      "Outside Diameter": "0.906 in",
+      "Package Contents": "2 Gaskets",
+      "Package Quantity": "2",
+      "Gasket Thickness (in)": "0.044 in"
+    },
+    "oe_numbers": [
+      "11026-61000"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.959586+00:00"
+}

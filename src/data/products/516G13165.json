@@ -1,0 +1,44 @@
+{
+  "brand": "Prestolite",
+  "mpn": "516 G, 1316-5",
+  "clean_mpn": "516G13165",
+  "title": "Prestolite 516-G Primary 16 Gauge Power or Ground Wire 100 Feet Spool GREEN New",
+  "slug": "prestolite-516-g-1316-5",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Prestolite part 516 G, 1316-5. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Wire & Cables",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 25.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-516G13165",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Prestolite 516 G, 1316-5"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.198591+00:00"
+}

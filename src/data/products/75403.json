@@ -1,0 +1,66 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "75403",
+  "clean_mpn": "75403",
+  "title": "Dorman Help 75403 Anti-Theft Shoulderless Door Lock Knob Kit Universal Set of 2",
+  "slug": "dormanhelp-75403",
+  "upc": null,
+  "epid": "230340271",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Missing or damaged knob making it difficult to lock or unlock a door from the inside? Designed to fit like original equipment, this convenient solution easily restores the vehicle's door lock function and interior appearance. Ideal replacement - this door lock knob replacement fits and functions like original equipment Authentic appearance - designed to blend seamlessly with the vehicle's original interior finish Convenient solution - offers original equipment quality without the hassle of sourcing from the dealership Quality tested - has undergone try-on testing to ensure a quality fit Product Specifications Package Contents: 2 Knobs and Grommet Package Quantity: 1 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Exterior Locks & Lock Hardware",
+  "store_category": "Door Lock Knobs",
+  "department": "Door Lock Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "75403-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75403-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 75403 Dorman Help 75403 Anti-Theft Shoulderless Door Lock Knob Kit Universal Set of 2"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75403-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 75403 Dorman Help 75403 Anti-Theft Shoulderless Door Lock Knob Kit Universal Set of 2"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75403_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 75403 Dorman Help 75403 Anti-Theft Shoulderless Door Lock Knob Kit Universal Set of 2"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "2 Knobs and Grommet",
+      "Package Quantity": "1"
+    },
+    "oe_numbers": [],
+    "Package Contents": "2 Knobs and Grommet"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.949461+00:00"
+}

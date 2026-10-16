@@ -1,0 +1,85 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "56458",
+  "clean_mpn": "56458",
+  "title": "Dorman Help 56458 Cigarette Lighter Element Rochester Style NOS",
+  "slug": "dormanhelp-56458",
+  "upc": null,
+  "epid": "230466265",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This direct replacement cigarette light is designed to match the fit and function of the original lighter on specified vehicles, and is engineered for durability and reliable performance. Direct replacement - this direct replacement cigarette lighter is designed to match the fit and function of the original lighter on specified vehicles Ideal solution - this cigarette lighter is a reliable replacement for an original lighter that is missing or burned out Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Product Specifications Installation Note: None Package Contents: 1 Cigarette Lighter Package Quantity: 1 Packaging Type: Card Terminal Gender: Female Terminal Material: Metal Terminal Type: Lead Wire Tube Length: 1.944 in Universal Or Specific Fit: Universal",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Power Outlets & Lighters",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.95,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "HELP-56458",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56458-009.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 56458 Dorman Help 56458 Cigarette Lighter Element Rochester Style NOS"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56458-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 56458 Dorman Help 56458 Cigarette Lighter Element Rochester Style NOS"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56458-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 56458 Dorman Help 56458 Cigarette Lighter Element Rochester Style NOS"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56458_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 56458 Dorman Help 56458 Cigarette Lighter Element Rochester Style NOS"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Tube Length": "1.944 in",
+      "Terminal Type": "Lead Wire",
+      "Packaging Type": "Card",
+      "Terminal Gender": "Female",
+      "Package Contents": "1 Cigarette Lighter",
+      "Package Quantity": "1",
+      "Installation Note": "None",
+      "Terminal Material": "Metal",
+      "Universal Or Specific Fit": "Universal"
+    },
+    "oe_numbers": [],
+    "Tube Length": "1.944 in",
+    "Terminal Type": "Lead Wire",
+    "Terminal Gender": "Female",
+    "Package Contents": "1 Cigarette Lighter",
+    "Installation Note": "None",
+    "Terminal Material": "Metal",
+    "Universal Or Specific Fit": "Universal"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.092841+00:00"
+}

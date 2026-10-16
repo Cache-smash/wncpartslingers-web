@@ -1,0 +1,112 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "56356",
+  "clean_mpn": "56356",
+  "title": "Dorman Help 56356 HVAC Heater Hose Fitting - Fits 5/8\" Hose x 1/2\" NPT Threads",
+  "slug": "dorman-help-56356",
+  "upc": null,
+  "epid": "27080039340",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Made of quality materials, this HVAC heater hose connector matches the fit and function of an original equipment connector to restore leak-free performance. Quality replacement - this heater hose connector matches the fit and function of the original equipment connector Durable construction - this heater hose connector is made of quality materials for a precise fit and leak-free durability Cost-effective solution - offers original equipment quality at competitive price Performance tested - this connector has been rigorously pressure tested to ensure reliable performance Product Specifications End 1 Outside Diameter: 0.625 in End 1 Type: Hose Barb End 2 Outside Diameter: 0.5 in End 2 Type: Male Thread Fitting Angle: Straight Material: Steel Package Contents: 1 Heater Hose Fitting Quick Connect System: No Selling Package Quantity UOM: Piece Packaging Type: Card Package Quantity: 1",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engine Cooling Components > Other Engine Cooling Components",
+  "store_category": "Hoses & Tubing",
+  "department": "Hoses & Tubing",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-56356",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Heater hose fitting. Fits 54\u201d hose, %\u201d' P.T. \\"
+    },
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Heater hose fitting. Fits %\" hose, 12\" pT. * Drain Cocks"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/500-003.1-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56356 Dorman Help 56356 HVAC Heater Hose Fitting - Fits 5/8\" Hose x 1/2\" NPT Threads"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/500-003.1-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56356 Dorman Help 56356 HVAC Heater Hose Fitting - Fits 5/8\" Hose x 1/2\" NPT Threads"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/500-003.1-003.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56356 Dorman Help 56356 HVAC Heater Hose Fitting - Fits 5/8\" Hose x 1/2\" NPT Threads"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/500-003.1-007.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56356 Dorman Help 56356 HVAC Heater Hose Fitting - Fits 5/8\" Hose x 1/2\" NPT Threads"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56356_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56356 Dorman Help 56356 HVAC Heater Hose Fitting - Fits 5/8\" Hose x 1/2\" NPT Threads"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Material": "Steel",
+      "End 1 Type": "Hose Barb",
+      "End 2 Type": "Male Thread",
+      "Fitting Angle": "Straight",
+      "Packaging Type": "Card",
+      "Package Contents": "1 Heater Hose Fitting",
+      "Package Quantity": "1",
+      "Quick Connect System": "No",
+      "End 1 Outside Diameter": "0.625 in",
+      "End 2 Outside Diameter": "0.5 in",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "Material": "Steel",
+    "End 1 Type": "Hose Barb",
+    "End 2 Type": "Male Thread",
+    "oe_numbers": [],
+    "Fitting Angle": "Straight",
+    "Package Contents": "1 Heater Hose Fitting",
+    "Quick Connect System": "No",
+    "End 1 Outside Diameter": "0.625 in",
+    "End 2 Outside Diameter": "0.5 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.993824+00:00"
+}

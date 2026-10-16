@@ -1,0 +1,54 @@
+{
+  "brand": "Dorman Help, Perfect Parts, TRW, Expand-Tite",
+  "mpn": "02603",
+  "clean_mpn": "02603",
+  "title": "Quick Seal 1-1/2\" Rubber Expansion Plug Size Range 1-\u00bd\" to 1-\u215d\" (38mm - 41mm)",
+  "slug": "dorman-help-perfect-parts-trw-expand-tite-02603",
+  "upc": null,
+  "epid": "175115959",
+  "description_markdown": "This engine expansion plug is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance.\n\n\u2022 Direct replacement - this engine expansion plug matches the fit and function of the factory part on specified years, makes and models\n\u2022 Ideal solution - this plug is a reliable replacement for an original part that is missing or has failed due to fatigue\n\u2022 Durable construction - this part is made from quality materials to ensure reliable performance and long service life\n\u2022 Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience\n\nApplication Summary:Chevrolet Bel Air 1950, Chevrolet Fleetline 1950-47, Chevrolet Fleetmaster 1948-47, Chevrolet Styleline Deluxe 1950-49, Chevrolet Styleline Special 1950-49, Chevrolet Stylemaster Series 1948-47, GMC P152 1950",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Other Engine Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-02603",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/02603-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help, Perfect Parts, TRW, Expand-Tite 02603 Quick Seal 1-1/2\" Rubber Expansion Plug Size Range 1-\u00bd\" to 1-\u215d\" (38mm - 41mm)"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/02603_1.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help, Perfect Parts, TRW, Expand-Tite 02603 Quick Seal 1-1/2\" Rubber Expansion Plug Size Range 1-\u00bd\" to 1-\u215d\" (38mm - 41mm)"
+    }
+  ],
+  "specifications": {
+    "Material": "Rubber",
+    "Package Contents": "1 Expansion Plug"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.055196+00:00"
+}

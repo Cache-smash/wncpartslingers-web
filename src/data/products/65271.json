@@ -1,0 +1,59 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65271",
+  "clean_mpn": "65271",
+  "title": "Dorman 65271 1/2\" 12mm Copper Oil Drain Plug Gasket, Pack of 2",
+  "slug": "dormanhelp-65271",
+  "upc": null,
+  "epid": "187942032",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description These oil drain plug gaskets are designed to specific sizes and standards for reliable replacement at every oil change. Direct replacement - these engine oil drain plug gaskets are made to match the fit and performance of the original equipment components Restores functionality - built to restore a proper seal Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1983 Jeep CJ5 L4 151 2.5L Engine Mfr General Motors 1983 Jeep CJ7 L4 150 2.5L Engine Mfr General Motors 1983 Jeep CJ7 L4 151 2.5L Engine Mfr General Motors 1983 Jeep DJ5 L4 151 2.5L Engine Mfr General Motors 1983 Jeep Scrambler L4 150 2.5L Engine Mfr General Motors 1983 Jeep Scrambler L4 151 2.5L Engine Mfr General Motors 1982 Jeep CJ5 L4 151 2.5L 1982 Jeep CJ7 L4 151 2.5L 1982 Jeep DJ5 L4 151 2.5L 1982 Jeep Scrambler L4 151 2.5L 1981 Jeep CJ5 L4 151 2.5L 1981 Jeep CJ7 L4 151 2.5L 1981 Jeep DJ5 L4 151 2.5L 1981 Jeep Scrambler L4 151 2.5L 1980 Jeep CJ5 L4 151 2.5L 1980 Jeep CJ7 L4 151 2.5L 1980 Jeep DJ5 L4 151 2.5L Product Specifications Inside Diameter: 0.502 in Material: Copper Outside Diameter: 0.866 in Thickness: 1.35 mm Package Quantity: 2 Brand: Dorman - AutoGrade - Oil-Tite! Packaging Type: Card Package Contents: 2 Copper Gaskets OE Numbers DIRECT OE CROSS 8132204 AMERICAN MOTORS 8132204 CHRYSLER 8134690 CHRYSLER",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Gaskets, Seals & Hardware > Gaskets & Seals",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65271-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179469/wnc_parts/DOR_65271/65271_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65271 Dorman 65271 1/2\" 12mm Copper Oil Drain Plug Gasket, Pack of 2"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Material": "Copper",
+      "Thickness": "1.35 mm",
+      "Packaging Type": "Card",
+      "Inside Diameter": "0.502 in",
+      "Outside Diameter": "0.866 in",
+      "Package Contents": "2 Copper Gaskets",
+      "Package Quantity": "2"
+    },
+    "oe_numbers": [
+      "8134690",
+      "8132204"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.958585+00:00"
+}

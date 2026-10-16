@@ -1,0 +1,76 @@
+{
+  "brand": "Dorman Help Vacu-Tite",
+  "mpn": "47300",
+  "clean_mpn": "47300",
+  "title": "Dorman Vacu-Tite 47300 Hard Vacuum Tubing Hose Connector 1/8\" x 1/8\"",
+  "slug": "dorman-help-vacu-tite-47300",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman manufactures a comprehensive selection of Vacuum and Emissions Fittings for almost any automotive Vacuum job. We also offer Vacuum Tubing, sold separately. Available in a variety of shapes, including Straight, T-Shape, Y-Shape, F-Shape, and L-Shape Constructed from durable plastic or heat-resistant PVC Vinyl for a long service life Conveniently packaged in many different sizes, assortments and quantities Depending on the application, available in either black or white Product Specifications Color: White Connector Shape: Straight Material: Plastic Outer Diameter (in): 0.125 in Package Contents: 2 Vacuum Connector Package Quantity: 2 Packaging Type: Card Vacuum Fitting Sizes Included: (2) 1/8",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 1.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-47300",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47300-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help Vacu-Tite 47300 Dorman Vacu-Tite 47300 Hard Vacuum Tubing Hose Connector 1/8\" x 1/8\""
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47300-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help Vacu-Tite 47300 Dorman Vacu-Tite 47300 Hard Vacuum Tubing Hose Connector 1/8\" x 1/8\""
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47300_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help Vacu-Tite 47300 Dorman Vacu-Tite 47300 Hard Vacuum Tubing Hose Connector 1/8\" x 1/8\""
+    }
+  ],
+  "specifications": {
+    "Color": "White",
+    "specs": {
+      "Color": "White",
+      "Material": "Plastic",
+      "Packaging Type": "Card",
+      "Connector Shape": "Straight",
+      "Package Contents": "2 Vacuum Connector",
+      "Package Quantity": "2",
+      "Outer Diameter (in)": "0.125 in",
+      "Vacuum Fitting Sizes Included": "(2) 1/8"
+    },
+    "Material": "Plastic",
+    "oe_numbers": [],
+    "Connector Shape": "Straight",
+    "Package Contents": "2 Vacuum Connector",
+    "Outer Diameter (in)": "0.125 in",
+    "Vacuum Fitting Sizes Included": "(2) 1/8"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.054196+00:00"
+}

@@ -1,0 +1,795 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "13975",
+  "clean_mpn": "13975",
+  "title": "Dorman Help 13975 Center Wheel Bearing Dust Cap OER Ford #: B5A-1131-A",
+  "slug": "dorman-help-13975",
+  "upc": null,
+  "epid": "2351148001",
+  "description_markdown": "This wheel bearing dust cap is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance.\n\n\u2022 Direct replacement - this wheel bearing dust cap is designed to match the fit and function of the original part on specified vehicles\n\u2022 Ideal solution - this dust cap is a reliable replacement for an original part that is missing or has failed due to fatigue\n\u2022 Durable construction - this part is made from quality materials to ensure reliable performance and long service life\n\u2022 Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience\n\nApplication Summary:Ford 1994-64, Lincoln 1994-68, Mercury 1994-65",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Steering & Suspension > Wheel Bearings, Hubs & Seals",
+  "store_category": "Wheel Dust Caps",
+  "department": "Wheel Dust Caps",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-13975",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "sci"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "cs"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u00a3\u00a3 =<."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "se"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "KES sess"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "= SP mes"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "SS"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u201cTe = SSS TEES"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\"="
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "="
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u201cx="
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1 BA"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1983,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1973,
+      "year_end": 1972,
+      "engine": null,
+      "notes": "Disc Brakes"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1998,
+      "year_end": 1974,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1973,
+      "year_end": 1972,
+      "engine": null,
+      "notes": "Disc Brakes"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Rotor"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Brakes; Exc.Heavy Duty"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "COUNTRY"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "CROWN VICTORIA"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ESCORT, EXP"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Dodge",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "3\u00b0 Brakes"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "MUSTANG. MUSTANG"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\"] 159"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1968,
+      "year_end": 670,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "66-6550"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "_ tis -"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Ford",
+      "model": "'",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u2014\u2014 :"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "5"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "="
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "oe oa"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u2014\u2014"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "="
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "DO TE ees"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "BARRACUDA, CUDA"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "|",
+      "year_start": 1989,
+      "year_end": 1973,
+      "engine": null,
+      "notes": "."
+    },
+    {
+      "make": "Chevrolet",
+      "model": ":",
+      "year_start": 1900,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ":",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "; goer"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ":",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "; 197$.73"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ":",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1983"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "|",
+      "year_start": 1976,
+      "year_end": 1973,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ":",
+      "year_start": 1994,
+      "year_end": 1987,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ":",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "*980-76"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ":",
+      "year_start": 1995,
+      "year_end": 1984,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ":",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "; 1983.74"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ";",
+      "year_start": 1983,
+      "year_end": 1974,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ";",
+      "year_start": 1983,
+      "year_end": 1982,
+      "engine": null,
+      "notes": "5-Stud Rotor"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ";",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1981 3300 3600 Lb Axle"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ";",
+      "year_start": 1980,
+      "year_end": 1974,
+      "engine": null,
+      "notes": "3000.'3600 Lb Axle"
+    },
+    {
+      "make": "Chevrolet",
+      "model": ";",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "2WD"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13975-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13975 Dorman Help 13975 Center Wheel Bearing Dust Cap OER Ford #: B5A-1131-A"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13975-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13975 Dorman Help 13975 Center Wheel Bearing Dust Cap OER Ford #: B5A-1131-A"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13975_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 13975 Dorman Help 13975 Center Wheel Bearing Dust Cap OER Ford #: B5A-1131-A"
+    }
+  ],
+  "specifications": {
+    "Color": "Silver",
+    "Height": "1.25 in",
+    "Material": "Steel",
+    "OE_Numbers": "B5A 1131-A (FORD MOTOR COMPANY)",
+    "Inside Diameter": "1.67 in",
+    "Package Contents": "1 Dust Cap",
+    "Outer Diameter (in)": "1.78 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.161494+00:00"
+}

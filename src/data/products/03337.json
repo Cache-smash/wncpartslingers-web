@@ -1,0 +1,78 @@
+{
+  "brand": "Dorman Help Motormite",
+  "mpn": "03337",
+  "clean_mpn": "03337",
+  "title": "Dorman Help 03337 Universal Brass Wire Stops for 1/16\" Diameter Wire - Set of 2",
+  "slug": "dorman-help-motormite-03337",
+  "upc": null,
+  "epid": "230383657",
+  "description_markdown": "Authentic Dorman Help Motormite part 03337. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Safety & Security Accessories > Security > Other Security Accessories",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 5.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-03337",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Brass wire stops. Use as set or stop point on wire, cables or spring ends. Two per card."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03337-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help Motormite 03337 Dorman Help 03337 Universal Brass Wire Stops for 1/16\" Diameter Wire - Set of 2"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03337-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help Motormite 03337 Dorman Help 03337 Universal Brass Wire Stops for 1/16\" Diameter Wire - Set of 2"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03337-009.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help Motormite 03337 Dorman Help 03337 Universal Brass Wire Stops for 1/16\" Diameter Wire - Set of 2"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03337_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help Motormite 03337 Dorman Help 03337 Universal Brass Wire Stops for 1/16\" Diameter Wire - Set of 2"
+    }
+  ],
+  "specifications": {
+    "Color/Finish": "Brass and Silver",
+    "Cable Material": "Steel and Brass",
+    "Package Contents": "2 Cable Locks"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.191892+00:00"
+}

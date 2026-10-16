@@ -1,0 +1,79 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65204",
+  "clean_mpn": "65204",
+  "title": "Dorman Engine Oil Drain Plug 65204 1/2-20 Single Oversize",
+  "slug": "dormanhelp-65204",
+  "upc": null,
+  "epid": "192715552",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles. It is engineered to replace a missing or damaged plug and help ensure a secure seal. Direct replacement - this engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles Ideal solution - engineered to replace a missing or damaged plug and help ensure a secure seal Durable construction - designed and manufactured to strict specifications for reliable performance Trustworthy quality - backed by a team of product experts in the United States and more than a century of automotive experience Product Specifications Bolt Grade: 3 Color: Silver Describe Type: Single Oversize Drain Method: Conventional Gasket Or Seal Included: Yes Gasket Type: Gasket Head Drive Type: Hex Head Tool Size: 3/4 in Length: 0.725 in Magnetic: No Material: Steel Oversized Thread: Yes Package Contents: 1 Oil Drain Plug SAE or Metric: SAE Socket Points: M6 -1.0 Special Tool Required: No Thread Diameter: 1/2 in Thread Size: 1/2 in -20 Single Oversize Thread Type: Fine Threads Per Inch: 20 Package Quantity: 1 Brand: Dorman - AutoGrade - Oil-Tite! Packaging Type: Card Thread Pitch: 20",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Oil Drain Plugs, Filler Caps & Dipsticks",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65204-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179447/wnc_parts/DOR_65204/65204_1.avif",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65204 Dorman Engine Oil Drain Plug 65204 1/2-20 Single Oversize"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179449/wnc_parts/DOR_65204/65204_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65204 Dorman Engine Oil Drain Plug 65204 1/2-20 Single Oversize"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Color": "Silver",
+      "Length": "0.725 in",
+      "Magnetic": "No",
+      "Material": "Steel",
+      "Bolt Grade": "3",
+      "Gasket Type": "Gasket",
+      "Thread Size": "1/2 in -20 Single Oversize",
+      "Thread Type": "Fine",
+      "Drain Method": "Conventional",
+      "Thread Pitch": "20",
+      "Describe Type": "Single Oversize",
+      "SAE or Metric": "SAE",
+      "Socket Points": "M6 -1.0",
+      "Head Tool Size": "3/4 in",
+      "Packaging Type": "Card",
+      "Head Drive Type": "Hex",
+      "Thread Diameter": "1/2 in",
+      "Oversized Thread": "Yes",
+      "Package Contents": "1 Oil Drain Plug",
+      "Package Quantity": "1",
+      "Threads Per Inch": "20",
+      "Special Tool Required": "No",
+      "Gasket Or Seal Included": "Yes"
+    },
+    "oe_numbers": []
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.956586+00:00"
+}

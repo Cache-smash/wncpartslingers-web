@@ -1,0 +1,61 @@
+{
+  "brand": "Dorman",
+  "mpn": "85618",
+  "clean_mpn": "85618",
+  "title": "Dorman Circuit Breaker 85618 Universal Electrical Protection",
+  "slug": "dorman-85618",
+  "upc": null,
+  "epid": "28079990762",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman offers a comprehensive line of Circuit Breakers for a wide range of applications. All our Circuit Breakers are constructed of high-quality materials for long-lasting durability. Available in diverse styles, including blade terminals and breakaway tabs Available for many different amperages Conveniently packaged in a variety of piece counts to assist with both small and large projects Also suitable for a broad range of industrial and commercial uses Product Specifications Circuit Breaker Format: Glass Fuse Type Circuit Breaker Type: Type Ii Color/Finish: Silver Item Grade: Regular Material: Metal Maximum Amperage: 40 A Moisture Sealed: No Package Contents: 1 Circuit Breaker Package Quantity: 1 Packaging Type: Card Terminal Type: Blade Universal Or Specific Fit: Universal Voltage Compatibility: 12 VDC",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Starters, Alternators, ECUs & Wiring > Fuses & Fuse Boxes",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "85618-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman 85618"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Material": "Metal",
+      "Item Grade": "Regular",
+      "Color/Finish": "Silver",
+      "Terminal Type": "Blade",
+      "Packaging Type": "Card",
+      "Moisture Sealed": "No",
+      "Maximum Amperage": "40 A",
+      "Package Contents": "1 Circuit Breaker",
+      "Package Quantity": "1",
+      "Circuit Breaker Type": "Type Ii",
+      "Voltage Compatibility": "12 VDC",
+      "Circuit Breaker Format": "Glass Fuse Type",
+      "Universal Or Specific Fit": "Universal"
+    },
+    "oe_numbers": []
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.024695+00:00"
+}

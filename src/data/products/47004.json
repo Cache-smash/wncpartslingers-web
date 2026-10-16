@@ -1,0 +1,91 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "47004",
+  "clean_mpn": "47004",
+  "title": "(Qty 2) - 3/8\" Vacuum Hose Tee Barbed Tee Fittings 3/8\" x 3/8\" x 3/8\"",
+  "slug": "dorman-help-47004",
+  "upc": null,
+  "epid": "230115012",
+  "description_markdown": "Authentic Dorman Help part 47004. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exhaust & Emission Systems > Other Exhaust & Emission Parts",
+  "store_category": "Hoses & Tubing",
+  "department": "Hoses & Tubing",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-47004",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "4 cyl. 2.2L Zi"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "oyl"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "_ Outback"
+    },
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Hose tee. %\u201d Run size. %\u201d Lead size."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47004-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 47004 (Qty 2) - 3/8\" Vacuum Hose Tee Barbed Tee Fittings 3/8\" x 3/8\" x 3/8\""
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47004-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 47004 (Qty 2) - 3/8\" Vacuum Hose Tee Barbed Tee Fittings 3/8\" x 3/8\" x 3/8\""
+    }
+  ],
+  "specifications": {
+    "Color": "White",
+    "Material": "Plastic",
+    "Connector Shape": "T-shape",
+    "Package Contents": "1 Vacuum Connector",
+    "Outer Diameter (in)": "0.375 in",
+    "Vacuum Fitting Sizes Included": "(1) 3/8"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.992826+00:00"
+}

@@ -1,0 +1,49 @@
+---
+// MechanicPicks.astro - Bench-tested Mechanic's Picks Grid
+import MechanicProductCard from './MechanicProductCard.astro';
+
+const hardwareImage =
+  "https://images.unsplash.com/photo-1715322554946-1b22a9800aec?auto=format&fit=crop&w=900&q=85";
+const partsImage =
+  "https://images.unsplash.com/photo-1745766295970-559a969aa2ef?auto=format&fit=crop&w=900&q=85";
+---
+
+<section class="parts-section shell">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Bench-tested layout</p>
+      <h2>MECHANIC'S PICKS</h2>
+    </div>
+    <div class="view-switch">
+      <button type="button" class="active">CARD VIEW</button>
+      <button type="button">TABLE VIEW</button>
+    </div>
+  </div>
+  <div class="product-grid">
+    <MechanicProductCard />
+    <MechanicProductCard
+      image={hardwareImage}
+      brand="Ford / Genuine Parts"
+      title="C6 transmission shift lever assembly"
+      mpn="D4AZ-7A039-A"
+      price="$64.50"
+      thread="7/16-20"
+      length="4.10\""
+      finish="Phosphate"
+      fitment="✓ VERIFIED: 1968–79 FORD F-SERIES"
+      stock="1 IN STOCK"
+    />
+    <MechanicProductCard
+      image={partsImage}
+      brand="GM / Delco"
+      title="Parking brake cable guide hardware"
+      mpn="3981842"
+      price="$38.00"
+      thread="5/16-18"
+      length="1.50\""
+      finish="Black Oxide"
+      fitment="✓ VERIFIED: 1968–72 CHEVELLE / GTO"
+      stock="2 IN STOCK"
+    />
+  </div>
+</section>

@@ -1,0 +1,83 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76931",
+  "clean_mpn": "76931",
+  "title": "Dorman Help 76931 Window Handle Knob for1975-2001 Ford Vehicles - Clear",
+  "slug": "dormanhelp-76931",
+  "upc": null,
+  "epid": "169455389",
+  "description_markdown": "<div align=\"center\" style=\"font-family: Arial, sans-serif; text-align: center; color: #222; max-width: 800px; margin: 0 auto; line-height: 1.5;\"> <h2 style=\"font-size: 20px; font-weight: bold; margin-bottom: 8px;\">Dorman Help 76931 </h2> <p style=\"font-size: 16px; font-weight: bold; margin-top: 4px; margin-bottom: 12px;\">Exact Original Equipment Duplicate</p> <p style=\"font-size: 15px; font-weight: bold; margin-bottom: 16px;\">Direct OE Replacement Fitment</p> <div style=\"font-size: 14px; font-weight: bold; margin-bottom: 16px;\"> <p style=\"margin: 4px 0;\">Attachment Method: Clip</p> <p style=\"margin: 4px 0;\">Color: Clear</p> <p style=\"margin: 4px 0;\">Material: Plastic</p> <p style=\"margin: 4px 0;\">Outside Diameter: 1.25 in</p> <p style=\"margin: 4px 0;\">Package Contents: Knob ; Attaching Hardware</p> <p style=\"margin: 4px 0;\">Package Quantity: 1</p> <p style=\"margin: 4px 0;\">Packaging Type: Card</p> <p style=\"margin: 4px 0;\">Universal Or Specific Fit: Universal</p> <p style=\"margin: 4px 0;\">Window Crank Shaft Attachment Diameter (in): 0.3 in</p> </div> <p style=\"font-size: 14px; font-weight: bold; margin-top: 24px; color: #444;\">*Shipping will combine at checkout.</p></div>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handle Knobs",
+  "department": "Window Handle Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.25,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-76931",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Window handle knob. Ford, clear. 1."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76931-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76931 Dorman Help 76931 Window Handle Knob for1975-2001 Ford Vehicles - Clear"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76931-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76931 Dorman Help 76931 Window Handle Knob for1975-2001 Ford Vehicles - Clear"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76931-002.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76931 Dorman Help 76931 Window Handle Knob for1975-2001 Ford Vehicles - Clear"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76931_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76931 Dorman Help 76931 Window Handle Knob for1975-2001 Ford Vehicles - Clear"
+    }
+  ],
+  "specifications": {
+    "Color": "Clear",
+    "Material": "Plastic",
+    "Outside Diameter": "1.25 in",
+    "Package Contents": "Knob",
+    "Attachment Method": "Clip",
+    "Attaching Hardware": "Yes",
+    "Universal Or Specific Fit": "Universal",
+    "Window Crank Shaft Attachment Diameter (in)": "0.3 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.166660+00:00"
+}

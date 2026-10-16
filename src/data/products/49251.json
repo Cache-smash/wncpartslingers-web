@@ -1,0 +1,44 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "49251",
+  "clean_mpn": "49251",
+  "title": "Door Pull Arm Rest Repair Kit for 1974-81 Chevy Camaro Pontiac Firebird Corvette",
+  "slug": "dorman-help-49251",
+  "upc": null,
+  "epid": "23080014111",
+  "description_markdown": "Authentic Dorman Help part 49251. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Motors & Regulators",
+  "store_category": "Armrest Repair & Components",
+  "department": "Armrest Repair & Components",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-49251",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 49251"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.911860+00:00"
+}

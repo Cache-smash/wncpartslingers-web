@@ -1,0 +1,44 @@
+{
+  "brand": "TRW Service Line",
+  "mpn": "670011",
+  "clean_mpn": "670011",
+  "title": "6mm-1.0 Thread 45\u00b0 Degree Elbow Hydraulic Grease Fitting Nipple 10 Pieces TRW",
+  "slug": "trw-service-line-670011",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic TRW Service Line part 670011. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Fittings & Adapters",
+  "store_category": "Fittings & Adapters",
+  "department": "Fittings & Adapters",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-670011",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "TRW Service Line 670011"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.983352+00:00"
+}

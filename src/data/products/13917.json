@@ -1,0 +1,111 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "13917",
+  "clean_mpn": "13917",
+  "title": "Dorman 13917 Pedal Pad for 1976-2003 Buick Chevrolet GMC Olds Pontiac",
+  "slug": "dormanhelp-13917",
+  "upc": null,
+  "epid": "168990487",
+  "description_markdown": "Authentic Dorman/Help part 13917. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Pedal Assemblies, Pads & Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-13917",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "DODGE",
+      "model": "RAM 1500 PICKUP",
+      "year_start": 2001,
+      "year_end": 2001,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "RAM 2500 PICKUP",
+      "year_start": 2001,
+      "year_end": 2003,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "RAM 3500 PICKUP",
+      "year_start": 2001,
+      "year_end": 2003,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "DODGE",
+      "model": "RAM 4000",
+      "year_start": 2001,
+      "year_end": 2001,
+      "engine": null,
+      "notes": null
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 13917"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "DODGE",
+        "model": "RAM 1500 PICKUP",
+        "years": "2001",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "RAM 2500 PICKUP",
+        "years": "2001-2003",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "RAM 3500 PICKUP",
+        "years": "2001-2003",
+        "engine": ""
+      },
+      {
+        "make": "DODGE",
+        "model": "RAM 4000",
+        "years": "2001",
+        "engine": ""
+      }
+    ],
+    "oe_interchanges": [
+      "MPA13917",
+      "56028560AA",
+      "56028920AC",
+      "56028925AA",
+      "88861853"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.063390+00:00"
+}

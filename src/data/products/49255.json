@@ -1,0 +1,72 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "49255",
+  "clean_mpn": "49255",
+  "title": "Dorman Help Armrest Repair Kit for 1978-Up Ford Mustang Pinto Mercury Bobcat etc",
+  "slug": "dorman-help-49255",
+  "upc": null,
+  "epid": "7080131158",
+  "description_markdown": "<p>Dorman #49255 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Motors & Regulators",
+  "store_category": "Armrest Repair & Components",
+  "department": "Armrest Repair & Components",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-49255",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179233/wnc_parts/DOR_49255/49255_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 49255 Dorman Help Armrest Repair Kit for 1978-Up Ford Mustang Pinto Mercury Bobcat etc"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179234/wnc_parts/DOR_49255/49255_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 49255 Dorman Help Armrest Repair Kit for 1978-Up Ford Mustang Pinto Mercury Bobcat etc"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179235/wnc_parts/DOR_49255/49255_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 49255 Dorman Help Armrest Repair Kit for 1978-Up Ford Mustang Pinto Mercury Bobcat etc"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179237/wnc_parts/DOR_49255/49255_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 49255 Dorman Help Armrest Repair Kit for 1978-Up Ford Mustang Pinto Mercury Bobcat etc"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179238/wnc_parts/DOR_49255/49255_5.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 49255 Dorman Help Armrest Repair Kit for 1978-Up Ford Mustang Pinto Mercury Bobcat etc"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.912940+00:00"
+}

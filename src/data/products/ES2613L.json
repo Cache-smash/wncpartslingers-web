@@ -1,0 +1,44 @@
+{
+  "brand": "MOOG",
+  "mpn": "ES2613L",
+  "clean_mpn": "ES2613L",
+  "title": "MOOG ES2613L Steering Drag Link fits 1970-1991 GMC Jimmy Chevrolet Blazer",
+  "slug": "moog-es2613l",
+  "upc": null,
+  "epid": "179386997",
+  "description_markdown": "Authentic MOOG part ES2613L. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Tie Rods & Steering Linkages",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 72.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "ES2613L-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "MOOG ES2613L"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.115163+00:00"
+}

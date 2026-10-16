@@ -1,0 +1,72 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "45395",
+  "clean_mpn": "45395",
+  "title": "Dorman Help 45395 Hood Prop Rod Retainer Universal Fit",
+  "slug": "dormanhelp-45395",
+  "upc": null,
+  "epid": "229934711",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This hood prop rod retainer is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance. Direct replacement - this hood prop rod retainer matches the fit and function of the factory part on specified years, makes and models Ideal solution - this retainer is a reliable replacement for an original part that is missing or has failed due to fatigue Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Product Specifications Color: White Material: Plastic Package Contents: 1 Retainer Package Quantity: 1 Packaging Type: Card Universal Or Specific Fit: Universal",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Hoods > Lift Supports & Prop Rods",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.95,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "45395-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45395-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 45395 Dorman Help 45395 Hood Prop Rod Retainer Universal Fit"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45395-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 45395 Dorman Help 45395 Hood Prop Rod Retainer Universal Fit"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45395_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 45395 Dorman Help 45395 Hood Prop Rod Retainer Universal Fit"
+    }
+  ],
+  "specifications": {
+    "Color": "White",
+    "specs": {
+      "Color": "White",
+      "Material": "Plastic",
+      "Packaging Type": "Card",
+      "Package Contents": "1 Retainer",
+      "Package Quantity": "1",
+      "Universal Or Specific Fit": "Universal"
+    },
+    "Material": "Plastic",
+    "oe_numbers": [],
+    "Package Contents": "1 Retainer",
+    "Universal Or Specific Fit": "Universal"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.089841+00:00"
+}

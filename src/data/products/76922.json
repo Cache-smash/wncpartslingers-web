@@ -1,0 +1,113 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76922",
+  "clean_mpn": "76922",
+  "title": "Dorman Help 76922 OER Window Handle 1980-90 Ford Mustang Escort Mercury Capri",
+  "slug": "dormanhelp-76922",
+  "upc": null,
+  "epid": "7080076776",
+  "description_markdown": "Worn or broken window crank handle leading to difficult window operation? Made of durable material for reliable performance, this window crank handle replaces the original equipment handle.\n\n\u2022 Ideal replacement - this window crank handle matches the fit and function of the original equipment component\n\u2022 Durable construction - this window crank handle is made of durable material to withstand extended use\n\u2022 Easy to install - this window crank requires no special tools to install\n\u2022 Versatile design - this window crank handle is suitable for use in various locations in the vehicle\n\nApplication Summary:Ford Escort 1990-81, Ford EXP 1985-82, Ford Mustang 1986-80, Mercury Capri 1986-80, Mercury LN7 1983-82, Mercury Lynx 1987-81",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handles & Cranks",
+  "department": "Window Handles & Cranks",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 4.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-76922",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "EXP TS"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "a 2 Sor it\u201d Bem"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76922-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76922 Dorman Help 76922 OER Window Handle 1980-90 Ford Mustang Escort Mercury Capri"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76922-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76922 Dorman Help 76922 OER Window Handle 1980-90 Ford Mustang Escort Mercury Capri"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76922-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76922 Dorman Help 76922 OER Window Handle 1980-90 Ford Mustang Escort Mercury Capri"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76922-002.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76922 Dorman Help 76922 OER Window Handle 1980-90 Ford Mustang Escort Mercury Capri"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76922_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76922 Dorman Help 76922 OER Window Handle 1980-90 Ford Mustang Escort Mercury Capri"
+    }
+  ],
+  "specifications": {
+    "Color": "Black",
+    "Material": "Plastic",
+    "Knob Color": "Textured Black",
+    "OE_Numbers": "E2FZ 5823342-A (FORD MOTOR COMPANY) | E9FZ5823342A (FORD MOTOR COMPANY)",
+    "Knob Material": "Plastic",
+    "Package Contents": "Window Crank Handle",
+    "Window Crank Shaft Attachment": "Clip"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.179361+00:00"
+}

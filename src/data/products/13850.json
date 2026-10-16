@@ -1,0 +1,71 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "13850",
+  "clean_mpn": "13850",
+  "title": "Dorman Help 13850 13 Piece Roll Pin Assortment 3/32\" to 7/32\" Hardware",
+  "slug": "dormanhelp-13850",
+  "upc": null,
+  "epid": "230441216",
+  "description_markdown": "Authentic Dorman/Help part 13850. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.25,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "13850-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13850-009.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13850 Dorman Help 13850 13 Piece Roll Pin Assortment 3/32\" to 7/32\" Hardware"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13850-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13850 Dorman Help 13850 13 Piece Roll Pin Assortment 3/32\" to 7/32\" Hardware"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13850-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13850 Dorman Help 13850 13 Piece Roll Pin Assortment 3/32\" to 7/32\" Hardware"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13850_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13850 Dorman Help 13850 13 Piece Roll Pin Assortment 3/32\" to 7/32\" Hardware"
+    }
+  ],
+  "specifications": {
+    "Color": "Natural/Zinc-Plated",
+    "Length": "0.5 in",
+    "Diameter": "3/32 in-7/32 in",
+    "Material": "Steel",
+    "Package Contents": "13 Roll Pins"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.063390+00:00"
+}

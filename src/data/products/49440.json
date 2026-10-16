@@ -1,0 +1,95 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "49440",
+  "clean_mpn": "49440",
+  "title": "Chrysler Dodge Plymouth Windshield Wiper Linkage Bushing Dorman Help 49440 PAIR",
+  "slug": "dorman-help-49440",
+  "upc": null,
+  "epid": "4080028265",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This windshield wiper linkage bushing is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance. Direct replacement - this windshield wiper linkage bushing matches the fit and function of the factory part on specified years, makes and models Ideal solution - this bushing is a reliable replacement for an original part that has failed due to fatigue Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1998 Dodge B1500 Drive Link Connecting Bushing 1998 Dodge B2500 Drive Link Connecting Bushing 1998 Dodge B3500 Drive Link Connecting Bushing 1997 Dodge B1500 Drive Link Connecting Bushing 1997 Dodge B2500 Drive Link Connecting Bushing 1997 Dodge B3500 Drive Link Connecting Bushing 1996 Dodge B1500 Drive Link Connecting Bushing 1996 Dodge B2500 Drive Link Connecting Bushing 1996 Dodge B3500 Drive Link Connecting Bushing 1996 Dodge Dakota Drive Link Connecting Bushing; Pivot 1995 Chrysler LeBaron Drive Link Connecting Bushing; Pivot 1995 Dodge B1500 Drive Link Connecting Bushing 1995 Dodge B2500 Drive Link Connecting Bushing 1995 Dodge B3500 Drive Link Connecting Bushing 1995 Dodge Dakota Drive Link Connecting Bushing; Pivot 1994 Chrysler LeBaron Drive Link Connecting Bushing; Pivot 1994 Dodge B150 Drive Link Connecting Bushing 1994 Dodge B250 Drive Link Connecting Bushing 1994 Dodge B350 Drive Link Connecting Bushing 1994 Dodge Dakota Drive Link Connecting Bushing; Pivot 1993 Chrysler Imperial Drive Link Connecting Bushing 1993 Chrysler LeBaron",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Wipers & Washers > Additional Wiper & Washer Components",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-49440",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chrysler",
+      "model": "Truck",
+      "year_start": 1974,
+      "year_end": 1974,
+      "engine": null,
+      "notes": "Windshield wiper bushing. Fits Chrysler 1974 and up. Eliminates wiper lag due to worn bushing. OEM duplicate. Two bushings per card. NEW ."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49440-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 49440 Chrysler Dodge Plymouth Windshield Wiper Linkage Bushing Dorman Help 49440 PAIR"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49440-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 49440 Chrysler Dodge Plymouth Windshield Wiper Linkage Bushing Dorman Help 49440 PAIR"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49440_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 49440 Chrysler Dodge Plymouth Windshield Wiper Linkage Bushing Dorman Help 49440 PAIR"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Height": "0.417 in; 0.427 in",
+      "Material": "Nylon",
+      "Color/Finish": "Tan/Clear",
+      "Packaging Type": "Card",
+      "Wall Thickness": ".410 in; .350 in",
+      "Package Contents": "2 Windshield Wiper Linkage Bushings",
+      "Package Quantity": "2",
+      "Bushing Inside Diameter": "0.322 in; 0.379 in",
+      "Bushing Outside Diameter": "0.674 in; 0.738 in"
+    },
+    "Height": "0.417 in",
+    ".350 in": "Yes",
+    "0.379 in": "Yes",
+    "0.427 in": "Yes",
+    "0.738 in": "Yes",
+    "Material": "Nylon",
+    "OE_Numbers": "2857917 (CHRYSLER) | 3799089 (CHRYSLER)",
+    "oe_numbers": [
+      "2857917",
+      "3799089"
+    ],
+    "Color/Finish": "Tan/Clear",
+    "Wall Thickness": ".410 in",
+    "Package Contents": "2 Windshield Wiper Linkage Bushings",
+    "Bushing Inside Diameter": "0.322 in",
+    "Bushing Outside Diameter": "0.674 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.048200+00:00"
+}

@@ -1,0 +1,62 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "42083",
+  "clean_mpn": "42083",
+  "title": "Dorman 42083 Valve Cover Retainer(s) 1/4\"-20 X 1-1/2\" Fits GM Chevy 2 piece",
+  "slug": "dormanhelp-42083",
+  "upc": null,
+  "epid": "230518398",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Go a long way in reducing the possibility of oil leaks from the valve cover with Dorman's Engine Valve Cover Hold Down Tab Set. Resistant to both corrosion and breakage, they hold up for enduring use. Durable metal construction Designed not to bend or break the valve cover flange during repair Direct fit for easy replacement A rigorous quality inspection has been undertaken to ensure that this part conforms to product standards Product Specifications Housing Color: Black Material: Metal Package Contents: 2 Valve Cover Hold Downs Package Quantity: 2 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Other Engine Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "42083-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Universal %\" valve cover retainers. With short holdown bracket. Two pieces per card."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 42083"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Material": "Metal",
+      "Housing Color": "Black",
+      "Packaging Type": "Card",
+      "Package Contents": "2 Valve Cover Hold Downs",
+      "Package Quantity": "2"
+    },
+    "oe_numbers": []
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.083168+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "13422",
+  "clean_mpn": "13422",
+  "title": "Dorman 13422 15 Piece Cotter Pin Assortment Universal",
+  "slug": "dormanhelp-13422",
+  "upc": null,
+  "epid": "2351079445",
+  "description_markdown": "Authentic Dorman/Help part 13422. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "13422-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Cotter pin assortment. Like hair pins, use to secure nuts, rods, washers, etc. Five popular sizes, ifteen per card. 14_\" x %\", Ae\u201d x 1\", %2\" x 1\u201d, %\u201d 4 1h\", \\,\" x Q."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13422-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13422 Dorman 13422 15 Piece Cotter Pin Assortment Universal"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13422-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13422 Dorman 13422 15 Piece Cotter Pin Assortment Universal"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13422-002.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13422 Dorman 13422 15 Piece Cotter Pin Assortment Universal"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13422-001.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13422 Dorman 13422 15 Piece Cotter Pin Assortment Universal"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13422_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13422 Dorman 13422 15 Piece Cotter Pin Assortment Universal"
+    }
+  ],
+  "specifications": {
+    "1 in": "Yes",
+    "2 in": "Yes",
+    "1/8 in": "Yes",
+    "Finish": "Natural/Zinc-Plated",
+    "Length": "1/2 in",
+    "3/32 in": "Yes",
+    "1-1/2 in": "Yes",
+    "Diameter": "1/16 in",
+    "Material": "Steel",
+    "Color/Finish": "Natural/Zinc-Plated",
+    "Fastener Style": "Anchor",
+    "Package Contents": "Cotter Pin Assortment - 15 Pcs.",
+    "Fastener Category": "Pins/Rings/Clips",
+    "Pins/Rings/Clips Name": "Cotter Pin"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.063390+00:00"
+}

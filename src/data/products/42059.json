@@ -1,0 +1,104 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "42059",
+  "clean_mpn": "42059",
+  "title": "PCV Valve Grommet 1981-1990 Jeep CJ5 CJ7 Cherokee & AMC",
+  "slug": "dorman-help-42059",
+  "upc": null,
+  "epid": "23079981894",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This PCV valve grommet is designed to match the fit and function of the original grommet on specified vehicles, and is engineered for durability and reliable performance. Direct replacement - this PCV valve grommet is designed to match the fit and function of the original grommet on specified vehicles Restores functionality - this grommet is made to fit and fully restore part functionality after the original grommet fails Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1990 Jeep Wrangler L6 258 4.2L 1/2 In.; PCV to Valve Cover 1989 Jeep Wrangler L6 258 4.2L 1/2 In.; PCV to Valve Cover 1988 American Motors Eagle L6 258 4.2L 1/2 In.; PCV to Valve Cover 1988 Jeep Wrangler L6 258 4.2L 1/2 In.; PCV to Valve Cover 1987 American Motors Eagle L6 258 4.2L 1/2 In.; PCV to Valve Cover 1987 Jeep J10 L6 258 4.2L 1/2 In.; PCV to Valve Cover 1987 Jeep Wrangler L6 258 4.2L 1/2 In.; PCV to Valve Cover 1986 American Motors Eagle L6 258 4.2L 1/2 In.; PCV to Valve Cover 1986 Jeep Cherokee L4 150 2.5L Rear 1/2 In.; PCV to Valve Cover 1986 Jeep CJ7 L4 150 2.5L Rear 1/2 In.; PCV to Valve Cover 1986 Jeep Comanche L4 150 2.5L Rear 1/2 In.; PCV to Valve Cover 1986 Jeep Grand Wagoneer L6 258 4.2L 1/2 In.; PCV to Valve Cover 1986 Jeep J10 L6 258 4.2L 1/2 In.; PCV to Valve Cover 1986 Jeep Wagoneer L4 150 2.5L Rear 1/2 In.; PCV to Valve Cover 1985 American Motors Eagle L6 258 4.2L 1/2 In.; PCV to Valve Cover 1985 Jeep Cherokee L4 150 2.5L Rear 1/2 In.; PCV to Valve Cover 1985 Jeep CJ7 L4 150 2.5L Rear 1/2 In.; PCV to Valve Cover 1985 Jeep Grand Wagoneer L6 2",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air & Fuel Delivery > Other Air & Fuel Delivery",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-42059",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "CID)",
+      "year_start": 1984,
+      "year_end": 1983,
+      "engine": null,
+      "notes": "PCV Valve; Rear"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "CID)",
+      "year_start": 1988,
+      "year_end": 1981,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42059-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42059 PCV Valve Grommet 1981-1990 Jeep CJ5 CJ7 Cherokee & AMC"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42059-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42059 PCV Valve Grommet 1981-1990 Jeep CJ5 CJ7 Cherokee & AMC"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42059-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42059 PCV Valve Grommet 1981-1990 Jeep CJ5 CJ7 Cherokee & AMC"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42059_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42059 PCV Valve Grommet 1981-1990 Jeep CJ5 CJ7 Cherokee & AMC"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Material": "Rubber",
+      "Thickness": "0.459 in",
+      "Packaging Type": "Card",
+      "Inside Diameter": "0.712 in",
+      "Outside Diameter": "1.293 in",
+      "Package Contents": "Grommet",
+      "Package Quantity": "1",
+      "Attachment Method": "Push On"
+    },
+    "Material": "Rubber",
+    "Thickness": "0.459 in",
+    "OE_Numbers": "3237765 (CHRYSLER) | J3237765 (CHRYSLER)",
+    "oe_numbers": [
+      "J3237765",
+      "3237765"
+    ],
+    "Inside Diameter": "0.712 in",
+    "Outside Diameter": "1.293 in",
+    "Package Contents": "Grommet",
+    "Attachment Method": "Push On"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.041076+00:00"
+}

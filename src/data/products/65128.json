@@ -1,0 +1,102 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "65128",
+  "clean_mpn": "65128",
+  "title": "Dorman Help 65128 Transmission Drain Plug Kit for Stripped Threads Universal",
+  "slug": "dorman-help-65128",
+  "upc": null,
+  "epid": "230201343",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This transmission drain plug is designed to match the dimensions and function of the original plug on specified applications. Made of quality materials, it is engineered for reliable performance and durability. Direct replacement - this transmission drain plug matches the dimensions and function of the factory hardware on specified vehicle years, makes and models Ideal solution - this drain plug is a reliable replacement for an original part that is damaged or lost during service Durable construction - this part is made from quality materials to ensure reliable performance and a long service life Quality assured - backed by a team of product experts in the United States and more than a century of automotive experience Product Specifications Color: Silver Length: 1.2 in Material: Steel Package Contents: 1 Oil Drain Plug Selling Package Quantity UOM: Piece Thread Diameter: 1/2 in Universal Or Specific Fit: Universal Wrench Size: 13 mm Package Quantity: 1 Packaging Type: Card Gasket Or Seal Included: Yes",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Transmission & Drivetrain > Automatic Transmission Parts",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 15.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-65128",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179433/wnc_parts/DOR_65128/65128_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 65128 Dorman Help 65128 Transmission Drain Plug Kit for Stripped Threads Universal"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179435/wnc_parts/DOR_65128/65128_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 65128 Dorman Help 65128 Transmission Drain Plug Kit for Stripped Threads Universal"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179436/wnc_parts/DOR_65128/65128_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 65128 Dorman Help 65128 Transmission Drain Plug Kit for Stripped Threads Universal"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/5065128-007.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 65128 Dorman Help 65128 Transmission Drain Plug Kit for Stripped Threads Universal"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/5065128-001.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 65128 Dorman Help 65128 Transmission Drain Plug Kit for Stripped Threads Universal"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/65128_1.jpg",
+      "is_primary": false,
+      "order": 5,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 65128 Dorman Help 65128 Transmission Drain Plug Kit for Stripped Threads Universal"
+    }
+  ],
+  "specifications": {
+    "Color": "Silver",
+    "specs": {
+      "Color": "Silver",
+      "Length": "1.2 in",
+      "Material": "Steel",
+      "Wrench Size": "13 mm",
+      "Packaging Type": "Card",
+      "Thread Diameter": "1/2 in",
+      "Package Contents": "1 Oil Drain Plug",
+      "Package Quantity": "1",
+      "Gasket Or Seal Included": "Yes",
+      "Universal Or Specific Fit": "Universal",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "Length": "1.2 in",
+    "Material": "Steel",
+    "oe_numbers": [],
+    "Wrench Size": "13 mm",
+    "Thread Diameter": "1/2 in",
+    "Package Contents": "1 Oil Drain Plug",
+    "Gasket Or Seal Included": "Yes",
+    "Universal Or Specific Fit": "Universal"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.951458+00:00"
+}

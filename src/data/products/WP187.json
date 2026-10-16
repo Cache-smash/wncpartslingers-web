@@ -1,0 +1,44 @@
+{
+  "brand": "Calterm",
+  "mpn": "WP-187",
+  "clean_mpn": "WP187",
+  "title": "NEW Calterm 18 Gauge Copper Primary Wire 40 ft BLACK Old Stock Copper",
+  "slug": "calterm-wp-187",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Calterm part WP-187. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Wire & Cables",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.85,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "18ga40-black",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Calterm WP-187"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.187884+00:00"
+}

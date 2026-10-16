@@ -1,0 +1,83 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "42405",
+  "clean_mpn": "42405",
+  "title": "Dorman 42405 Rectangular Headlamp Retaining Ring With 4 Retaining Screws",
+  "slug": "dormanhelp-42405",
+  "upc": null,
+  "epid": "230459913",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This headlight retaining ring designed to match the fit and function of the original ring on specified vehicles, and is engineered for durability and reliable performance. Direct replacement - this headlight retaining ring designed to match the fit and function of the original ring on specified vehicles Restores functionality - reliable replacement for an original part that has failed due to collision damage, moisture infiltration or vibration Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Product Specifications Package Contents: 4 Screws Package Quantity: 1 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Lighting & Lamps > Other Lighting & Lamps",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 14.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-42405",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Headlamp retaining ring. Fits four-lamp system, rec- tangular."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42405-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42405 Dorman 42405 Rectangular Headlamp Retaining Ring With 4 Retaining Screws"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42405-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42405 Dorman 42405 Rectangular Headlamp Retaining Ring With 4 Retaining Screws"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42405_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42405 Dorman 42405 Rectangular Headlamp Retaining Ring With 4 Retaining Screws"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "4 Screws",
+      "Package Quantity": "1"
+    },
+    "oe_numbers": [],
+    "Package Contents": "4 Screws"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.088828+00:00"
+}

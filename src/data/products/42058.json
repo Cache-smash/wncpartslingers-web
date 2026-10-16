@@ -1,0 +1,163 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "42058",
+  "clean_mpn": "42058",
+  "title": "PCV Valve Grommet for 1984-2004 Toyota Camry 4Runner Avalon Tacoma Land Cruiser",
+  "slug": "dorman-help-42058",
+  "upc": null,
+  "epid": "17080162349",
+  "description_markdown": "This PCV valve grommet is designed to match the fit and function of the original grommet on specified vehicles, and is engineered for durability and reliable performance.\n\n\u2022 Direct replacement - this PCV valve grommet is designed to match the fit and function of the original grommet on specified vehicles\n\u2022 Restores functionality - this grommet is made to fit and fully restore part functionality after the original grommet fails\n\u2022 Durable construction - this part is made from quality materials to ensure reliable performance and long service life\n\u2022 Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience\n\nApplication Summary:Lexus 2003-90, Toyota 2006-80",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air & Fuel Delivery > Other Air & Fuel Delivery",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-42058",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "L4-1.8L (112Gb 1682 __ToVave Covey, 1*Oiameter_"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "RSS SSS ERLE ve Cover"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ": - 2. ete ve Cover"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "==="
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u2014_\u2014____"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Toyota",
+      "model": "Truck",
+      "year_start": 1987,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "PCV to Valve Cover, 2F Eng: ee"
+    },
+    {
+      "make": "Toyota",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Toyota",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Toyota",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Toyota",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- 2UZFE En"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42058-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42058 PCV Valve Grommet for 1984-2004 Toyota Camry 4Runner Avalon Tacoma Land Cruiser"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42058-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42058 PCV Valve Grommet for 1984-2004 Toyota Camry 4Runner Avalon Tacoma Land Cruiser"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42058_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 42058 PCV Valve Grommet for 1984-2004 Toyota Camry 4Runner Avalon Tacoma Land Cruiser"
+    }
+  ],
+  "specifications": {
+    "Material": "Rubber",
+    "Thickness": "0.61 in",
+    "OE_Numbers": "90480-18001 (TOYOTA)",
+    "Inside Diameter": "0.428 in",
+    "Outside Diameter": "0.983 in",
+    "Package Contents": "Grommet",
+    "Attachment Method": "Push On"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.040075+00:00"
+}

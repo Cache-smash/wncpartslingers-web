@@ -1,0 +1,56 @@
+---
+// WarehouseFinds.astro - Live Inventory Feed & The NOS Vault Card
+const recentFinds = [
+  ["GM", "3981842", "Chevelle parking brake guide", "$38.00"],
+  ["FORD", "D4AZ-7A039-A", "C6 transmission lever", "$64.50"],
+  ["MOPAR", "2946402", "Door latch striker plate", "$29.00"],
+];
+
+const partsImage =
+  "https://images.unsplash.com/photo-1745766295970-559a969aa2ef?auto=format&fit=crop&w=900&q=85";
+---
+
+<section class="finds-section" id="new-finds">
+  <div class="shell">
+    <div class="section-heading inverse">
+      <div>
+        <p class="eyebrow amber">Fresh from the shelves</p>
+        <h2>RECENT WAREHOUSE FINDS</h2>
+      </div>
+      <div class="live-label"><span></span> LIVE INVENTORY FEED</div>
+    </div>
+    <div class="finds-layout">
+      <div class="finds-table">
+        <div class="finds-table-head">
+          <span>Brand / OE number</span>
+          <span>Description</span>
+          <span>Availability</span>
+          <span>Price</span>
+        </div>
+        {recentFinds.map(([brand, mpn, title, price]) => (
+          <a href="#new-finds" class="find-row">
+            <span>
+              <small>{brand}</small>
+              <code>{mpn}</code>
+            </span>
+            <strong>{title}</strong>
+            <span class="one-left">ONLY 1 IN STOCK</span>
+            <b>{price}</b>
+          </a>
+        ))}
+        <a href="#new-finds" class="all-finds">
+          Browse all new finds <span>&rarr;</span>
+        </a>
+      </div>
+      <aside class="vault-card">
+        <img src={partsImage} alt="Vintage auto parts collection" loading="lazy" />
+        <div>
+          <p class="eyebrow amber">One chance inventory</p>
+          <h3>THE NOS<br />VAULT</h3>
+          <p>When these shelf-worn originals are gone, they are gone.</p>
+          <a href="#new-finds">Enter the vault &rarr;</a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>

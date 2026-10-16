@@ -1,0 +1,155 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "77011",
+  "clean_mpn": "77011",
+  "title": "Dorman 77011 Exterior Door Handle for 1973-86 Ford F150-F350 Lincoln Mercury RH",
+  "slug": "dormanhelp-77011",
+  "upc": null,
+  "epid": "192852206",
+  "description_markdown": "<p>Dorman #77011 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Doors, Trunk Lids & Hatches > Door Handles",
+  "store_category": "Exterior Door Handles",
+  "department": "Exterior Door Handles",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 28.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-77011",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "_\u2014 Bight",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Bright 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "eae Bright 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1996,
+      "year_end": 1987,
+      "engine": null,
+      "notes": "Under Black 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1980,
+      "year_end": 1977,
+      "engine": null,
+      "notes": "aa 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Bright 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "5 Bright 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "; Bright 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Bright 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ": Bright 77009"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Bright 77009"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179571/wnc_parts/DOR_77011/77011_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 77011 Dorman 77011 Exterior Door Handle for 1973-86 Ford F150-F350 Lincoln Mercury RH"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179572/wnc_parts/DOR_77011/77011_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 77011 Dorman 77011 Exterior Door Handle for 1973-86 Ford F150-F350 Lincoln Mercury RH"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179574/wnc_parts/DOR_77011/77011_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 77011 Dorman 77011 Exterior Door Handle for 1973-86 Ford F150-F350 Lincoln Mercury RH"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.964328+00:00"
+}

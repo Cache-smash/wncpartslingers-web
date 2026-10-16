@@ -1,0 +1,79 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "25325",
+  "clean_mpn": "25325",
+  "title": "1/2\" x 300\" PTFE Thread Sealing Tape Teflon Plumbers Tape White",
+  "slug": "dorman-help-25325",
+  "upc": null,
+  "epid": "230176106",
+  "description_markdown": "Authentic Dorman Help part 25325. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Auto Paints & Supplies > Automotive Tape & Adhesives",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 1.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-25325",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Tefion tape. 2\u201d width x 260\u201d length. Holds into threads to stop leaks. 1."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/25325-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 25325 1/2\" x 300\" PTFE Thread Sealing Tape Teflon Plumbers Tape White"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/25325-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 25325 1/2\" x 300\" PTFE Thread Sealing Tape Teflon Plumbers Tape White"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/25325_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 25325 1/2\" x 300\" PTFE Thread Sealing Tape Teflon Plumbers Tape White"
+    }
+  ],
+  "specifications": {
+    "Color": "Yellow",
+    "Length": "600 in",
+    "Material": "PTFE",
+    "Strap Width": "0.5 in",
+    "Resistant To": "Oils",
+    "Describe Type": "Thread Sealing Tape",
+    "Dangerous Goods": "No",
+    "Package Contents": "1 Roll Of Thread Sealing Tape",
+    "Double Sided Adhesive": "No",
+    "Minimum Temperature Rating": "392 Deg. F",
+    "Underwriters Laboratory Listed": "No"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.036507+00:00"
+}

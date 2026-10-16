@@ -1,0 +1,64 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "61116",
+  "clean_mpn": "61116",
+  "title": "Dorman Radiator Drain Petcock 61116 Direct Fit Replacement",
+  "slug": "dormanhelp-61116",
+  "upc": null,
+  "epid": "3080141880",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This radiator drain petcock is a direct replacement for the original equipment plug that may have deteriorated or corroded. Made of quality materials, this petcock is engineered to strict standards for durable use over time. Direct replacement - this radiator drain petcock matches the fit and function of the original equipment part Durable construction - this part is made of quality materials for a long service life Saves money - offers original equipment quality at a competitive price Quality assured - this petcock has undergone virtual testing to assure proper fit and function Detailed Applications Year Make Model Configuration Positions Application Notes 1986 Nissan Stanza 1985 Nissan Stanza 1984 Nissan Stanza 1984 Subaru DL Lower Mount; M14 x 1.25 Thread 1984 Subaru GL Lower Mount; M14 x 1.25 Thread 1984 Subaru Standard Lower Mount; M14 x 1.25 Thread 1983 Nissan Stanza 1983 Subaru DL Lower Mount; M14 x 1.25 Thread 1983 Subaru GL Lower Mount; M14 x 1.25 Thread 1983 Subaru Standard Lower Mount; M14 x 1.25 Thread 1982 Nissan Stanza 1982 Subaru DL Lower Mount; M14 x 1.25 Thread 1982 Subaru GL Lower Mount; M14 x 1.25 Thread 1982 Subaru GLF Lower Mount; M14 x 1.25 Thread 1982 Subaru Standard Lower Mount; M14 x 1.25 Thread 1981 Subaru DL Lower Mount; M14 x 1.25 Thread 1981 Subaru GL Lower Mount; M14 x 1.25 Thread 1981 Subaru GLF Lower Mount; M14 x 1.25 Thread 1981 Subaru Standard Lower Mount; M14 x 1.25 Thread Product Specifications Package Contents: Radiator Drain Cock Package Quantity: 1 Packaging Type: Card Universal Or Specific Fit: Specific Brand: Dorman - HELP! - Carded OE Numbers DIRECT OE CROSS 21440-D0100 NISSAN 745124010 SUBARU",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Power Steering Pumps",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.55,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "61116-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "| 198481 M14-1.25, Lower Mount"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 61116"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - HELP! - Carded",
+      "Packaging Type": "Card",
+      "Package Contents": "Radiator Drain Cock",
+      "Package Quantity": "1",
+      "Universal Or Specific Fit": "Specific"
+    },
+    "oe_numbers": [
+      "21440-D0100"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.096840+00:00"
+}

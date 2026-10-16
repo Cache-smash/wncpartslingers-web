@@ -1,0 +1,138 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76945",
+  "clean_mpn": "76945",
+  "title": "Dorman 76945 OER Window Crank Handle(s) for 1990-2002 Chevy Kodiak GMC Topkick",
+  "slug": "dormanhelp-76945",
+  "upc": null,
+  "epid": "14080083931",
+  "description_markdown": "Worn or broken window crank handle leading to difficult window operation? Made of durable material for reliable performance, this window crank handle replaces the original equipment handle.\n\n\u2022 Ideal replacement - this window crank handle matches the fit and function of the original equipment component\n\u2022 Durable construction - this window crank handle is made of durable material to withstand extended use\n\u2022 Easy to install - this window crank requires no special tools to install\n\u2022 Versatile design - this window crank handle is suitable for use in various locations in the vehicle\n\nApplication Summary:Chevrolet 2002-81, GMC 2002-81",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handles & Cranks",
+  "department": "Window Handles & Cranks",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-76945",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "al SuTree wade Samar"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u201ceT ISTE wack Saca Kn0d"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "a \u00abal LTTE mae nw Saca Kd"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u201cFox CTI na Oe BZN"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ye Cronk ae RL"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76945-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76945 Dorman 76945 OER Window Crank Handle(s) for 1990-2002 Chevy Kodiak GMC Topkick"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76945-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76945 Dorman 76945 OER Window Crank Handle(s) for 1990-2002 Chevy Kodiak GMC Topkick"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76945-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76945 Dorman 76945 OER Window Crank Handle(s) for 1990-2002 Chevy Kodiak GMC Topkick"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76945_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76945 Dorman 76945 OER Window Crank Handle(s) for 1990-2002 Chevy Kodiak GMC Topkick"
+    }
+  ],
+  "specifications": {
+    "Color": "Chrome",
+    "Material": "Metal",
+    "Knob Color": "Black",
+    "OE_Numbers": "14026382 (GENERAL MOTORS) | 14030586 (GENERAL MOTORS)",
+    "Knob Material": "Plastic",
+    "Package Contents": "Window Crank Handle",
+    "Window Crank Shaft Attachment": "Clip"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.180716+00:00"
+}

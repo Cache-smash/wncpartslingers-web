@@ -1,0 +1,93 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65202",
+  "clean_mpn": "65202",
+  "title": "65202 Dorman Oil Drain Plugs Fits Chevy Suburban Chevrolet C1500 Truck Blazer",
+  "slug": "dormanhelp-65202",
+  "upc": null,
+  "epid": "192132248",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles. It is engineered to replace a missing or damaged plug and help ensure a secure seal. Direct replacement - this engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles Ideal solution - engineered to replace a missing or damaged plug and help ensure a secure seal Durable construction - designed and manufactured to strict specifications for reliable performance Trustworthy quality - backed by a team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 2006 Dodge Ram 1500 V10 505 8.3L (8275cc) 1/2 In. x 20 Thread; 9/16 In. Head 2006 Jeep TJ 1/2 In. x 20 Thread; 9/16 In. Head 2006 Jeep Wrangler 1/2 In. x 20 Thread; 9/16 In. Head 2005 Dodge Ram 1500 V10 505 8.3L (8275cc) 1/2 In. x 20 Thread; 9/16 In. Head 2005 Dodge Viper 1/2 In. x 20 Thread; 9/16 In. Head 2005 Jeep Liberty L4 148 2.4L 1/2 In. x 20 Thread; 9/16 In. Head 2005 Jeep TJ 1/2 In. x 20 Thread; 9/16 In. Head 2005 Jeep Wrangler 1/2 In. x 20 Thread; 9/16 In. Head 2004 Dodge Ram 1500 V10 505 8.3L (8275cc) 1/2 In. x 20 Thread; 9/16 In. Head 2004 Dodge Viper 1/2 In. x 20 Thread; 9/16 In. Head 2004 Jeep Grand Cherokee L6 242 4.0L 1/2 In. x 20 Thread; 9/16 In. Head 2004 Jeep Liberty L4 148 2.4L 1/2 In. x 20 Thread; 9/16 In. Head 2004 Jeep TJ 1/2 In. x 20 Thread; 9/16 In. Head 2004 Jeep Wrangler 1/2 In. x 20 Thread; 9/16 In. Head 2003 Dodge Dakota V6 239 3.9L (3906cc) 1/2 In. x 20 Thread; 9/16 In. Head 2003 Dodge Dakota V8 360 5.9L 1/2 In. x 20 Thread; 9/16 In. Head 2003 Dodge Durango V8 360 5.9L 1/2 In. x 20 Thread; 9/16 In. Head 2003 Dodge Ram 1500 V8 360 5.9",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Oil Drain Plugs, Filler Caps & Dipsticks",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65202-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179444/wnc_parts/DOR_65202/65202_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65202 65202 Dorman Oil Drain Plugs Fits Chevy Suburban Chevrolet C1500 Truck Blazer"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Color": "Silver",
+      "Length": "0.869 in",
+      "Magnetic": "No",
+      "Material": "Steel",
+      "Bolt Grade": "3",
+      "Gasket Type": "Gasket",
+      "Thread Size": "1/2-20",
+      "Thread Type": "Fine",
+      "Drain Method": "Conventional",
+      "Thread Pitch": "20",
+      "Describe Type": "Pilot Point",
+      "SAE or Metric": "SAE",
+      "Socket Points": "M6 -1.0",
+      "Head Tool Size": "9/16 in",
+      "Packaging Type": "Card",
+      "Head Drive Type": "Hex",
+      "Thread Diameter": "1/2 in",
+      "Oversized Thread": "No",
+      "Package Contents": "1 Oil Drain Plug",
+      "Package Quantity": "1",
+      "Threads Per Inch": "20",
+      "Special Tool Required": "No",
+      "Gasket Or Seal Included": "Yes"
+    },
+    "oe_numbers": [
+      "14086055",
+      "2268564",
+      "4095544",
+      "23011420",
+      "4763739",
+      "944740",
+      "3771273",
+      "4293859",
+      "83501865",
+      "3923420",
+      "337185",
+      "6034376",
+      "390919",
+      "J3206696",
+      "2372661",
+      "2125890",
+      "6035417",
+      "4271941",
+      "3866776",
+      "3921988"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.955585+00:00"
+}

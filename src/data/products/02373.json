@@ -1,0 +1,69 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "02373",
+  "clean_mpn": "02373",
+  "title": "Dorman 02373 Auto Transmission Shift Lever Control Rod Bushing GMC Chevrolet",
+  "slug": "dormanhelp-02373",
+  "upc": null,
+  "epid": "76844569",
+  "description_markdown": "These replacement automatic transmission shift lever control rod bushings have been made to match the function and performance of the original bushings on select vehicle years, makes and models.\n\n\u2022 Direct replacement - these replacement auto trans shift lever control rod bushings match the original equipment design on specified vehicles\n\u2022 Conveniently fix- simple solution to address worn bushings and restore original performance and feel\n\u2022 Application specific - reverse engineered from the original design on certain vehicle years, makes and models\n\u2022 Trustworthy quality - backed by team of engineers and quality specialists in the United States\n\nApplication Summary:Chevrolet 1994-73, GMC 1994-73",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Transmission & Drivetrain > Automatic Transmission Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 14.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DORMAN_02373",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/02373-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 02373 Dorman 02373 Auto Transmission Shift Lever Control Rod Bushing GMC Chevrolet"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/02373-009.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 02373 Dorman 02373 Auto Transmission Shift Lever Control Rod Bushing GMC Chevrolet"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/02373-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 02373 Dorman 02373 Auto Transmission Shift Lever Control Rod Bushing GMC Chevrolet"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/02373_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 02373 Dorman 02373 Auto Transmission Shift Lever Control Rod Bushing GMC Chevrolet"
+    }
+  ],
+  "specifications": {
+    "Material": "Rubber",
+    "OE_Numbers": "6271391 (GENERAL MOTORS)",
+    "Package Contents": "1 Shifter Link Bushing"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.059348+00:00"
+}

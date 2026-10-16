@@ -1,0 +1,915 @@
+{
+  "brand": "JT&T",
+  "mpn": "211H",
+  "clean_mpn": "211H",
+  "title": "JT&T 211H Universal 18 AWG Chrysler Universal Ignition Battery Fusible Link Wire",
+  "slug": "jtt-211h",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "<p>JT&T #211H Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "Fuses & Fusible Links",
+  "store_category": "Fuses & Fusible Links",
+  "department": "Fuses & Fusible Links",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 5.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-211H",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "FORD",
+      "model": "300",
+      "year_start": 1963,
+      "year_end": 1963,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "BRONCO",
+      "year_start": 1966,
+      "year_end": 1996,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "COUNTRY SEDAN",
+      "year_start": 1962,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "COUNTRY SQUIRE",
+      "year_start": 1962,
+      "year_end": 1991,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "CUSTOM",
+      "year_start": 1964,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "E-100",
+      "year_start": 1969,
+      "year_end": 1983,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "E-150",
+      "year_start": 1975,
+      "year_end": 1996,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "E-200 ECONOLINE",
+      "year_start": 1969,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "E-250",
+      "year_start": 1975,
+      "year_end": 1991,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "E-300 ECONOLINE",
+      "year_start": 1969,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "E-350",
+      "year_start": 1975,
+      "year_end": 1982,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "EXPLORER",
+      "year_start": 1996,
+      "year_end": 2001,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F-100",
+      "year_start": 1969,
+      "year_end": 1983,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F-150",
+      "year_start": 1975,
+      "year_end": 1996,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F-250",
+      "year_start": 1969,
+      "year_end": 1996,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "F-350",
+      "year_start": 1972,
+      "year_end": 1980,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "FAIRLANE",
+      "year_start": 1962,
+      "year_end": 1970,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "FAIRMONT",
+      "year_start": 1978,
+      "year_end": 1982,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "FALCON",
+      "year_start": 1962,
+      "year_end": 1970,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "FALCON SEDAN DELIVERY",
+      "year_start": 1965,
+      "year_end": 1965,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "GALAXIE",
+      "year_start": 1963,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "GRAN TORINO",
+      "year_start": 1972,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "GRANADA",
+      "year_start": 1975,
+      "year_end": 1981,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "LTD",
+      "year_start": 1965,
+      "year_end": 1985,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "LTD CROWN VICTORIA",
+      "year_start": 1983,
+      "year_end": 1991,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "LTD II",
+      "year_start": 1977,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "MAVERICK",
+      "year_start": 1971,
+      "year_end": 1977,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "MUSTANG",
+      "year_start": 1964,
+      "year_end": 1995,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "MUSTANG II",
+      "year_start": 1975,
+      "year_end": 1978,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "P-350",
+      "year_start": 1972,
+      "year_end": 1976,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "P-400",
+      "year_start": 1976,
+      "year_end": 1976,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "P-500",
+      "year_start": 1976,
+      "year_end": 1977,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "RANCH WAGON",
+      "year_start": 1962,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "RANCHERO",
+      "year_start": 1965,
+      "year_end": 1979,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "SPRINT",
+      "year_start": 1963,
+      "year_end": 1964,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "THUNDERBIRD",
+      "year_start": 1977,
+      "year_end": 1993,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "TORINO",
+      "year_start": 1968,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "LINCOLN",
+      "model": "CONTINENTAL",
+      "year_start": 1980,
+      "year_end": 1987,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "LINCOLN",
+      "model": "MARK VI",
+      "year_start": 1980,
+      "year_end": 1983,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "LINCOLN",
+      "model": "MARK VII",
+      "year_start": 1984,
+      "year_end": 1992,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "LINCOLN",
+      "model": "TOWN CAR",
+      "year_start": 1981,
+      "year_end": 1990,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "LINCOLN",
+      "model": "VERSAILLES",
+      "year_start": 1977,
+      "year_end": 1980,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "CALIENTE",
+      "year_start": 1964,
+      "year_end": 1967,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "CAPRI",
+      "year_start": 1966,
+      "year_end": 1986,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "COLONY PARK",
+      "year_start": 1987,
+      "year_end": 1991,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "COMET",
+      "year_start": 1962,
+      "year_end": 1977,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "COMMUTER",
+      "year_start": 1967,
+      "year_end": 1967,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "COUGAR",
+      "year_start": 1967,
+      "year_end": 1993,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "COUNTRY CRUISER",
+      "year_start": 1963,
+      "year_end": 1963,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "CYCLONE",
+      "year_start": 1964,
+      "year_end": 1971,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "GRAND MARQUIS",
+      "year_start": 1979,
+      "year_end": 1991,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "MARQUIS",
+      "year_start": 1979,
+      "year_end": 1982,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "METEOR",
+      "year_start": 1962,
+      "year_end": 1963,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "MONARCH",
+      "year_start": 1975,
+      "year_end": 1980,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "MONTEGO",
+      "year_start": 1968,
+      "year_end": 1974,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "MOUNTAINEER",
+      "year_start": 1997,
+      "year_end": 2001,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "VILLAGER",
+      "year_start": 1962,
+      "year_end": 1967,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "VOYAGER",
+      "year_start": 1966,
+      "year_end": 1967,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "ZEPHYR",
+      "year_start": 1978,
+      "year_end": 1982,
+      "engine": null,
+      "notes": null
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179090/wnc_parts/WNC_211H/211H_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "JT&T 211H JT&T 211H Universal 18 AWG Chrysler Universal Ignition Battery Fusible Link Wire"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179091/wnc_parts/WNC_211H/211H_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "JT&T 211H JT&T 211H Universal 18 AWG Chrysler Universal Ignition Battery Fusible Link Wire"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "FORD",
+        "model": "300",
+        "years": "1963",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "BRONCO",
+        "years": "1966-1996",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "COUNTRY SEDAN",
+        "years": "1962-1974",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "COUNTRY SQUIRE",
+        "years": "1962-1991",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "CUSTOM",
+        "years": "1964-1974",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "E-100",
+        "years": "1969-1983",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "E-150",
+        "years": "1975-1996",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "E-200 ECONOLINE",
+        "years": "1969-1974",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "E-250",
+        "years": "1975-1991",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "E-300 ECONOLINE",
+        "years": "1969-1974",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "E-350",
+        "years": "1975-1982",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "EXPLORER",
+        "years": "1996-2001",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F-100",
+        "years": "1969-1983",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F-150",
+        "years": "1975-1996",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F-250",
+        "years": "1969-1996",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "F-350",
+        "years": "1972-1980",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "FAIRLANE",
+        "years": "1962-1970",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "FAIRMONT",
+        "years": "1978-1982",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "FALCON",
+        "years": "1962-1970",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "FALCON SEDAN DELIVERY",
+        "years": "1965",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "GALAXIE",
+        "years": "1963-1974",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "GRAN TORINO",
+        "years": "1972-1974",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "GRANADA",
+        "years": "1975-1981",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "LTD",
+        "years": "1965-1985",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "LTD CROWN VICTORIA",
+        "years": "1983-1991",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "LTD II",
+        "years": "1977-1979",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "MAVERICK",
+        "years": "1971-1977",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "MUSTANG",
+        "years": "1964-1995",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "MUSTANG II",
+        "years": "1975-1978",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "P-350",
+        "years": "1972-1976",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "P-400",
+        "years": "1976",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "P-500",
+        "years": "1976-1977",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "RANCH WAGON",
+        "years": "1962-1974",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "RANCHERO",
+        "years": "1965-1979",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "SPRINT",
+        "years": "1963-1964",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "THUNDERBIRD",
+        "years": "1977-1993",
+        "engine": ""
+      },
+      {
+        "make": "FORD",
+        "model": "TORINO",
+        "years": "1968-1974",
+        "engine": ""
+      },
+      {
+        "make": "LINCOLN",
+        "model": "CONTINENTAL",
+        "years": "1980-1987",
+        "engine": ""
+      },
+      {
+        "make": "LINCOLN",
+        "model": "MARK VI",
+        "years": "1980-1983",
+        "engine": ""
+      },
+      {
+        "make": "LINCOLN",
+        "model": "MARK VII",
+        "years": "1984-1992",
+        "engine": ""
+      },
+      {
+        "make": "LINCOLN",
+        "model": "TOWN CAR",
+        "years": "1981-1990",
+        "engine": ""
+      },
+      {
+        "make": "LINCOLN",
+        "model": "VERSAILLES",
+        "years": "1977-1980",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "CALIENTE",
+        "years": "1964-1967",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "CAPRI",
+        "years": "1966-1986",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "COLONY PARK",
+        "years": "1987-1991",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "COMET",
+        "years": "1962-1977",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "COMMUTER",
+        "years": "1967",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "COUGAR",
+        "years": "1967-1993",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "COUNTRY CRUISER",
+        "years": "1963",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "CYCLONE",
+        "years": "1964-1971",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "GRAND MARQUIS",
+        "years": "1979-1991",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "MARQUIS",
+        "years": "1979-1982",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "METEOR",
+        "years": "1962-1963",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "MONARCH",
+        "years": "1975-1980",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "MONTEGO",
+        "years": "1968-1974",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "MOUNTAINEER",
+        "years": "1997-2001",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "VILLAGER",
+        "years": "1962-1967",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "VOYAGER",
+        "years": "1966-1967",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "ZEPHYR",
+        "years": "1978-1982",
+        "engine": ""
+      }
+    ],
+    "oe_interchanges": [
+      "2600CP20",
+      "2600CP10",
+      "2600CP40:8",
+      "C0AE6211G",
+      "C20E6211A",
+      "C20E6211B",
+      "C20E6211D",
+      "C20E6211E",
+      "C20E6211H",
+      "C20E6211J",
+      "C20Z6211H",
+      "C20Z6211J",
+      "C20Z6211L",
+      "... Show All C20Z6211M",
+      "C20Z6211R",
+      "C20Z6211U",
+      "C20Z6211V",
+      "C30E6211A",
+      "C30E6211B",
+      "C30E6211D",
+      "C30E6211E",
+      "C30Z6211A",
+      "C30Z6211B",
+      "C30Z6211D",
+      "C30Z6211E",
+      "C50E6211A",
+      "C50E6211D",
+      "C50E6211E",
+      "C50E6211H",
+      "C50E6211L",
+      "C50E6211M",
+      "D40E6211AA Show Fewer"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.990808+00:00"
+}

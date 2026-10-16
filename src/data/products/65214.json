@@ -1,0 +1,84 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65214",
+  "clean_mpn": "65214",
+  "title": "Magnetic Engine Oil Sump Drain Plug - size M12 x 1.25 12mm x 1.25",
+  "slug": "dormanhelp-65214",
+  "upc": null,
+  "epid": "188244142",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles. It is engineered to replace a missing or damaged plug and help ensure a secure seal. Direct replacement - this engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles Ideal solution - engineered to replace a missing or damaged plug and help ensure a secure seal Durable construction - designed and manufactured to strict specifications for reliable performance Trustworthy quality - backed by a team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 2024 Infiniti Q50 V6 3.0L (2997cc) 13 mm Head 2024 Infiniti QX50 L4 2.0L (1997cc) 13 mm Head 2024 Infiniti QX55 L4 2.0L (1997cc) 13 mm Head 2024 Infiniti QX60 V6 3.5L (3498cc) 13 mm Head 2024 Infiniti QX80 V8 5.6L (5552cc) 13 mm Head 2024 Lexus ES250 L4 152 2.5L (2487cc) 13 mm Head 2024 Lexus ES300h L4 152 2.5L (2487cc) 13 mm Head 2024 Lexus ES350 V6 3.5L (3456cc) 13 mm Head 2024 Lexus GX550 V6 3.4L (3445cc) 13 mm Head 2024 Lexus IS300 L4 122 2.0L (1998cc) 13 mm Head 2024 Lexus IS300 V6 3.5L (3456cc) 13 mm Head 2024 Lexus IS350 V6 3.5L (3456cc) 13 mm Head 2024 Lexus IS500 V8 303 5.0L (4969cc) 13 mm Head 2024 Lexus LC500 V8 303 5.0L (4969cc) 13 mm Head 2024 Lexus LC500h V6 3.5L (3456cc) 13 mm Head 2024 Lexus LS500 V6 3.4L (3445cc) 13 mm Head 2024 Lexus LS500h V6 3.5L (3456cc) 13 mm Head 2024 Lexus LX600 V6 3.4L (3445cc) 13 mm Head 2024 Lexus NX250 L4 152 2.5L (2487cc) 13 mm Head 2024 Lexus NX350 L4 146 2.4L (2393cc) 13 mm Head 2024 Lexus NX350h L4 152 2.5L (2487cc) 13 mm Head 2024 Lexus NX450h+ L4 152 2.5L (2487cc) 13 mm Head 2024 Lexus RC F V8 303 5.0L (4969cc) ",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Oil Drain Plugs, Filler Caps & Dipsticks",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65214-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179457/wnc_parts/DOR_65214/65214_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65214 Magnetic Engine Oil Sump Drain Plug - size M12 x 1.25 12mm x 1.25"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Color": "Silver",
+      "Length": "0.779 in",
+      "Magnetic": "No",
+      "Material": "Steel",
+      "Bolt Grade": "3",
+      "Gasket Type": "Gasket",
+      "Thread Size": "M12-1.25",
+      "Thread Type": "Extra Fine",
+      "Drain Method": "Conventional",
+      "Thread Pitch": "1.25",
+      "Describe Type": "Pilot Point",
+      "SAE or Metric": "Metric",
+      "Socket Points": "M6 -1.0",
+      "Head Tool Size": "14 mm",
+      "Packaging Type": "Card",
+      "Head Drive Type": "Hex",
+      "Thread Diameter": "12 mm",
+      "Oversized Thread": "No",
+      "Package Contents": "1 Oil Drain Plug",
+      "Package Quantity": "1",
+      "Threads Per Inch": "0",
+      "Special Tool Required": "No",
+      "Gasket Or Seal Included": "Yes"
+    },
+    "oe_numbers": [
+      "94848906",
+      "11128-01M05",
+      "19317834",
+      "94842686",
+      "90341-12012",
+      "90341-A0007",
+      "1112801M0B",
+      "11128-01M00",
+      "11128-01M01",
+      "90341-12023",
+      "90341-12026"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.956586+00:00"
+}

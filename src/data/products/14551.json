@@ -1,0 +1,125 @@
+{
+  "brand": "AutoExtra/Dorman/Help",
+  "mpn": "14551",
+  "clean_mpn": "14551",
+  "title": "Dorman 14551 Clutch Fork for 2003-21 Honda Odyssey Acura New Old Stock",
+  "slug": "autoextradormanhelp-14551",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic AutoExtra/Dorman/Help part 14551. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 14.93,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-14551",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1973,
+      "year_end": 1972,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "."
+    },
+    {
+      "make": "FORD",
+      "model": "TAURUS",
+      "year_start": 1996,
+      "year_end": 1997,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "SABLE",
+      "year_start": 1996,
+      "year_end": 1997,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "FORD",
+      "model": "TAURUS",
+      "year_start": 1996,
+      "year_end": 1997,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCURY",
+      "model": "SABLE",
+      "year_start": 1996,
+      "year_end": 1997,
+      "engine": null,
+      "notes": null
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294158/wnc_parts/Dorman_Help_14551/14551_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "AutoExtra/Dorman/Help 14551 Dorman 14551 Clutch Fork for 2003-21 Honda Odyssey Acura New Old Stock"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294159/wnc_parts/Dorman_Help_14551/14551_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "AutoExtra/Dorman/Help 14551 Dorman 14551 Clutch Fork for 2003-21 Honda Odyssey Acura New Old Stock"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294160/wnc_parts/Dorman_Help_14551/14551_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "AutoExtra/Dorman/Help 14551 Dorman 14551 Clutch Fork for 2003-21 Honda Odyssey Acura New Old Stock"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "FORD",
+        "model": "TAURUS",
+        "years": "1996-1997",
+        "engine": ""
+      },
+      {
+        "make": "MERCURY",
+        "model": "SABLE",
+        "years": "1996-1997",
+        "engine": ""
+      }
+    ],
+    "oe_interchanges": [
+      "54571"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.001966+00:00"
+}

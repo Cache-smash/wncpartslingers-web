@@ -1,0 +1,78 @@
+{
+  "brand": "Grote",
+  "mpn": "45172",
+  "clean_mpn": "45172",
+  "title": "Grote 45172 Clearance Marker Light Steel Housing Truck Trailer Narrow Rail RED",
+  "slug": "grote-45172",
+  "upc": null,
+  "epid": "230220834",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This bumper grille insert is designed to match the fit, appearance and function of the original insert on specified vehicles, and is engineered for durability and reliable performance. Direct replacement - this bumper grille insert is designed to match the fit, appearance and function of the original insert on specified vehicles Restores functionality - reliable replacement for an original insert that is missing, cracked or damaged from impact Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 2009 Toyota Prius Front Center 2008 Toyota Prius Front Center 2007 Toyota Prius Front Center 2006 Toyota Prius Front Center 2005 Toyota Prius Front Center 2004 Toyota Prius Front Center Product Specifications Attachment Type: Snap In Color: Black Matte Configuration: Front Center Cutting Required: No Drilling Required: No Length: 30.35 in Material: Plastic Mounting Hardware Included: No Package Contents: 1 Grille Width: 5.43 in OE Numbers DIRECT OE CROSS 5311147010 TOYOTA",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Grilles",
+  "store_category": "Clearance & Marker Lights",
+  "department": "Clearance & Marker Lights",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-45172",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45172-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Grote 45172 Grote 45172 Clearance Marker Light Steel Housing Truck Trailer Narrow Rail RED"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45172-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Grote 45172 Grote 45172 Clearance Marker Light Steel Housing Truck Trailer Narrow Rail RED"
+    }
+  ],
+  "specifications": {
+    "Color": "Black Matte",
+    "Width": "5.43 in",
+    "specs": {
+      "Color": "Black Matte",
+      "Width": "5.43 in",
+      "Length": "30.35 in",
+      "Material": "Plastic",
+      "Configuration": "Front Center",
+      "Attachment Type": "Snap In",
+      "Cutting Required": "No",
+      "Package Contents": "1 Grille",
+      "Drilling Required": "No",
+      "Mounting Hardware Included": "No"
+    },
+    "Length": "30.35 in",
+    "Material": "Plastic",
+    "OE_Numbers": "5311147010 (TOYOTA)",
+    "oe_numbers": [
+      "5311147010"
+    ],
+    "Configuration": "Front Center",
+    "Attachment Type": "Snap In",
+    "Cutting Required": "No",
+    "Package Contents": "1 Grille",
+    "Drilling Required": "No",
+    "Mounting Hardware Included": "No"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.930961+00:00"
+}

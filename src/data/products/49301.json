@@ -1,0 +1,470 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "49301",
+  "clean_mpn": "49301",
+  "title": "Dorman Help 49301 Turn Signal Cam fits 1967-91 Chrysler Dodge and Ford F150 250",
+  "slug": "dorman-help-49301",
+  "upc": null,
+  "epid": "10080006418",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This turn signal cam is designed to match the fit and function of the original cam on specified vehicles, and is engineered for durability and reliable performance. Direct replacement - this turn signal cam is designed to match the fit and function of the original cam on specified vehicles Restores functionality - reliable replacement for an original part that has failed due to wear or collision damage Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1991 Ford Bronco w/Tilt Steering Wheel 1991 Ford E-150 Econoline w/Tilt Steering Wheel 1991 Ford E-150 Econoline Club Wagon w/Tilt Steering Wheel 1991 Ford E-250 Econoline w/Tilt Steering Wheel 1991 Ford E-250 Econoline Club Wagon w/Tilt Steering Wheel 1991 Ford E-350 Econoline w/Tilt Steering Wheel 1991 Ford E-350 Econoline Club Wagon w/Tilt Steering Wheel 1991 Ford F-150 w/Tilt Steering Wheel 1991 Ford F-250 w/Tilt Steering Wheel 1991 Ford F-350 w/Tilt Steering Wheel 1991 Ford F-Super Duty w/Tilt Steering Wheel 1990 Ford Bronco w/Tilt Steering Wheel 1990 Ford E-150 Econoline w/Tilt Steering Wheel 1990 Ford E-150 Econoline Club Wagon w/Tilt Steering Wheel 1990 Ford E-250 Econoline w/Tilt Steering Wheel 1990 Ford E-250 Econoline Club Wagon w/Tilt Steering Wheel 1990 Ford E-350 Econoline w/Tilt Steering Wheel 1990 Ford E-350 Econoline Club Wagon w/Tilt Steering Wheel 1990 Ford F-150 w/Tilt Steering Wheel 1990 Ford F-250 w/Tilt Steering Wheel 1990 Ford F-350 w/Tilt Steering Wheel 1990 Ford F-Super Duty w/Tilt Steering Wheel 1989 Dodge Omni 1989 Ford Bronco w/Tilt Steering Wheel 1989 Fo",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Switches & Controls",
+  "store_category": "Turn Signal Cams & Switches",
+  "department": "Turn Signal Cams & Switches",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 16.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-49301",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Wo Whee"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "wo"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1970,
+      "engine": null,
+      "notes": "wo,Tilt Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1973,
+      "year_end": 1970,
+      "engine": null,
+      "notes": "wo/Tilt Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1984,
+      "year_end": 1982,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "wr wo Tilt Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "wo\u2019 Tilt Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1972,
+      "engine": null,
+      "notes": "wo, Tilt Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1972,
+      "engine": null,
+      "notes": "wo, Tilt Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1974,
+      "engine": null,
+      "notes": "wo/Tilt Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1971,
+      "year_end": 1969,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1978,
+      "year_end": 1973,
+      "engine": null,
+      "notes": "w/Tilt Column"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1972,
+      "year_end": 1967,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1977,
+      "year_end": 1973,
+      "engine": null,
+      "notes": "w/Tilt Column"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1972,
+      "year_end": 1968,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1978 w/Titt Column"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "fi NTO"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "cw WoO\" w/Titt"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "quot 72:"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "49 o/Titt"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "FAUNDERBIFO"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "wo"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "RAN"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ge"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "oer w/Tilt"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ESR,"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1978,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "w/Tilt Columa"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1967,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1978,
+      "year_end": 1973,
+      "engine": null,
+      "notes": "wTitt Column"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1980,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "Tit Column"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1966,
+      "year_end": 670,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1976,
+      "year_end": 1973,
+      "engine": null,
+      "notes": "w/Titt Column"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "w/Tilt"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1968,
+      "year_end": 1967,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "WRG?",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "wo,Titt Whee!"
+    },
+    {
+      "make": "Oldsmobile",
+      "model": "WRG?",
+      "year_start": 1978,
+      "year_end": 1970,
+      "engine": null,
+      "notes": "wo/Tiit Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1975,
+      "year_end": 1970,
+      "engine": null,
+      "notes": "wo/Tilt Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1974,
+      "year_end": 1970,
+      "engine": null,
+      "notes": "wo/Tilt Wheel"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49301-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 49301 Dorman Help 49301 Turn Signal Cam fits 1967-91 Chrysler Dodge and Ford F150 250"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49301-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 49301 Dorman Help 49301 Turn Signal Cam fits 1967-91 Chrysler Dodge and Ford F150 250"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/49301_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 49301 Dorman Help 49301 Turn Signal Cam fits 1967-91 Chrysler Dodge and Ford F150 250"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "2 Grommets; 2 Heat Shrink",
+      "Package Quantity": "1"
+    },
+    "oe_numbers": [
+      ""
+    ],
+    "2 Heat Shrink": "Yes",
+    "Package Contents": "2 Grommets"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.158982+00:00"
+}

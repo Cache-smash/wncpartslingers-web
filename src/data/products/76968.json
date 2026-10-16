@@ -1,0 +1,122 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76968",
+  "clean_mpn": "76968",
+  "title": "Dorman Help 76968 Window Crank Handle 1972-79 Subaru Brat, DL, FE, GF, G",
+  "slug": "dormanhelp-76968",
+  "upc": null,
+  "epid": "74955245",
+  "description_markdown": "Worn or broken window crank handle leading to difficult window operation? Made of durable material for reliable performance, this window crank handle replaces the original equipment handle.\n\n\u2022 Ideal replacement - this window crank handle matches the fit and function of the original equipment component\n\u2022 Durable construction - this window crank handle is made of durable material to withstand extended use\n\u2022 Easy to install - this window crank requires no special tools to install\n\u2022 Versatile design - this window crank handle is suitable for use in various locations in the vehicle\n\nApplication Summary:Subaru Brat 1979-78, Subaru Deluxe 1973-72, Subaru DL 1979-74, Subaru FE 1979, Subaru GF 1979-75, Subaru GL 1979, 1975-72, Subaru Standard 1979-76, Subaru Star 1972",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handles & Cranks",
+  "department": "Window Handles & Cranks",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-76968",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "= a a cae"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "STANDARD we"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "SS see AN ALY"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76968-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76968 Dorman Help 76968 Window Crank Handle 1972-79 Subaru Brat, DL, FE, GF, G"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76968-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76968 Dorman Help 76968 Window Crank Handle 1972-79 Subaru Brat, DL, FE, GF, G"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76968-002.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76968 Dorman Help 76968 Window Crank Handle 1972-79 Subaru Brat, DL, FE, GF, G"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76968_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76968 Dorman Help 76968 Window Crank Handle 1972-79 Subaru Brat, DL, FE, GF, G"
+    }
+  ],
+  "specifications": {
+    "Color": "Chrome With Black Insert",
+    "Material": "Metal",
+    "Knob Color": "Chrome With Black Insert",
+    "OE_Numbers": "6611 11690 (SUBARU)",
+    "Knob Material": "Plastic",
+    "Package Contents": "Window Crank Handle",
+    "Window Crank Shaft Attachment": "Clip"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.180716+00:00"
+}

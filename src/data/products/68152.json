@@ -1,0 +1,64 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "68152",
+  "clean_mpn": "68152",
+  "title": "Dorman Help 68152 OER License Plate Light for 1979-96 GMC Chevrolet Truck & Van",
+  "slug": "dorman-help-68152",
+  "upc": null,
+  "epid": "3079991446",
+  "description_markdown": "Cloudy, cracked or missing license plate light lens? This direct replacement matches the fit and appearance of the original lens to restore proper function of the light and to seal out moisture and dirt that can lead to electrical failure.\n\n\u2022 Ideal replacement - this license plate light lens matches the original part on specified vehicle years, makes and models\n\u2022 Durable construction - made of quality materials to provide proper illumination and seal out contaminants\n\u2022 Cost-effective solution - offers original equipment quality at competitive price\n\u2022 Quality tested - this part has undergone try-on testing to ensure a quality fit\n\nApplication Summary:Chevrolet 1996-79, GMC 1996-79",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Lighting & Lamps > License Plate Light Assemblies",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.25,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-68152",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/68152-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 68152 Dorman Help 68152 OER License Plate Light for 1979-96 GMC Chevrolet Truck & Van"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/68152-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 68152 Dorman Help 68152 OER License Plate Light for 1979-96 GMC Chevrolet Truck & Van"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/68152_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 68152 Dorman Help 68152 OER License Plate Light for 1979-96 GMC Chevrolet Truck & Van"
+    }
+  ],
+  "specifications": {
+    "Color": "Silver",
+    "OE_Numbers": "88968463 (GENERAL MOTORS) | 918557 (GENERAL MOTORS)",
+    "Bulb Included": "Yes",
+    "Package Contents": "1 License Lamp Lens",
+    "Mounting Hardware Included": "No"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.051196+00:00"
+}

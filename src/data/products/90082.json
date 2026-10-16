@@ -1,0 +1,60 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "90082",
+  "clean_mpn": "90082",
+  "title": "Dorman Help 90082 NOS Carburetor Accelerator Pump Diaphragm Ford Jeep etc",
+  "slug": "dorman-help-90082",
+  "upc": null,
+  "epid": "3080031364",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman's Carburetor Accelerator Pump Diaphragms are suitable for a range of carburetors. They're constructed from high-quality materials for long-lasting service. Returns the engine to smooth operation Conveniently designed to fit differently sized carburetors Manufacturing materials include durable steel Easy to install Product Specifications Package Contents: 1 Accelerator Pump Diaphragm Package Quantity: 1 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Brakes & Brake Parts > Rebuild Kits & Parts",
+  "store_category": "Carburetor Parts & Kits",
+  "department": "Carburetor Parts & Kits",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-90082",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1960,
+      "year_end": 1977,
+      "engine": null,
+      "notes": "Accelerator pump diaphragm. Fits 1960-1977 Ford, 8 cylinder 302 engines with 2 BBL. \u00a2 Alr Cleaner Holdown Nuts Used to stripped or missing holdown nuts. Prevents cleaner cover Tight ar Cleaner Kespe road Git aid Gust out of the carburven: ei aces ot"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 90082"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "1 Accelerator Pump Diaphragm",
+      "Package Quantity": "1"
+    },
+    "oe_numbers": []
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.919520+00:00"
+}

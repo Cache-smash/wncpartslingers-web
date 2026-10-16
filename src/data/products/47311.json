@@ -1,0 +1,76 @@
+{
+  "brand": "Motormite Vacu-Tite!",
+  "mpn": "47311",
+  "clean_mpn": "47311",
+  "title": "3/16\u201d Hose Connector Coupling 0.0185\" Orifice Restrictor - Vacu-Tite! 47311",
+  "slug": "motormite-vacu-tite-47311",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman manufactures a comprehensive selection of Vacuum and Emissions Fittings for almost any automotive Vacuum job. We also offer Vacuum Tubing, sold separately. Available in a variety of shapes, including Straight, T-Shape, Y-Shape, F-Shape, and L-Shape Constructed from durable plastic or heat-resistant PVC Vinyl for a long service life Conveniently packaged in many different sizes, assortments and quantities Depending on the application, available in either black or white Product Specifications Color: White Connector Shape: Straight Material: Plastic Outer Diameter (in): 0.188 in Package Contents: 1 Vacuum Connector Package Quantity: 1 Packaging Type: Card Vacuum Fitting Sizes Included: (1) 3/16",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 6.95,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-47311",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47311-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Motormite Vacu-Tite! 47311 3/16\u201d Hose Connector Coupling 0.0185\" Orifice Restrictor - Vacu-Tite! 47311"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47311-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Motormite Vacu-Tite! 47311 3/16\u201d Hose Connector Coupling 0.0185\" Orifice Restrictor - Vacu-Tite! 47311"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/47311_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Motormite Vacu-Tite! 47311 3/16\u201d Hose Connector Coupling 0.0185\" Orifice Restrictor - Vacu-Tite! 47311"
+    }
+  ],
+  "specifications": {
+    "Color": "White",
+    "specs": {
+      "Color": "White",
+      "Material": "Plastic",
+      "Packaging Type": "Card",
+      "Connector Shape": "Straight",
+      "Package Contents": "1 Vacuum Connector",
+      "Package Quantity": "1",
+      "Outer Diameter (in)": "0.188 in",
+      "Vacuum Fitting Sizes Included": "(1) 3/16"
+    },
+    "Material": "Plastic",
+    "oe_numbers": [],
+    "Connector Shape": "Straight",
+    "Package Contents": "1 Vacuum Connector",
+    "Outer Diameter (in)": "0.188 in",
+    "Vacuum Fitting Sizes Included": "(1) 3/16"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.119671+00:00"
+}

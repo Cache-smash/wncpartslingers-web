@@ -1,0 +1,89 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "03762",
+  "clean_mpn": "03762",
+  "title": "Dorman Leaf Spring Center Bolt 03762 Suspension Hardware",
+  "slug": "dormanhelp-03762",
+  "upc": null,
+  "epid": "230156080",
+  "description_markdown": "Authentic Dorman/Help part 03762. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Steering & Suspension > Other Steering & Suspension Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.45,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "03762-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "03762 Spring center bolt kit. 7,\u2019 x 12\u201d bolt with 8\u201d thread length. One bolt and nut per card. NEW"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03762-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 03762 Dorman Leaf Spring Center Bolt 03762 Suspension Hardware"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03762-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 03762 Dorman Leaf Spring Center Bolt 03762 Suspension Hardware"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03762_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 03762 Dorman Leaf Spring Center Bolt 03762 Suspension Hardware"
+    }
+  ],
+  "specifications": {
+    "Zinc": "Yes",
+    "Color": "Black",
+    "Finish": "Black Oxide",
+    "Length": "12 in",
+    "Silver": "Yes",
+    "0.365 in": "Yes",
+    "Material": "Steel",
+    "Bolt Type": "Slotted Leaf Spring Center Bolt",
+    "Bolt Grade": "5",
+    "Item Grade": "Standard Replacement",
+    "Thread Size": "7/16-20 X 12 in",
+    "Thread Type": "Fine",
+    "Heat Hardened": "Yes",
+    "Thread Length": "12 in",
+    "Head Tool Size": "5/8 in",
+    "Head Drive Type": "Hex",
+    "Thread Diameter": "7/16 in",
+    "Package Contents": "1 Bolt and 1 Nut",
+    "Threads Per Inch": "20",
+    "Universal Or Specific Fit": "Universal",
+    "Integral Washer Outside Diameter": "0.623 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.061344+00:00"
+}

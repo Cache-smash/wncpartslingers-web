@@ -1,0 +1,90 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "41067",
+  "clean_mpn": "41067",
+  "title": "Dorman HELP! Carded 41067 5 Pack M6 M8 Air Cleaner Wing Nut Fasteners",
+  "slug": "dormanhelp-41067",
+  "upc": null,
+  "epid": "230219318",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This air cleaner fastener is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance. Direct replacement - this air cleaner fastener is designed to match the fit and function of the original part on specified vehicles Ideal solution - this fastener is a reliable replacement for an original part that is missing or has failed due to fatigue Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Product Specifications Color: Silver Fastener Type: Wing Nut Length: 30.38 mm Material: Steel Package Contents: 5 Air Cleaner Fastener Packaging Type: Card Thread Size: (2) M6 x 1.0 and (3) M8 x 1.25 Type: Air Cleaner Wing Nut Universal Or Specific Fit: Universal Package Quantity: 5 Brand: Dorman - HELP! - Carded",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air & Fuel Delivery > Other Air & Fuel Delivery",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.75,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "41067",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "GM",
+      "model": "Truck",
+      "year_start": 1973,
+      "year_end": 1973,
+      "engine": null,
+      "notes": "Metric wing nut assortment. Contains two 6 wing nuts. Fs GM 1879 and up, imports 1973 and up, also general so uses."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/41067-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 41067 Dorman HELP! Carded 41067 5 Pack M6 M8 Air Cleaner Wing Nut Fasteners"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/41067-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 41067 Dorman HELP! Carded 41067 5 Pack M6 M8 Air Cleaner Wing Nut Fasteners"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/41067_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 41067 Dorman HELP! Carded 41067 5 Pack M6 M8 Air Cleaner Wing Nut Fasteners"
+    }
+  ],
+  "specifications": {
+    "Type": "Air Cleaner Wing Nut",
+    "Color": "Silver",
+    "specs": {
+      "Type": "Air Cleaner Wing Nut",
+      "Brand": "Dorman - HELP! - Carded",
+      "Color": "Silver",
+      "Length": "30.38 mm",
+      "Material": "Steel",
+      "Thread Size": "(2) M6 x 1.0 and (3) M8 x 1.25",
+      "Fastener Type": "Wing Nut",
+      "Packaging Type": "Card",
+      "Package Contents": "5 Air Cleaner Fastener",
+      "Package Quantity": "5",
+      "Universal Or Specific Fit": "Universal"
+    },
+    "Length": "30.38 mm",
+    "Material": "Steel",
+    "oe_numbers": [],
+    "Thread Size": "(2) M6 x 1.0 and (3) M8 x 1.25",
+    "Fastener Type": "Wing Nut",
+    "Package Contents": "5 Air Cleaner Fastener",
+    "Universal Or Specific Fit": "Universal"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.069902+00:00"
+}

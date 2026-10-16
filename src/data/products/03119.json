@@ -1,0 +1,58 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "03119",
+  "clean_mpn": "03119",
+  "title": "Dorman Help 03119 Catalytic Converter Clamp for GM 3.8L 4.4L & 5.0L V8 Engines",
+  "slug": "dorman-help-03119",
+  "upc": null,
+  "epid": "75534866",
+  "description_markdown": "<p>Dorman #03119 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exhaust & Emission Systems > Other Exhaust & Emission Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.99,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-03119",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179044/wnc_parts/DOR_03119/03119_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 03119 Dorman Help 03119 Catalytic Converter Clamp for GM 3.8L 4.4L & 5.0L V8 Engines"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179046/wnc_parts/DOR_03119/03119_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 03119 Dorman Help 03119 Catalytic Converter Clamp for GM 3.8L 4.4L & 5.0L V8 Engines"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179048/wnc_parts/DOR_03119/03119_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 03119 Dorman Help 03119 Catalytic Converter Clamp for GM 3.8L 4.4L & 5.0L V8 Engines"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.034402+00:00"
+}

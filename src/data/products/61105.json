@@ -1,0 +1,262 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "61105",
+  "clean_mpn": "61105",
+  "title": "Brass Radiator Drain Petcock w/ Outlet Dorman 61105 1/8 in NPT",
+  "slug": "dormanhelp-61105",
+  "upc": null,
+  "epid": "25079995604",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This radiator drain petcock is a direct replacement for the original equipment plug that may have deteriorated or corroded. Made of quality materials, this petcock is engineered to strict standards for durable use over time. Direct replacement - this radiator drain petcock matches the fit and function of the original equipment part Durable construction - this part is made of quality materials for a long service life Saves money - offers original equipment quality at a competitive price Quality assured - this petcock has undergone virtual testing to assure proper fit and function Detailed Applications Year Make Model Configuration Positions Application Notes 1996 Jeep Cherokee Metal 1995 Jeep Cherokee L4 150 2.5L 1995 Jeep Cherokee L6 242 4.0L Metal 1995 Jeep Wrangler Metal 1994 Jeep Cherokee L4 150 2.5L 1994 Jeep Cherokee L6 242 4.0L Metal 1994 Jeep Wrangler Metal 1993 Jeep Cherokee L4 150 2.5L 1993 Jeep Cherokee L6 242 4.0L Metal 1993 Jeep Grand Cherokee L6 242 4.0L Metal 1993 Jeep Wrangler Metal 1992 Jeep Cherokee L4 150 2.5L 1992 Jeep Cherokee L6 242 4.0L Metal 1992 Jeep Comanche L4 150 2.5L 1992 Jeep Comanche L6 242 4.0L Metal 1992 Jeep Wrangler Metal 1991 Jeep Cherokee 1991 Jeep Comanche 1991 Jeep Wrangler Metal 1990 Jeep Cherokee 1990 Jeep Comanche 1990 Jeep Grand Wagoneer 1990 Jeep Wagoneer 1990 Jeep Wrangler 1989 Jeep Cherokee 1989 Jeep Comanche 1989 Jeep Grand Wagoneer 1989 Jeep Wagoneer 1989 Jeep Wrangler 1988 American Motors Eagle 1988 Jeep Cherokee 1988 Jeep Comanche 1988 Jeep Grand Wagoneer 1988 Jeep Wagoneer 1988 Jeep Wrangler 1987 American Motors Eagle 1987 Jeep Cherokee 1987 Jeep Comanche 1987 Jeep Grand Wagoneer 1987 Jeep Wagoneer 1987 Jeep Wrangler 1986 American Motors Eagle 1986 Jeep Cherokee 1986 Jeep CJ7 1986 Jeep Comanche 1986 Jeep Grand Wagoneer 1986 Jeep J10 1986 Jeep J20 19",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Power Steering Pumps",
+  "store_category": "Fittings & Adapters",
+  "department": "Fittings & Adapters",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "61105-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Metal"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "IRE 4Cyl"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "INS. 6 Cyl; Metal"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "IW -"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1996,
+      "year_end": 1983,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1982 4Cyl"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1992 6 Cyl; Metal"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1901,
+      "year_end": 1986,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1988 6 Cyl; Metal"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1990,
+      "year_end": 1984,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1986,
+      "year_end": 1983,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1990,
+      "year_end": 1983,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1995,
+      "year_end": 1991,
+      "engine": null,
+      "notes": "Metal"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1990,
+      "year_end": 1987,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "AMERICAN RAMBLER"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "= x ="
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "OCOD - ae"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "NSE"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "SALE"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "S76\""
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\"B57"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 61105"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - HELP! - Carded",
+      "Color": "Brass",
+      "Material": "Brass",
+      "Thread Size": "1/8 in",
+      "Tube Length": "1.47 in",
+      "Packaging Type": "Card",
+      "Package Contents": "1 Drain Cock",
+      "Package Quantity": "1",
+      "Overall Width (in)": "1.26 in",
+      "Universal Or Specific Fit": "Specific"
+    },
+    "oe_numbers": [
+      "111668",
+      "J3166547"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.979180+00:00"
+}

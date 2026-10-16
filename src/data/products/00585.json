@@ -1,0 +1,57 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "00585",
+  "clean_mpn": "00585",
+  "title": "Dorman Help 00585 Universal Battery Hold Down Kit for Groups 22F, 24, 27 & 60",
+  "slug": "dorman-help-00585",
+  "upc": null,
+  "epid": "9079945925",
+  "description_markdown": "<p>Dorman #00585 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Starters, Alternators, ECUs & Wiring > Battery Accessories",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-00585",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 00585"
+    }
+  ],
+  "specifications": {
+    "25f": "Yes",
+    "Material": "Steel",
+    "2 Washers": "Yes",
+    "Frame Color": "Blue",
+    "2 Bolt Clips": "Yes",
+    "Frame Length": "6.625 in",
+    "Package Contents": "1 Top Bracket",
+    "27 and 60 Batteries": "Yes",
+    "Universal Or Specific Fit": "Universal",
+    "Fits 6-7/8 in Wide Group 24": "Yes",
+    "(1) 1/4 in-20 X 1/2 in Screw": "Yes",
+    "(1) 1/4 in-20 X 1 in Screw and (2) 1/4 in-20 Nuts": "Yes"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.032399+00:00"
+}

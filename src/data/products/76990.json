@@ -1,0 +1,112 @@
+{
+  "brand": "Dorman HELP!",
+  "mpn": "76990",
+  "clean_mpn": "76990",
+  "title": "Dorman HELP 76990 Rear View Mirror Mounting Bracket Base GM Ford Honda",
+  "slug": "dorman-help-76990",
+  "upc": null,
+  "epid": "230316201",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This interior rear view mirror mounting base matches the fit and function of the original mounting base. Made of quality materials for a solid mount, it allows the mirror to be reinstalled without having to purchase a new complete mirror. Direct replacement - this interior rear view mirror mounting base matches the fit and function of the original equipment mounting base Durable construction - this part is made of quality materials to ensure a solid, secure mount Cost-effective solution - replace only the missing or damaged mount, not the entire mirror Quality tested - this part has undergone try-on testing to ensure a quality fit Product Specifications Attachment Type: Stick on Length: 1.25 in Material: Steel Package Contents: 1 Rear View Mirror Connector Package Quantity: 1 Packaging Type: Card Selling Package Quantity UOM: Piece Width: 0.88 in",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Starters, Alternators, ECUs & Wiring > Wiring Harnesses, Cables & Connectors",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 5.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-76990",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "GM / Ford / Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Rear view mirror bracket. Fits GM, Ford and Honda. In- structions for easy installation included."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179524/wnc_parts/DOR_76990/76990_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman HELP! 76990 Dorman HELP 76990 Rear View Mirror Mounting Bracket Base GM Ford Honda"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179526/wnc_parts/DOR_76990/76990_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman HELP! 76990 Dorman HELP 76990 Rear View Mirror Mounting Bracket Base GM Ford Honda"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179527/wnc_parts/DOR_76990/76990_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman HELP! 76990 Dorman HELP 76990 Rear View Mirror Mounting Bracket Base GM Ford Honda"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179528/wnc_parts/DOR_76990/76990_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman HELP! 76990 Dorman HELP 76990 Rear View Mirror Mounting Bracket Base GM Ford Honda"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76990-003.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman HELP! 76990 Dorman HELP 76990 Rear View Mirror Mounting Bracket Base GM Ford Honda"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76990-007.jpg",
+      "is_primary": false,
+      "order": 5,
+      "media_source": "user_upload",
+      "alt_text": "Dorman HELP! 76990 Dorman HELP 76990 Rear View Mirror Mounting Bracket Base GM Ford Honda"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76990_1.jpg",
+      "is_primary": false,
+      "order": 6,
+      "media_source": "user_upload",
+      "alt_text": "Dorman HELP! 76990 Dorman HELP 76990 Rear View Mirror Mounting Bracket Base GM Ford Honda"
+    }
+  ],
+  "specifications": {
+    "Width": "0.88 in",
+    "specs": {
+      "Width": "0.88 in",
+      "Length": "1.25 in",
+      "Material": "Steel",
+      "Packaging Type": "Card",
+      "Attachment Type": "Stick on",
+      "Package Contents": "1 Rear View Mirror Connector",
+      "Package Quantity": "1",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "Length": "1.25 in",
+    "Material": "Steel",
+    "oe_numbers": [],
+    "Attachment Type": "Stick on",
+    "Package Contents": "1 Rear View Mirror Connector"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.056191+00:00"
+}

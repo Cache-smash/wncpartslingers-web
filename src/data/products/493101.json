@@ -1,0 +1,44 @@
+{
+  "brand": "Dorman/AutoGrade",
+  "mpn": "493-101",
+  "clean_mpn": "493101",
+  "title": "(2) 3/4\" Vacuum Bypass Cap(s) Universal Dorman 02254 Heater Core Coolant Bypass",
+  "slug": "dormanautograde-493-101",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Dorman/AutoGrade part 493-101. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 3.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-493101",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/AutoGrade 493-101"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.058250+00:00"
+}

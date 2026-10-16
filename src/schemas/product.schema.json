@@ -1,0 +1,408 @@
+{
+  "$defs": {
+    "FitmentItem": {
+      "properties": {
+        "make": {
+          "description": "Vehicle Make (e.g. Chevrolet, Ford, Dodge)",
+          "title": "Make",
+          "type": "string"
+        },
+        "model": {
+          "description": "Vehicle Model (e.g. Camaro, Mustang, Ram 1500)",
+          "title": "Model",
+          "type": "string"
+        },
+        "year_start": {
+          "description": "Start year",
+          "maximum": 2050,
+          "minimum": 1900,
+          "title": "Year Start",
+          "type": "integer"
+        },
+        "year_end": {
+          "description": "End year",
+          "maximum": 2050,
+          "minimum": 1900,
+          "title": "Year End",
+          "type": "integer"
+        },
+        "engine": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Engine specs (e.g. 5.0L V8, 2.3L L4)",
+          "title": "Engine"
+        },
+        "position": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Position (e.g. Front Left, Upper, Rear)",
+          "title": "Position"
+        },
+        "notes": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Application notes or sub-model qualifiers",
+          "title": "Notes"
+        }
+      },
+      "required": [
+        "make",
+        "model",
+        "year_start",
+        "year_end"
+      ],
+      "title": "FitmentItem",
+      "type": "object"
+    },
+    "InterchangeItem": {
+      "properties": {
+        "brand": {
+          "description": "Brand name (e.g. GM, Ford, Chrysler, Raybestos, OE/OEM)",
+          "title": "Brand",
+          "type": "string"
+        },
+        "part_number": {
+          "description": "Raw interchange part number",
+          "title": "Part Number",
+          "type": "string"
+        },
+        "clean_part_number": {
+          "default": "",
+          "description": "Alphanumeric normalized part number",
+          "title": "Clean Part Number",
+          "type": "string"
+        },
+        "interchange_type": {
+          "default": "OE",
+          "description": "'OE', 'Competitor', or 'Superseded'",
+          "title": "Interchange Type",
+          "type": "string"
+        }
+      },
+      "required": [
+        "brand",
+        "part_number"
+      ],
+      "title": "InterchangeItem",
+      "type": "object"
+    },
+    "MediaItem": {
+      "properties": {
+        "url": {
+          "description": "Direct CDN or image URL",
+          "title": "Url",
+          "type": "string"
+        },
+        "is_primary": {
+          "default": false,
+          "description": "Primary hero image",
+          "title": "Is Primary",
+          "type": "boolean"
+        },
+        "order": {
+          "default": 0,
+          "description": "Display sequence order",
+          "title": "Order",
+          "type": "integer"
+        },
+        "media_source": {
+          "default": "user_upload",
+          "description": "'cloudinary', 'dorman_cdn', 'rockauto', 'catalog_pdf'",
+          "title": "Media Source",
+          "type": "string"
+        },
+        "alt_text": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Descriptive SEO alt text",
+          "title": "Alt Text"
+        }
+      },
+      "required": [
+        "url"
+      ],
+      "title": "MediaItem",
+      "type": "object"
+    },
+    "ShippingInfo": {
+      "properties": {
+        "weight_major_lbs": {
+          "default": 0,
+          "minimum": 0,
+          "title": "Weight Major Lbs",
+          "type": "integer"
+        },
+        "weight_minor_oz": {
+          "default": 4,
+          "maximum": 15,
+          "minimum": 0,
+          "title": "Weight Minor Oz",
+          "type": "integer"
+        },
+        "total_weight_oz": {
+          "default": 4,
+          "minimum": 0,
+          "title": "Total Weight Oz",
+          "type": "integer"
+        },
+        "package_type": {
+          "default": "Package/Thick Envelope",
+          "title": "Package Type",
+          "type": "string"
+        }
+      },
+      "title": "ShippingInfo",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "brand": {
+      "description": "Canonical manufacturer brand (e.g. Dorman, Motormite, Moog)",
+      "title": "Brand",
+      "type": "string"
+    },
+    "mpn": {
+      "description": "Exact manufacturer part number (e.g. 610-109, 42125)",
+      "title": "Mpn",
+      "type": "string"
+    },
+    "clean_mpn": {
+      "default": "",
+      "description": "Alphanumeric normalized part number",
+      "title": "Clean Mpn",
+      "type": "string"
+    },
+    "title": {
+      "description": "Clean standard e-commerce title",
+      "maxLength": 200,
+      "title": "Title",
+      "type": "string"
+    },
+    "slug": {
+      "default": "",
+      "description": "SEO-friendly URL slug",
+      "title": "Slug",
+      "type": "string"
+    },
+    "upc": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "UPC barcode if available",
+      "title": "Upc"
+    },
+    "epid": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "eBay ePID catalog identifier",
+      "title": "Epid"
+    },
+    "ebay_item_id": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Active eBay listing ID",
+      "title": "Ebay Item Id"
+    },
+    "part_type": {
+      "default": "Auto Part",
+      "description": "Specific functional part name (e.g. Wheel Lug Stud)",
+      "title": "Part Type",
+      "type": "string"
+    },
+    "category_id": {
+      "default": "6030",
+      "description": "eBay Motors primary category ID",
+      "title": "Category Id",
+      "type": "string"
+    },
+    "category_name": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Category name",
+      "title": "Category Name"
+    },
+    "breadcrumbs": {
+      "description": "Hierarchy trail",
+      "items": {
+        "type": "string"
+      },
+      "title": "Breadcrumbs",
+      "type": "array"
+    },
+    "overview": {
+      "default": "",
+      "description": "Product function & description paragraph",
+      "title": "Overview",
+      "type": "string"
+    },
+    "features": {
+      "description": "Bullet-point features and benefits",
+      "items": {
+        "type": "string"
+      },
+      "title": "Features",
+      "type": "array"
+    },
+    "application_summary_text": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Raw vehicle fitment summary text",
+      "title": "Application Summary Text"
+    },
+    "specifications": {
+      "additionalProperties": {
+        "type": "string"
+      },
+      "description": "Key-value specs (e.g. {'Thread Size': 'M12-1.5', 'Length': '45 mm', 'Material': 'Steel'})",
+      "title": "Specifications",
+      "type": "object"
+    },
+    "interchanges": {
+      "description": "OE and aftermarket cross-references",
+      "items": {
+        "$ref": "#/$defs/InterchangeItem"
+      },
+      "title": "Interchanges",
+      "type": "array"
+    },
+    "fitments": {
+      "description": "Vehicle compatibility chart",
+      "items": {
+        "$ref": "#/$defs/FitmentItem"
+      },
+      "title": "Fitments",
+      "type": "array"
+    },
+    "images": {
+      "description": "Product photos and diagrams",
+      "items": {
+        "$ref": "#/$defs/MediaItem"
+      },
+      "title": "Images",
+      "type": "array"
+    },
+    "price": {
+      "default": 0.0,
+      "description": "Listing price in USD",
+      "minimum": 0.0,
+      "title": "Price",
+      "type": "number"
+    },
+    "msrp": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Original list price",
+      "title": "Msrp"
+    },
+    "quantity": {
+      "default": 1,
+      "description": "Current stock quantity",
+      "minimum": 0,
+      "title": "Quantity",
+      "type": "integer"
+    },
+    "condition": {
+      "default": "New Old Stock",
+      "description": "Condition: 'New Old Stock', 'New', 'Remanufactured'",
+      "title": "Condition",
+      "type": "string"
+    },
+    "shipping": {
+      "$ref": "#/$defs/ShippingInfo"
+    },
+    "is_published": {
+      "default": false,
+      "description": "True if ready for public storefront",
+      "title": "Is Published",
+      "type": "boolean"
+    },
+    "data_sources": {
+      "description": "Sources that contributed to this record",
+      "items": {
+        "type": "string"
+      },
+      "title": "Data Sources",
+      "type": "array"
+    },
+    "updated_at": {
+      "title": "Updated At",
+      "type": "string"
+    }
+  },
+  "required": [
+    "brand",
+    "mpn",
+    "title"
+  ],
+  "title": "CanonicalProductItem",
+  "type": "object"
+}

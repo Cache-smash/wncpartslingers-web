@@ -1,0 +1,138 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "77029",
+  "clean_mpn": "77029",
+  "title": "Dorman 77029 Interior Door Handle 1978-88 Buick Chevrolet Olds Pontiac - RH Side",
+  "slug": "dormanhelp-77029",
+  "upc": null,
+  "epid": "27080061319",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Want a new interior door handle that matches the original, for far less than going back to the dealership? This replacement door handle was engineered to match the fit and appearance of the stock handle on specific vehicle years, makes and models. Matching appearance - this replacement door handle was specifically designed to look and function the same as the original interior handle on particular vehicles Seamless replacement - designed to match the dimensions and specifications of the handle that came stock on the vehicle Trustworthy construction - engineered in North America and backed by 100 years of automotive aftermarket experience Ensure fit - this handle is vehicle position specific, so double check you have the correct handle for the same position and side of the vehicle you want to replace Detailed Applications Year Make Model Configuration Positions Application Notes 1988 Chevrolet Monte Carlo Front Right Chrome 1988 Oldsmobile Cutlass Supreme RWD Front Right; Rear Right Chrome 1987 Buick Regal Front Right; Rear Right Chrome 1987 Chevrolet El Camino Front Right Chrome 1987 Chevrolet Monte Carlo Front Right Chrome 1987 GMC Caballero Front Right Chrome 1987 Oldsmobile Cutlass Front Right; Rear Right Chrome 1987 Oldsmobile Cutlass Supreme Front Right; Rear Right Chrome 1987 Pontiac Grand Prix Front Right; Rear Right Chrome 1986 Buick Regal Front Right; Rear Right Chrome 1986 Chevrolet El Camino Front Right Chrome 1986 Chevrolet Monte Carlo Front Right Chrome 1986 GMC Caballero Front Right Chrome 1986 Oldsmobile Cutlass Front Right; Rear Right Chrome 1986 Oldsmobile Cutlass Supreme Front Right; Rear Right Chrome 1986 Pontiac Bonneville Front Right; Rear Right Chrome 1986 Pontiac Grand Prix Front Right; Rear Right Chrome 1985 Buick Regal Front Right; Rear Right Chrome 1985 Chevrolet El Camino",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Interior Door Handles",
+  "department": "Interior Door Handles",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 25.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-77029",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Bright 77023"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ree"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "MONTE 77030"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "77030"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ORE 77030"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "a 77030"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "77030"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 77029"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Color": "Chrome",
+      "Shape": "Irregular",
+      "Length": "5.5 in",
+      "Lockable": "No",
+      "Material": "Plastic",
+      "Thickness": "2.5 in",
+      "Cable Included": "No",
+      "Packaging Type": "Card",
+      "Attachment Type": "Bolt",
+      "Linkage Included": "No",
+      "Package Contents": "1 Interior Door Handle",
+      "Package Quantity": "1",
+      "Universal Or Specific Fit": "Specific",
+      "Mounting Hardware Included": "No",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "oe_numbers": [
+      "20009582"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.997480+00:00"
+}

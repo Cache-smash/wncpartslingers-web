@@ -1,0 +1,95 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "02412",
+  "clean_mpn": "02412",
+  "title": "Dorman Help 02412 Universal Chrome Plug Button Assortment 3/8\" to 1\"",
+  "slug": "dormanhelp-02412",
+  "upc": null,
+  "epid": "230448438",
+  "description_markdown": "<div align=\"center\" style=\"font-family: Arial, sans-serif; text-align: center; color: #222; max-width: 800px; margin: 0 auto; line-height: 1.5;\"> <h2 style=\"font-size: 20px; font-weight: bold; margin-bottom: 8px;\">Dorman Help 02412 </h2> <p style=\"font-size: 16px; font-weight: bold; margin-top: 4px; margin-bottom: 12px;\">Exact Original Equipment Duplicate</p> <p style=\"font-size: 15px; font-weight: bold; margin-bottom: 16px;\">Direct OE Replacement Fitment</p> <div style=\"font-size: 14px; font-weight: bold; margin-bottom: 16px;\"> <p style=\"margin: 4px 0;\">Color/Finish: Chrome</p> <p style=\"margin: 4px 0;\">Compatible Hole Diameter: 3/8 in; 1/2 in; 5/8 in; 3/4 in; 1 in</p> <p style=\"margin: 4px 0;\">Diameter: 3/8 in; 1/2 in; 5/8 in; 3/4 in; 1 in</p> <p style=\"margin: 4px 0;\">Material: Chrome</p> <p style=\"margin: 4px 0;\">Package Contents: Universal Chrome Plug Button Assortment</p> <p style=\"margin: 4px 0;\">Package Quantity: 1</p> <p style=\"margin: 4px 0;\">Packaging Type: Card</p> </div> <p style=\"font-size: 14px; font-weight: bold; margin-top: 24px; color: #444;\">*Shipping will combine at checkout.</p></div>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-02412",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "02412 Chrome plug button assortment. %\u201d, 2\u201d, 5%\", %\" 1\u201d, one each, five per card."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 02412"
+    }
+  ],
+  "specifications": {
+    "1 in": "Yes",
+    "1/2 in": "Yes",
+    "3/4 in": "Yes",
+    "5/8 in": "Yes",
+    "Diameter": "3/8 in",
+    "Material": "Chrome",
+    "Color/Finish": "Chrome",
+    "oe_interchanges": [
+      "02415",
+      "02410",
+      "00481",
+      "02409",
+      "00484",
+      "00479",
+      "00480",
+      "00478",
+      "02411",
+      "02413",
+      ").toggleClass(&quot",
+      "ra-hide&quot",
+      ")\" >... Show All02408",
+      "02406",
+      "BA02414",
+      "BA02413",
+      "BA02409",
+      "BA02411",
+      "BA02412",
+      "00482",
+      "00483",
+      "02412",
+      "02409:8",
+      "02408:8",
+      "02410:8",
+      "02414",
+      "02404",
+      "02405",
+      "BA02408",
+      ")\" >Show Fewer"
+    ],
+    "Package Contents": "Universal Chrome Plug Button Assortment",
+    "Compatible Hole Diameter": "3/8 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.059348+00:00"
+}

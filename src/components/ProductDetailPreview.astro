@@ -1,0 +1,38 @@
+---
+// ProductDetailPreview.astro - PDP Blueprint & Verification Architecture
+import OEInterchangeBadges from './OEInterchangeBadges.astro';
+
+const engineImage =
+  "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85";
+---
+
+<section class="pdp-blueprint" id="oe">
+  <div class="shell">
+    <div class="blueprint-intro">
+      <p class="eyebrow amber">Product detail system</p>
+      <h2>EVERY DETAIL.<br />NO GUESSWORK.</h2>
+      <p>Built for buyers who need to verify the part before the box ever leaves our shelf.</p>
+    </div>
+    <div class="pdp-grid">
+      <div class="pdp-image">
+        <img src={engineImage} alt="Vintage engine component and tools" loading="lazy" />
+        <span>01 / ORIGINAL PACKAGING</span>
+      </div>
+      <div class="pdp-content">
+        <div class="pdp-path">BRAKES / HARDWARE / RETURN SPRINGS</div>
+        <p class="eyebrow">Dorman · New old stock</p>
+        <h3>Brake pedal return spring & retainer kit</h3>
+        <code class="pdp-mpn">MPN: HW-1457-NOS</code>
+        <div class="pdp-fit">
+          <span>✓</span>
+          <div>
+            <strong>GUARANTEED FITMENT</strong>
+            <small>Verified for your 1970 Chevrolet Chevelle</small>
+          </div>
+          <button type="button">Change vehicle</button>
+        </div>
+        <OEInterchangeBadges />
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,155 @@
+---
+// src/pages/parts/[mpn].astro - Dynamic Product Detail Page (PDP)
+import products from '../../data/products.json';
+import '../../styles/global.css';
+import Header from '../../components/Header.astro';
+import TrustStrip from '../../components/TrustStrip.astro';
+import OEInterchangeBadges from '../../components/OEInterchangeBadges.astro';
+import Footer from '../../components/Footer.astro';
+
+export async function getStaticPaths() {
+  return products.map((product) => ({
+    params: { mpn: product.clean_mpn || product.mpn },
+    props: { product },
+  }));
+}
+
+const { product } = Astro.props;
+const primaryImage = product.media?.[0]?.url || "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85";
+const interchangeList: Array<[string, string]> = (product.interchanges || []).map((i: any) => [
+  i.brand || "OE/OEM",
+  i.part_number || ""
+]);
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{product.title} | {product.brand} {product.mpn} | WNCPARTSLINGERS</title>
+    <meta
+      name="description"
+      content={`Buy genuine ${product.brand} ${product.mpn} - ${product.title}. Guaranteed NOS / OEM fitment. Ships within 24 hours from Hendersonville, NC.`}
+    />
+  </head>
+  <body class="app">
+    <Header />
+    <TrustStrip />
+
+    <main class="shell" style="padding-top: 36px; padding-bottom: 72px;">
+      <!-- Breadcrumb -->
+      <nav aria-label="Breadcrumb" style="font: 600 9px 'JetBrains Mono', monospace; color: #64748b; margin-bottom: 24px; text-transform: uppercase;">
+        <a href="/" style="color: #64748b;">Home</a> &nbsp;/&nbsp;
+        <a href="/#categories" style="color: #64748b;">{product.department}</a> &nbsp;/&nbsp;
+        <span style="color: #ea580c;">{product.brand} {product.mpn}</span>
+      </nav>
+
+      <!-- Main PDP Split Grid -->
+      <div class="pdp-grid">
+        <!-- Left: Image Gallery -->
+        <div class="pdp-image">
+          <img src={primaryImage} alt={product.title} fetchpriority="high" />
+          <span>01 / {product.condition_badge}</span>
+        </div>
+
+        <!-- Right: Purchasing & Specs -->
+        <div class="pdp-content">
+          <div class="pdp-path">{product.department.toUpperCase()}</div>
+          <p class="eyebrow amber">{product.brand} · {product.condition_badge}</p>
+          <h1 style="font-size: 26px; line-height: 1.15; letter-spacing: -.03em; margin: 8px 0 14px; font-weight: 900; color: #0f172a;">
+            {product.title}
+          </h1>
+          <code class="pdp-mpn">MPN: {product.mpn} &nbsp;|&nbsp; SKU: {product.sku}</code>
+
+          <!-- Guaranteed Fitment Pill -->
+          <div class="pdp-fit">
+            <span>✓</span>
+            <div>
+              <strong>GUARANTEED FITMENT</strong>
+              <small>Verified OEM / NOS replacement hardware</small>
+            </div>
+            <a href="/#parts-finder" style="border: 0; border-bottom: 1px solid #15803d; color: #166534; font-size: 8px; font-weight: 700; text-transform: uppercase;">Check Vehicle</a>
+          </div>
+
+          <!-- Price & Buy Box -->
+          <div style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 20px; margin-bottom: 24px;">
+            <div style="display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 14px;">
+              <div>
+                <span class="price">${Number(product.price).toFixed(2)}</span>
+                <small style="color: #64748b; font-size: 9px; display: block; margin-top: 2px;">
+                  In stock ({product.quantity} available) · Ships in 24 Hours
+                </small>
+              </div>
+              <span class="one-left">AUTHENTIC NOS</span>
+            </div>
+
+            <div style="display: flex; gap: 10px;">
+              <button type="button" class="primary-button" style="flex: 1;">
+                Add to cart <b>+</b>
+              </button>
+            </div>
+            <p style="margin: 12px 0 0; color: #64748b; font-size: 9px; font-family: 'JetBrains Mono', monospace;">
+              *Combined shipping applies automatically. Dispatched from Hendersonville, NC.
+            </p>
+          </div>
+
+          <!-- Cross Reference Interchange -->
+          {interchangeList.length > 0 ? (
+            <OEInterchangeBadges references={interchangeList} />
+          ) : (
+            <div style="background: #111827; color: #f8fafc; padding: 18px; border: 1px solid #334155;">
+              <p class="eyebrow amber" style="margin-bottom: 6px;">Direct Application</p>
+              <h3 style="margin: 0; font-size: 13px;">Manufacturer Direct Replacement</h3>
+              <p style="margin: 6px 0 0; color: #94a3b8; font-size: 10px;">
+                Factory correct item specifications direct for {product.brand} #{product.mpn}.
+              </p>
+            </div>
+          )}
+        </div>
+      </div>
+
+      <!-- Fitment Application Chart (If Available) -->
+      {product.fitments && product.fitments.length > 0 && (
+        <section style="margin-top: 48px; background: #fff; border: 1px solid #cbd5e1; padding: 28px;">
+          <div class="section-heading" style="margin-bottom: 20px;">
+            <div>
+              <p class="eyebrow amber">Application Guide</p>
+              <h2 style="font-size: 24px;">VEHICLE COMPATIBILITY CHART</h2>
+            </div>
+            <span style="font: 700 9px 'JetBrains Mono', monospace; color: #64748b;">
+              {product.fitments.length} VERIFIED APPLICATIONS
+            </span>
+          </div>
+
+          <div style="overflow-x: auto;">
+            <table style="width: 100%; border-collapse: collapse; font-size: 11px; text-align: left;">
+              <thead>
+                <tr style="background: #0f172a; color: #fff; font: 700 8px 'JetBrains Mono', monospace; text-transform: uppercase;">
+                  <th style="padding: 10px 14px;">Years</th>
+                  <th style="padding: 10px 14px;">Make</th>
+                  <th style="padding: 10px 14px;">Model</th>
+                  <th style="padding: 10px 14px;">Notes / Position</th>
+                </tr>
+              </thead>
+              <tbody>
+                {product.fitments.map((fit: any, idx: number) => (
+                  <tr style={`border-bottom: 1px solid #e2e8f0; background: ${idx % 2 === 0 ? '#fff' : '#f8fafc'};`}>
+                    <td style="padding: 10px 14px; font-weight: 700; font-family: 'JetBrains Mono', monospace;">
+                      {fit.year_start === fit.year_end ? fit.year_start : `${fit.year_start}–${fit.year_end}`}
+                    </td>
+                    <td style="padding: 10px 14px; font-weight: 600;">{fit.make}</td>
+                    <td style="padding: 10px 14px;">{fit.model}</td>
+                    <td style="padding: 10px 14px; color: #64748b;">{fit.notes || "Direct Replacement"}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+    </main>
+
+    <Footer />
+  </body>
+</html>

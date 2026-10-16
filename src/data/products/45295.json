@@ -1,0 +1,439 @@
+{
+  "brand": "Dorman HELP!",
+  "mpn": "45295",
+  "clean_mpn": "45295",
+  "title": "DORMAN HELP 45295 Window Channel Guide GM Buick Chevy Olds Pontiac Cadillac",
+  "slug": "dorman-help-45295",
+  "upc": null,
+  "epid": "25080073603",
+  "description_markdown": "<p>Dorman #45295 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Glass & Window Parts > Additional Glass & Window Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.95,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-45295",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "/ 45332"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u2019 / 45332"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1980 Rear Position,"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1987.95 \u201cos 45295 45332"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "45285 45332"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman HELP! 45295"
+    }
+  ],
+  "specifications": {
+    "Material": "Plastic",
+    "fitments": [
+      {
+        "make": "BUICK",
+        "model": "CENTURY",
+        "years": "1982-1996",
+        "engine": ""
+      },
+      {
+        "make": "BUICK",
+        "model": "ELECTRA",
+        "years": "1980-1989",
+        "engine": ""
+      },
+      {
+        "make": "BUICK",
+        "model": "ESTATE WAGON",
+        "years": "1980-1983",
+        "engine": ""
+      },
+      {
+        "make": "BUICK",
+        "model": "LESABRE",
+        "years": "1980-1990",
+        "engine": ""
+      },
+      {
+        "make": "BUICK",
+        "model": "SKYLARK",
+        "years": "1980-1985",
+        "engine": ""
+      },
+      {
+        "make": "CADILLAC",
+        "model": "BROUGHAM",
+        "years": "1987-1992",
+        "engine": ""
+      },
+      {
+        "make": "CADILLAC",
+        "model": "DEVILLE",
+        "years": "1980-1987",
+        "engine": ""
+      },
+      {
+        "make": "CADILLAC",
+        "model": "FLEETWOOD",
+        "years": "1980-1986",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "C10 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "C10 SUBURBAN",
+        "years": "1982",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "C20 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "C20 SUBURBAN",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "C30 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "CAPRICE",
+        "years": "1981-1990",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "CELEBRITY",
+        "years": "1982-1990",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "CITATION",
+        "years": "1980-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "CITATION II",
+        "years": "1984",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "G10",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "G20",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "G30",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "IMPALA",
+        "years": "1981-1985",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "K10 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "K10 SUBURBAN",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "K20 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "K30 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "K5 BLAZER",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "P20",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "P30",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "CHEVROLET",
+        "model": "STEPVAN",
+        "years": "1982",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "C1500 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "C1500 SUBURBAN",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "C2500 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "C2500 SUBURBAN",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "C3500 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "G1500",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "G2500",
+        "years": "1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "G3500",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "JIMMY",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "K1500 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "K1500 SUBURBAN",
+        "years": "1982",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "K2500 PICKUP",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "K2500 SUBURBAN",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "K3500",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "P2500",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "GMC",
+        "model": "P3500",
+        "years": "1982-1983",
+        "engine": ""
+      },
+      {
+        "make": "OLDSMOBILE",
+        "model": "98",
+        "years": "1980-1984",
+        "engine": ""
+      },
+      {
+        "make": "OLDSMOBILE",
+        "model": "CUSTOM CRUISER",
+        "years": "1981-1990",
+        "engine": ""
+      },
+      {
+        "make": "OLDSMOBILE",
+        "model": "CUTLASS CIERA",
+        "years": "1982-1996",
+        "engine": ""
+      },
+      {
+        "make": "OLDSMOBILE",
+        "model": "CUTLASS CRUISER",
+        "years": "1987-1992",
+        "engine": ""
+      },
+      {
+        "make": "OLDSMOBILE",
+        "model": "DELTA 88",
+        "years": "1980-1984",
+        "engine": ""
+      },
+      {
+        "make": "OLDSMOBILE",
+        "model": "OMEGA",
+        "years": "1980-1984",
+        "engine": ""
+      },
+      {
+        "make": "PONTIAC",
+        "model": "6000",
+        "years": "1982-1991",
+        "engine": ""
+      },
+      {
+        "make": "PONTIAC",
+        "model": "BONNEVILLE",
+        "years": "1980-1981",
+        "engine": ""
+      },
+      {
+        "make": "PONTIAC",
+        "model": "CATALINA",
+        "years": "1980-1981",
+        "engine": ""
+      },
+      {
+        "make": "PONTIAC",
+        "model": "PARISIENNE",
+        "years": "1983-1986",
+        "engine": ""
+      },
+      {
+        "make": "PONTIAC",
+        "model": "PHOENIX",
+        "years": "1980-1984",
+        "engine": ""
+      },
+      {
+        "make": "PONTIAC",
+        "model": "SAFARI",
+        "years": "1987-1989",
+        "engine": ""
+      }
+    ],
+    "OE_Numbers": "12338011 (GENERAL MOTORS) | 20123070 (GENERAL MOTORS) | 20328600 (GENERAL MOTORS)",
+    "oe_interchanges": [
+      "45295",
+      "12338011",
+      "20123070",
+      "20328600"
+    ],
+    "Package Contents": "Window Guide"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.055196+00:00"
+}

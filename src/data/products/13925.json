@@ -1,0 +1,172 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "13925",
+  "clean_mpn": "13925",
+  "title": "Dorman Help 13925 Universal 5 Piece Lock Nut Assortment 1/2 3/8 5/16 1/4 #10-24",
+  "slug": "dorman-help-13925",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "<p>Dorman #13925 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 4.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-13925",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "260E",
+      "year_start": 1987,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "300CE",
+      "year_start": 1988,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "300E",
+      "year_start": 1986,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "300SE",
+      "year_start": 1988,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "300SEL",
+      "year_start": 1988,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "300TE",
+      "year_start": 1988,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "450SLC",
+      "year_start": 1980,
+      "year_end": 1980,
+      "engine": null,
+      "notes": null
+    },
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "560SL",
+      "year_start": 1986,
+      "year_end": 1989,
+      "engine": null,
+      "notes": null
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179081/wnc_parts/DOR_13925/13925_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 13925 Dorman Help 13925 Universal 5 Piece Lock Nut Assortment 1/2 3/8 5/16 1/4 #10-24"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179083/wnc_parts/DOR_13925/13925_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 13925 Dorman Help 13925 Universal 5 Piece Lock Nut Assortment 1/2 3/8 5/16 1/4 #10-24"
+    }
+  ],
+  "specifications": {
+    "fitments": [
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "260E",
+        "years": "1987-1989",
+        "engine": ""
+      },
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "300CE",
+        "years": "1988-1989",
+        "engine": ""
+      },
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "300E",
+        "years": "1986-1989",
+        "engine": ""
+      },
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "300SE",
+        "years": "1988-1989",
+        "engine": ""
+      },
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "300SEL",
+        "years": "1988-1989",
+        "engine": ""
+      },
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "300TE",
+        "years": "1988-1989",
+        "engine": ""
+      },
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "450SLC",
+        "years": "1980",
+        "engine": ""
+      },
+      {
+        "make": "MERCEDES-BENZ",
+        "model": "560SL",
+        "years": "1986-1989",
+        "engine": ""
+      }
+    ],
+    "oe_interchanges": [
+      "0075423117",
+      "0075425217",
+      "0095423917"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.035428+00:00"
+}

@@ -1,0 +1,76 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "45393",
+  "clean_mpn": "45393",
+  "title": "Dorman Help 45393 Rubber Bumper Assortment to Eliminate Rattles - Dash Door Hood",
+  "slug": "dorman-help-45393",
+  "upc": null,
+  "epid": "230419696",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Our rubber stop bumper assortments are used to attach exterior moldings to vehicles. Constructed of high quality plastic and steel for performance and durability, our rubber stop bumper assortments are available in multiple styles and sizes of clips. The clips are easy-to-install and require no special tools during installation. Available in a variety of piece counts for both small and large projects Cost-efficient and time-saving alternative to purchasing components separately Direct replacement for a proper fit every time Easy to install Product Specifications Package Contents: 1 Assortment Package Quantity: 1 Packaging Type: Card Selling Package Quantity UOM: Assortment",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-45393",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Rubber bumpers. OEM style for stopping squeaks and rat- tles in doors, hood, trunk, etc. Five %\u201d\u2019 x 1\u201d\u2019 and one each %\" x 34\", V2\" x 54\", 54 x 34\". Eight pieces per card."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45393-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 45393 Dorman Help 45393 Rubber Bumper Assortment to Eliminate Rattles - Dash Door Hood"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45393-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 45393 Dorman Help 45393 Rubber Bumper Assortment to Eliminate Rattles - Dash Door Hood"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/45393_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 45393 Dorman Help 45393 Rubber Bumper Assortment to Eliminate Rattles - Dash Door Hood"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "1 Assortment",
+      "Package Quantity": "1",
+      "Selling Package Quantity UOM": "Assortment"
+    },
+    "oe_numbers": [],
+    "Package Contents": "1 Assortment"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.044076+00:00"
+}

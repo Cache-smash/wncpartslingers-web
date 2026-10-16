@@ -1,0 +1,69 @@
+{
+  "brand": "Dorman",
+  "mpn": "75407",
+  "clean_mpn": "75407",
+  "title": "Dorman Door Lock Knob 75407 Black Metal Push In 2 Pack",
+  "slug": "dorman-75407",
+  "upc": null,
+  "epid": "11080043506",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Missing or damaged knob making it difficult to lock or unlock a door from the inside? Designed to fit like original equipment, this convenient solution easily restores the vehicle's door lock function and interior appearance. Ideal replacement - this door lock knob replacement fits and functions like original equipment Authentic appearance - designed to blend seamlessly with the vehicle's original interior finish Convenient solution - offers original equipment quality without the hassle of sourcing from the dealership Quality tested - has undergone try-on testing to ensure a quality fit Detailed Applications Year Make Model Configuration Positions Application Notes 1991 Ford E-150 Econoline Front; Rear Assortment 1991 Ford E-150 Econoline Club Wagon Front; Rear Assortment 1991 Ford E-250 Econoline Front; Rear Assortment 1991 Ford E-250 Econoline Club Wagon Front; Rear Assortment 1991 Ford E-350 Econoline Front; Rear Assortment 1991 Ford E-350 Econoline Club Wagon Front; Rear Assortment 1991 Ford F-150 Front; Rear Assortment 1991 Ford F-250 Front; Rear Assortment 1991 Ford F-350 Front; Rear Assortment 1991 Ford F-53 Motorhome Chassis Assortment 1991 Ford F-59 Commercial Stripped Chassis Assortment 1991 Ford F-Super Duty Front Assortment 1990 Ford E-150 Econoline Front; Rear Assortment 1990 Ford E-150 Econoline Club Wagon Front; Rear Assortment 1990 Ford E-250 Econoline Front; Rear Assortment 1990 Ford E-250 Econoline Club Wagon Front; Rear Assortment 1990 Ford E-350 Econoline Front; Rear Assortment 1990 Ford E-350 Econoline Club Wagon Front; Rear Assortment 1990 Ford F-150 Front; Rear Assortment 1990 Ford F-250 Front; Rear Assortment 1990 Ford F-350 Front; Rear Assortment 1990 Ford F-53 Motorhome Chassis Assortment 1990 Ford F-59 Commercial Stripped Chassis Assortment 1990 Ford F-Super Duty Front As",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Exterior Locks & Lock Hardware",
+  "store_category": "Door Lock Knobs",
+  "department": "Door Lock Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 11.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "75407-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75407-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 75407 Dorman Door Lock Knob 75407 Black Metal Push In 2 Pack"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75407-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 75407 Dorman Door Lock Knob 75407 Black Metal Push In 2 Pack"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/75407_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman 75407 Dorman Door Lock Knob 75407 Black Metal Push In 2 Pack"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "2 Knobs and 2 Grommets",
+      "Package Quantity": "2"
+    },
+    "OE_Numbers": "E9UZ 1521999-A (FORD MOTOR COMPANY)",
+    "oe_numbers": [
+      ""
+    ],
+    "Package Contents": "2 Knobs and 2 Grommets"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.948458+00:00"
+}

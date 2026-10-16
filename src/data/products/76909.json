@@ -1,0 +1,82 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "76909",
+  "clean_mpn": "76909",
+  "title": "Dorman Help 76909 Window Crank Handle Knob - Clear",
+  "slug": "dormanhelp-76909",
+  "upc": null,
+  "epid": "169579610",
+  "description_markdown": "<div align=\"center\" style=\"font-family: Arial, sans-serif; text-align: center; color: #222; max-width: 800px; margin: 0 auto; line-height: 1.5;\"> <h2 style=\"font-size: 20px; font-weight: bold; margin-bottom: 8px;\">Dorman Help 76909 92 - 96 Ford F-150 Emergency Brake Pedal Assembly Ebrake OEM Bronco F-250 OEM</h2> <p style=\"font-size: 16px; font-weight: bold; margin-top: 4px; margin-bottom: 12px;\">Exact Original Equipment Duplicate</p> <p style=\"font-size: 15px; font-weight: bold; margin-bottom: 16px;\">Direct OE Replacement Fitment</p> <div style=\"font-size: 14px; font-weight: bold; margin-bottom: 16px;\"> <p style=\"margin: 4px 0;\">Attachment Method: Clip</p> <p style=\"margin: 4px 0;\">Color: White</p> <p style=\"margin: 4px 0;\">Material: Plastic</p> <p style=\"margin: 4px 0;\">Outside Diameter: 1.25 in</p> <p style=\"margin: 4px 0;\">Package Contents: Knob</p> <p style=\"margin: 4px 0;\">Package Quantity: 1</p> <p style=\"margin: 4px 0;\">Packaging Type: Card</p> <p style=\"margin: 4px 0;\">Universal Or Specific Fit: Universal</p> <p style=\"margin: 4px 0;\">Window Crank Shaft Attachment Diameter (in): 0.3 in</p> </div> <p style=\"font-size: 14px; font-weight: bold; margin-top: 24px; color: #444;\">*Shipping will combine at checkout.</p></div>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handle Knobs",
+  "department": "Window Handle Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-76909",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "GM",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Window handle knob. GM, clear."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76909-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76909 Dorman Help 76909 Window Crank Handle Knob - Clear"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76909-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76909 Dorman Help 76909 Window Crank Handle Knob - Clear"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76909-002.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76909 Dorman Help 76909 Window Crank Handle Knob - Clear"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76909_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 76909 Dorman Help 76909 Window Crank Handle Knob - Clear"
+    }
+  ],
+  "specifications": {
+    "Color": "White",
+    "Material": "Plastic",
+    "Outside Diameter": "1.25 in",
+    "Package Contents": "Knob",
+    "Attachment Method": "Clip",
+    "Universal Or Specific Fit": "Universal",
+    "Window Crank Shaft Attachment Diameter (in)": "0.3 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.163662+00:00"
+}

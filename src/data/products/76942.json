@@ -1,0 +1,91 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "76942",
+  "clean_mpn": "76942",
+  "title": "Dorman 76942 OER Window Crank Handle Knob Honda & Toyota",
+  "slug": "dorman-help-76942",
+  "upc": null,
+  "epid": "168868363",
+  "description_markdown": "Authentic Dorman Help part 76942. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handle Knobs",
+  "department": "Window Handle Knobs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-76942",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "~_Yeepes__ ome Handle, lear nap"
+    },
+    {
+      "make": "Toyota / Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Window handle knob. Honda/Toyota, biack, snap on."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76942-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76942 Dorman 76942 OER Window Crank Handle Knob Honda & Toyota"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76942-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76942 Dorman 76942 OER Window Crank Handle Knob Honda & Toyota"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76942-001.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76942 Dorman 76942 OER Window Crank Handle Knob Honda & Toyota"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76942_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76942 Dorman 76942 OER Window Crank Handle Knob Honda & Toyota"
+    }
+  ],
+  "specifications": {
+    "Color": "Black",
+    "Material": "Plastic",
+    "Outside Diameter": "1.25 in",
+    "Package Contents": "Knob",
+    "Attachment Method": "Snap On",
+    "Attaching Hardware": "Yes",
+    "Universal Or Specific Fit": "Universal",
+    "Window Crank Shaft Attachment Diameter (in)": "0.3 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.163662+00:00"
+}

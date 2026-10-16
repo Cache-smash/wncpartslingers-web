@@ -1,0 +1,66 @@
+{
+  "brand": "Dorman",
+  "mpn": "47403",
+  "clean_mpn": "47403",
+  "title": "Dorman 47403 1/8\" X 7/32\" In. Soft Vacuum Tubing Connector",
+  "slug": "dorman-47403",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman manufactures a comprehensive selection of Vacuum and Emissions Fittings for almost any automotive Vacuum job. We also offer Vacuum Tubing, sold separately. Available in a variety of shapes, including Straight, T-Shape, Y-Shape, F-Shape, and L-Shape Constructed from durable plastic or heat-resistant PVC Vinyl for a long service life Conveniently packaged in many different sizes, assortments and quantities Depending on the application, available in either black or white Product Specifications Color: Black Connector Shape: Straight Material: Vinyl Outer Diameter (in): 1/8 X 7/32 Package Contents: 1 Vacuum Connector Package Quantity: 1 Packaging Type: Card Vacuum Fitting Sizes Included: (1) 1/8 X 7/32",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.95,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-47403",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman 47403"
+    }
+  ],
+  "specifications": {
+    "MPN": "47403",
+    "Color": "Black",
+    "specs": {
+      "Color": "Black",
+      "Material": "Vinyl",
+      "Packaging Type": "Card",
+      "Connector Shape": "Straight",
+      "Package Contents": "1 Vacuum Connector",
+      "Package Quantity": "1",
+      "Outer Diameter (in)": "1/8 X 7/32",
+      "Vacuum Fitting Sizes Included": "(1) 1/8 X 7/32"
+    },
+    "Material": "Vinyl",
+    "oe_numbers": [],
+    "Connector Shape": "Straight",
+    "oe_interchanges": [
+      "47403"
+    ],
+    "Package Contents": "1 Vacuum Connector",
+    "Outer Diameter (in)": "1/8 X 7/32",
+    "Vacuum Fitting Sizes Included": "(1) 1/8 X 7/32"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.021683+00:00"
+}

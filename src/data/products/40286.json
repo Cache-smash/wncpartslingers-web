@@ -1,0 +1,60 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "40286",
+  "clean_mpn": "40286",
+  "title": "Dorman HELP! 40286 Universal Spark Plug Wire Retainer Separator Loom",
+  "slug": "dorman-help-40286",
+  "upc": null,
+  "epid": "21079953669",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This spark plug wire holder is designed to match the original holder required to protect and preserve spark plug wires on specified vehicles, and is engineered from durable materials for reliable performance. Direct replacement - this spark plug wire holder is designed to match the original holder required to protect and preserve spark plug wires on specified vehicles Restores functionality - this holder is made to fully restore part functionality after the original holder fails Durable construction - this wire holder is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Product Specifications Package Contents: 1 4 Wire Spark Plug Retainers Package Quantity: 1 Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Wheel Bearings, Hubs & Seals",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 4.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Dorman-40286",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Spark plug wire retainer. Unique self locking design, Holds 1 to 4 wires. Suitable for 4, 6 or 8 cylinder engines. 9"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 40286"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "1 4 Wire Spark Plug Retainers",
+      "Package Quantity": "1"
+    },
+    "oe_numbers": []
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.190902+00:00"
+}

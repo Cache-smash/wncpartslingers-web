@@ -1,0 +1,79 @@
+{
+  "brand": "Dietz",
+  "mpn": "64-53000",
+  "clean_mpn": "6453000",
+  "title": "Dietz 5\" Round Clamp-On Blind Spot Mirror with Arm Extension - Made in USA - NOS",
+  "slug": "dietz-64-53000",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Dietz part 64-53000. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 17.99,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Dietz-53000",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294144/wnc_parts/Dietz_64_53000/64_53000_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dietz 64-53000 Dietz 5\" Round Clamp-On Blind Spot Mirror with Arm Extension - Made in USA - NOS"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294145/wnc_parts/Dietz_64_53000/64_53000_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dietz 64-53000 Dietz 5\" Round Clamp-On Blind Spot Mirror with Arm Extension - Made in USA - NOS"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294147/wnc_parts/Dietz_64_53000/64_53000_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dietz 64-53000 Dietz 5\" Round Clamp-On Blind Spot Mirror with Arm Extension - Made in USA - NOS"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294149/wnc_parts/Dietz_64_53000/64_53000_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "Dietz 64-53000 Dietz 5\" Round Clamp-On Blind Spot Mirror with Arm Extension - Made in USA - NOS"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294150/wnc_parts/Dietz_64_53000/64_53000_5.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "cloudinary",
+      "alt_text": "Dietz 64-53000 Dietz 5\" Round Clamp-On Blind Spot Mirror with Arm Extension - Made in USA - NOS"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1790294152/wnc_parts/Dietz_64_53000/64_53000_6.jpg",
+      "is_primary": false,
+      "order": 5,
+      "media_source": "cloudinary",
+      "alt_text": "Dietz 64-53000 Dietz 5\" Round Clamp-On Blind Spot Mirror with Arm Extension - Made in USA - NOS"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.009019+00:00"
+}

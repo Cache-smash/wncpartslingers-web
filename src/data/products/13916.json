@@ -1,0 +1,70 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "13916",
+  "clean_mpn": "13916",
+  "title": "Brake Caliper Bleeder Bolt Repair Kit 1/4\" NPT Adapter (Max Hole Size .437\")",
+  "slug": "dormanhelp-13916",
+  "upc": null,
+  "epid": "230523407",
+  "description_markdown": "Authentic Dorman/Help part 13916. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Brakes & Brake Parts > Brake Hoses, Lines & Fittings",
+  "store_category": "Fittings & Adapters",
+  "department": "Fittings & Adapters",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "13916-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13916-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13916 Brake Caliper Bleeder Bolt Repair Kit 1/4\" NPT Adapter (Max Hole Size .437\")"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13916-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13916 Brake Caliper Bleeder Bolt Repair Kit 1/4\" NPT Adapter (Max Hole Size .437\")"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/13916_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 13916 Brake Caliper Bleeder Bolt Repair Kit 1/4\" NPT Adapter (Max Hole Size .437\")"
+    }
+  ],
+  "specifications": {
+    "Hex Size": "9/16 in",
+    "1 Bleeder Screw": "Yes",
+    "Fitting Material": "Brass",
+    "Fitting Quantity": "1",
+    "Package Contents": "1 Brass Insert Adapter",
+    "Thread Sealer Present": "No",
+    "Bleeder Screw Included": "Yes",
+    "Fitting Inlet Thread Size": "1/4 NPT",
+    "Fitting Inlet Thread Type": "NPT",
+    "Fitting Outlet Thread Size": "5/16 x 24",
+    "Fitting Outlet Thread Type": "Fine"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.978180+00:00"
+}

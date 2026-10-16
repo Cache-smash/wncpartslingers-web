@@ -1,0 +1,82 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "56456",
+  "clean_mpn": "56456",
+  "title": "Dorman Help 56456 Universal Pop-Out Cigarette Lighter Kit for Ashtray & Console",
+  "slug": "dorman-help-56456",
+  "upc": null,
+  "epid": "230361371",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This cigarette lighter kit is designed to match the fit and appearance of the original hardware required to repair the cigarette lighter on specified vehicles. Made of quality components, this kit is engineered for reliable performance and durability. Direct replacement - this cigarette lighter kit is designed to match the fit and appearance of the original hardware required to repair the cigarette lighter on specified vehicles Ideal solution - this kit is a reliable replacement for original components that have failed or are missing Durable construction - this kit is made from quality components to ensure reliable performance and a long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Product Specifications Accessory Type: Lighter and Well Attachment Method: Push In Color: Silver Material: Steel Outlet Quantity: 1 Package Contents: 1 Cigarette Lighter; 1 Lighter Housing; 1 Wire Package Quantity: 1 Packaging Type: Card Universal Or Specific Fit: Universal Voltage: 12VDC",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Power Outlets & Lighters",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 10.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-56456",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56456-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56456 Dorman Help 56456 Universal Pop-Out Cigarette Lighter Kit for Ashtray & Console"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56456-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56456 Dorman Help 56456 Universal Pop-Out Cigarette Lighter Kit for Ashtray & Console"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56456_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56456 Dorman Help 56456 Universal Pop-Out Cigarette Lighter Kit for Ashtray & Console"
+    }
+  ],
+  "specifications": {
+    "Color": "Silver",
+    "specs": {
+      "Color": "Silver",
+      "Voltage": "12VDC",
+      "Material": "Steel",
+      "Accessory Type": "Lighter and Well",
+      "Packaging Type": "Card",
+      "Outlet Quantity": "1",
+      "Package Contents": "1 Cigarette Lighter; 1 Lighter Housing; 1 Wire",
+      "Package Quantity": "1",
+      "Attachment Method": "Push In",
+      "Universal Or Specific Fit": "Universal"
+    },
+    "1 Wire": "Yes",
+    "Voltage": "12VDC",
+    "Material": "Steel",
+    "oe_numbers": [],
+    "Accessory Type": "Lighter and Well",
+    "Outlet Quantity": "1",
+    "Package Contents": "1 Cigarette Lighter",
+    "1 Lighter Housing": "Yes",
+    "Attachment Method": "Push In",
+    "Universal Or Specific Fit": "Universal"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.050195+00:00"
+}

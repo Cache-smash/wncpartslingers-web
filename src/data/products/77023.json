@@ -1,0 +1,140 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "77023",
+  "clean_mpn": "77023",
+  "title": "Dorman 77023 Exterior Door Handle 1976-88 GM Front Drivers Side Chrome 20001545",
+  "slug": "dormanhelp-77023",
+  "upc": null,
+  "epid": "20080074999",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Want a new exterior door handle that matches the original, for far less than going back to the dealership? This replacement door handle was engineered to match the fit and appearance of the stock handle on specific vehicle years, makes and models. Matching appearance - this replacement exterior door handle was specifically designed to look and function the same as the original handle on particular vehicles Seamless replacement - designed to match the dimensions and specifications of the handle that came stock on the vehicle Excellent value - original equipment quality at a lower price Ensure fit - this handle is vehicle position specific, so double check you have the correct handle for the same position and side of the vehicle you want to replace Detailed Applications Year Make Model Configuration Positions Application Notes 1988 Chevrolet Monte Carlo Front Left Bright Finish 1988 Oldsmobile Cutlass Supreme RWD Front Left Bright Finish 1987 Buick Regal Front Left Bright Finish 1987 Chevrolet El Camino Front Left Bright Finish 1987 Chevrolet Monte Carlo Front Left Bright Finish 1987 GMC Caballero Front Left Bright Finish 1987 Oldsmobile Cutlass Front Left Bright Finish 1987 Oldsmobile Cutlass Supreme Front Left Bright Finish 1987 Pontiac Grand Prix Front Left Bright Finish 1986 Buick Regal Front Left Bright Finish 1986 Chevrolet El Camino Front Left Bright Finish 1986 Chevrolet Monte Carlo Front Left Bright Finish 1986 GMC Caballero Front Left Bright Finish 1986 Oldsmobile Cutlass Front Left Bright Finish 1986 Oldsmobile Cutlass Supreme Front Left Bright Finish 1986 Pontiac Bonneville Front Left Bright Finish 1986 Pontiac Grand Prix Front Left Bright Finish 1985 Buick Regal Front Left Bright Finish 1985 Chevrolet El Camino Front Left Bright Finish 1985 Chevrolet Monte Carlo Front Left Bright Finish ",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Exterior Parts & Accessories > Doors, Trunk Lids & Hatches > Door Handles",
+  "store_category": "Exterior Door Handles",
+  "department": "Exterior Door Handles",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 18.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "77023-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Bight"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- Bright"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "BRAVADA Bright"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Brght_"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- 8rgnt_"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "7B 3"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77023-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 77023 Dorman 77023 Exterior Door Handle 1976-88 GM Front Drivers Side Chrome 20001545"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77023-002.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 77023 Dorman 77023 Exterior Door Handle 1976-88 GM Front Drivers Side Chrome 20001545"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77023-001.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 77023 Dorman 77023 Exterior Door Handle 1976-88 GM Front Drivers Side Chrome 20001545"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/77023_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 77023 Dorman 77023 Exterior Door Handle 1976-88 GM Front Drivers Side Chrome 20001545"
+    }
+  ],
+  "specifications": {
+    "Color": "Chrome",
+    "specs": {
+      "Color": "Chrome",
+      "Key Pad": "No",
+      "Material": "Metal",
+      "Key Lock Hole": "No",
+      "Keys Included": "No",
+      "Key Pad Cutout": "No",
+      "Packaging Type": "Card",
+      "Package Contents": "Exterior Door Handle",
+      "Package Quantity": "1"
+    },
+    "Key Pad": "No",
+    "Material": "Metal",
+    "OE_Numbers": "20001545 (GENERAL MOTORS) | 20099249 (GENERAL MOTORS) | 20099251 (GENERAL MOTORS) | 3063341 (GENERAL MOTORS)",
+    "oe_numbers": [
+      "20001545",
+      "3063341",
+      "20099249",
+      "20099251"
+    ],
+    "Key Lock Hole": "No",
+    "Keys Included": "No",
+    "Key Pad Cutout": "No",
+    "Package Contents": "Exterior Door Handle"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.965344+00:00"
+}

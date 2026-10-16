@@ -1,0 +1,93 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "31053",
+  "clean_mpn": "31053",
+  "title": "Dorman 31053 Upper Suspension Control Arm Bumper for 1969-96 CHRYSLER FORD",
+  "slug": "dormanhelp-31053",
+  "upc": null,
+  "epid": "75830253",
+  "description_markdown": "This suspension control arm bumper is precision-engineered and rigorously tested to provide reliable replacement for the original equipment on specific vehicles.\n\n\u2022 Direct replacement - fits and performs like the original equipment on specific vehicles\n\u2022 Reliable fit - precision-engineered to match the design and dimensions of original components\n\u2022 Durable construction - manufactured to strict standards using sturdy, safe materials\n\u2022 Rigorously tested - thorough quality control measures ensure longevity\n\nApplication Summary:Chrysler 1989-65, Dodge 2003-65, Ford 1978-75, Plymouth 1989-65",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Steering & Suspension > Control Arms, Ball Joints & Assemblies",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.99,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "31053-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "5 ."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "76-74 -"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u2014_"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/531-654-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 31053 Dorman 31053 Upper Suspension Control Arm Bumper for 1969-96 CHRYSLER FORD"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/531-654-001.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 31053 Dorman 31053 Upper Suspension Control Arm Bumper for 1969-96 CHRYSLER FORD"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/31053_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 31053 Dorman 31053 Upper Suspension Control Arm Bumper for 1969-96 CHRYSLER FORD"
+    }
+  ],
+  "specifications": {
+    "Color": "Black",
+    "Shape": "Round",
+    "Material": "Rubber",
+    "Grade Type": "Standard Replacement",
+    "OE_Numbers": "2535204 (CHRYSLER) | 4014050 (CHRYSLER) | 4404170 (CHRYSLER)",
+    "Package Contents": "1 Bumper",
+    "Attachment Method": "Threaded",
+    "Mounting Stud Quantity": "1",
+    "Mounting Hardware Included": "No"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.067893+00:00"
+}

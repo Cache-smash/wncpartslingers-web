@@ -1,0 +1,90 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "76972",
+  "clean_mpn": "76972",
+  "title": "Dorman Help 76972 OER Window Handle for 1973-77 Honda Civic Accord N600 Z600",
+  "slug": "dorman-help-76972",
+  "upc": null,
+  "epid": "169396528",
+  "description_markdown": "<p>Dorman #76972 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handles & Cranks",
+  "department": "Window Handles & Cranks",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-76972",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year_start": 1971,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "76972 Window handle. Honda Civic 1971-1978."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179492/wnc_parts/DOR_76972/76972_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 76972 Dorman Help 76972 OER Window Handle for 1973-77 Honda Civic Accord N600 Z600"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179493/wnc_parts/DOR_76972/76972_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 76972 Dorman Help 76972 OER Window Handle for 1973-77 Honda Civic Accord N600 Z600"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179494/wnc_parts/DOR_76972/76972_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 76972 Dorman Help 76972 OER Window Handle for 1973-77 Honda Civic Accord N600 Z600"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179496/wnc_parts/DOR_76972/76972_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 76972 Dorman Help 76972 OER Window Handle for 1973-77 Honda Civic Accord N600 Z600"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.176348+00:00"
+}

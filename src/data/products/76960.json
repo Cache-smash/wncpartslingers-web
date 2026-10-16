@@ -1,0 +1,386 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "76960",
+  "clean_mpn": "76960",
+  "title": "Dorman Help 76960 OER Window Crank Handle for 1978-93 Chrysler Dodge Plymouth",
+  "slug": "dorman-help-76960",
+  "upc": null,
+  "epid": "13079946198",
+  "description_markdown": "<p>Dorman #76960 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Window Handles & Cranks",
+  "department": "Window Handles & Cranks",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.25,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-76960",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "oe oe Crrork Hand\u00e9 w Gale CK"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "IFAS Chrome Hand%_w tiaor Vie,"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1984,
+      "year_end": 1983,
+      "engine": null,
+      "notes": "Chrome Handle w Blacn rns"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1905,
+      "year_end": 1983,
+      "engine": null,
+      "notes": "Chrome Handie, w,Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1963-8\" Chrome Handle, w,Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Nee 4) Chrome Handle_w Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "19S Chrome Handle w Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1988,
+      "year_end": 1930,
+      "engine": null,
+      "notes": "Chrome Handle, Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "Chrome Handle, w.BlackKnob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1988,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "Chrome Handle, wBlackKnob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "190 Chrome Handle, w Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "190-9 Chrome Handle, w, Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "199.4 Chrome Handle, w, Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1987,
+      "year_end": 1983,
+      "engine": null,
+      "notes": "Chrome Handle, w, Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1979,
+      "engine": null,
+      "notes": "Chrome Handie, w/Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1988 Chrome Handle, w/Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Chrome Handle, w/Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1979 Chrome Handle, w/Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1983,
+      "year_end": 1980,
+      "engine": null,
+      "notes": "Chrome Handle, w/Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "6960"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "HORIZON, TCS, TURSIMO"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "RUANT\u2014\u2014i\u2014i\u2018_S\u2122SCSN"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ROADRUNNERS"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "|"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Handle, w/Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Handle, Black Knob"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ", Chrome Handle, w, Black Knob"
+    },
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1978,
+      "year_end": 1984,
+      "engine": null,
+      "notes": "Window handle. Chrysier 1978-1984. }."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179486/wnc_parts/DOR_76960/76960_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 76960 Dorman Help 76960 OER Window Crank Handle for 1978-93 Chrysler Dodge Plymouth"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179487/wnc_parts/DOR_76960/76960_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 76960 Dorman Help 76960 OER Window Crank Handle for 1978-93 Chrysler Dodge Plymouth"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179489/wnc_parts/DOR_76960/76960_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 76960 Dorman Help 76960 OER Window Crank Handle for 1978-93 Chrysler Dodge Plymouth"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179490/wnc_parts/DOR_76960/76960_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 76960 Dorman Help 76960 OER Window Crank Handle for 1978-93 Chrysler Dodge Plymouth"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76960-001.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76960 Dorman Help 76960 OER Window Crank Handle for 1978-93 Chrysler Dodge Plymouth"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76960-007.jpg",
+      "is_primary": false,
+      "order": 5,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76960 Dorman Help 76960 OER Window Crank Handle for 1978-93 Chrysler Dodge Plymouth"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76960-002.jpg",
+      "is_primary": false,
+      "order": 6,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76960 Dorman Help 76960 OER Window Crank Handle for 1978-93 Chrysler Dodge Plymouth"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/76960_1.jpg",
+      "is_primary": false,
+      "order": 7,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 76960 Dorman Help 76960 OER Window Crank Handle for 1978-93 Chrysler Dodge Plymouth"
+    }
+  ],
+  "specifications": {
+    "Color": "Chrome",
+    "Material": "Metal",
+    "Arm Width": "2.047 in",
+    "Arm Length": "5.039 in",
+    "Knob Color": "Black",
+    "OE_Numbers": "3882764 (CHRYSLER) | 4310824 (CHRYSLER) | 4480649 (CHRYSLER)",
+    "Knob Material": "Plastic",
+    "Package Contents": "Window Crank Handle",
+    "Locking Clip Included": "Yes",
+    "Mounting Shaft Diameter": "0.453 in",
+    "Window Crank Shaft Attachment": "Clip"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.176348+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "brand": "Grote",
+  "mpn": "45932",
+  "clean_mpn": "45932",
+  "title": "Grote 45932 Two-Bulb Oval Pigtail-Type Clearance Marker Light Red",
+  "slug": "grote-45932",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Grote part 45932. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Clearance & Marker Lights",
+  "store_category": "Clearance & Marker Lights",
+  "department": "Clearance & Marker Lights",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.03,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Grote-45932",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "CAVALIERS Seve 45295 45295 / / 45332"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Grote 45932"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.935016+00:00"
+}

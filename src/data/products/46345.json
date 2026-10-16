@@ -1,0 +1,44 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "46345",
+  "clean_mpn": "46345",
+  "title": "Speedometer Cable Lube Adapter Push-On Type for 1964 & Newer Ford Chrysler & AMC",
+  "slug": "dorman-help-46345",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Dorman Help part 46345. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Fittings & Adapters",
+  "store_category": "Fittings & Adapters",
+  "department": "Fittings & Adapters",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 15.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-46345",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 46345"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.975690+00:00"
+}

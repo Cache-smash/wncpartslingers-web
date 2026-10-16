@@ -1,0 +1,93 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "55143",
+  "clean_mpn": "55143",
+  "title": "Dorman Help 55143 OER 10 Piece Carburetor Inlet Gasket Washer Assortment",
+  "slug": "dorman-help-55143",
+  "upc": null,
+  "epid": "230499703",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman offers a line of Carburetor Inlet Gaskets for a range of carburetor repairs. All our Carburetor Inlet Gasket Kits are constructed of high-quality materials for long-lasting durability. A necessary safety item for preventing fuel leaks Fits standard and oversized fuel inlets Conveniently packaged in a range of piece counts to assist with both small and large projects Easy to install Product Specifications Gasket Inside Diameter (in): 0.791 in; 0.875 in Gasket Outside Diameter (in): 0.94 in; 1.044 in Gasket Thickness: .022 in; .034 in Material: Nylon and Paper Package Contents: 5 Nylon and 5 Paper Gaskets Package Quantity: 10 Packaging Type: Card Universal Or Specific Fit: Universal",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air & Fuel Delivery > Gaskets, Seals & O-Rings",
+  "store_category": "Carburetor Parts & Kits",
+  "department": "Carburetor Parts & Kits",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 5.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-55143",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179389/wnc_parts/DOR_55143/55143_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 55143 Dorman Help 55143 OER 10 Piece Carburetor Inlet Gasket Washer Assortment"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179391/wnc_parts/DOR_55143/55143_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 55143 Dorman Help 55143 OER 10 Piece Carburetor Inlet Gasket Washer Assortment"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/55143-003.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 55143 Dorman Help 55143 OER 10 Piece Carburetor Inlet Gasket Washer Assortment"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/55143-007.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 55143 Dorman Help 55143 OER 10 Piece Carburetor Inlet Gasket Washer Assortment"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/55143_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 55143 Dorman Help 55143 OER 10 Piece Carburetor Inlet Gasket Washer Assortment"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Material": "Nylon and Paper",
+      "Packaging Type": "Card",
+      "Gasket Thickness": ".022 in; .034 in",
+      "Package Contents": "5 Nylon and 5 Paper Gaskets",
+      "Package Quantity": "10",
+      "Universal Or Specific Fit": "Universal",
+      "Gasket Inside Diameter (in)": "0.791 in; 0.875 in",
+      "Gasket Outside Diameter (in)": "0.94 in; 1.044 in"
+    },
+    ".034 in": "Yes",
+    "0.875 in": "Yes",
+    "1.044 in": "Yes",
+    "Material": "Nylon and Paper",
+    "oe_numbers": [],
+    "Gasket Thickness": ".022 in",
+    "Package Contents": "5 Nylon and 5 Paper Gaskets",
+    "Universal Or Specific Fit": "Universal",
+    "Gasket Inside Diameter (in)": "0.791 in",
+    "Gasket Outside Diameter (in)": "0.94 in"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.918347+00:00"
+}

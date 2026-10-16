@@ -1,0 +1,80 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "65221",
+  "clean_mpn": "65221",
+  "title": "Dorman 65221 Oil Drain Plug Standard M20-1.50, Head Size 17mm",
+  "slug": "dormanhelp-65221",
+  "upc": null,
+  "epid": "191975210",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles. It is engineered to replace a missing or damaged plug and help ensure a secure seal. Direct replacement - this engine oil drain plug is designed to match the fit and function of an original equipment plug on specified vehicles Ideal solution - engineered to replace a missing or damaged plug and help ensure a secure seal Durable construction - designed and manufactured to strict specifications for reliable performance Trustworthy quality - backed by a team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 2021 Subaru WRX STI H4 2.5L (2458cc) 2020 Subaru WRX STI H4 2.5L (2458cc) 2019 Subaru Legacy H6 3.6L (3630cc) M20 x 1.50 Thread 2019 Subaru Outback H6 3.6L (3630cc) M20 x 1.50 Thread 2019 Subaru WRX STI H4 2.5L (2458cc) 2018 Subaru Legacy H6 3.6L (3630cc) M20 x 1.50 Thread 2018 Subaru Outback H6 3.6L (3630cc) M20 x 1.50 Thread 2018 Subaru WRX STI H4 2.5L (2458cc) 2017 Subaru Legacy H6 3.6L (3630cc) M20 x 1.50 Thread 2017 Subaru Outback H6 3.6L (3630cc) M20 x 1.50 Thread 2017 Subaru WRX STI H4 2.5L (2458cc) 2016 Subaru Legacy H6 3.6L (3630cc) M20 x 1.50 Thread 2016 Subaru Outback H6 3.6L (3630cc) M20 x 1.50 Thread 2016 Subaru WRX H4 2.5L (2458cc) M20 x 1.50 Thread 2016 Subaru WRX STI H4 2.5L (2458cc) M20 x 1.50 Thread 2015 Subaru Legacy H6 3.6L (3630cc) M20 x 1.50 Thread 2015 Subaru Outback H6 3.6L (3630cc) M20 x 1.50 Thread 2015 Subaru WRX H4 2.5L (2458cc) M20 x 1.50 Thread 2015 Subaru WRX STI H4 2.5L (2458cc) M20 x 1.50 Thread 2014 Subaru Impreza H4 2.5L (2458cc) M20 x 1.50 Thread 2014 Subaru Legacy H6 3.6L (3630cc) M20 x 1.50 Thread 2014 Subaru Outback H6 3.6L",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Oil Drain Plugs, Filler Caps & Dipsticks",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "65221-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179464/wnc_parts/DOR_65221/65221_2.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman/Help 65221 Dorman 65221 Oil Drain Plug Standard M20-1.50, Head Size 17mm"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - AutoGrade - Oil-Tite!",
+      "Color": "Silver",
+      "Length": "0.512 in",
+      "Magnetic": "No",
+      "Material": "Steel",
+      "Bolt Grade": "3",
+      "Gasket Type": "Gasket",
+      "Thread Size": "M20-1.50",
+      "Thread Type": "Fine",
+      "Drain Method": "Conventional",
+      "Thread Pitch": "1.5 mm",
+      "Describe Type": "Oil Drain Plug Standard",
+      "SAE or Metric": "Metric",
+      "Socket Points": "M6 -1.0",
+      "Head Tool Size": "17 mm",
+      "Packaging Type": "Card",
+      "Head Drive Type": "Hex",
+      "Thread Diameter": "20 mm",
+      "Oversized Thread": "No",
+      "Package Contents": "1 Oil Drain Plug",
+      "Package Quantity": "1",
+      "Threads Per Inch": "0",
+      "Special Tool Required": "No",
+      "Gasket Or Seal Included": "Yes"
+    },
+    "oe_numbers": [
+      "94020059",
+      "92800-20000",
+      "94032559",
+      "4273728",
+      "90009-634-000",
+      "94107557",
+      "90009-PC6-000"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.957586+00:00"
+}

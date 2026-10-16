@@ -1,0 +1,82 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "82583",
+  "clean_mpn": "82583",
+  "title": "Dorman Help 82583 Power Steering Pump Cap For Ford 1973-76 Ford Trucks",
+  "slug": "dorman-help-82583",
+  "upc": null,
+  "epid": "12080129992",
+  "description_markdown": "<p>Dorman #82583 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Steering & Suspension > Other Steering & Suspension Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-82583",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Ford",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179584/wnc_parts/DOR_82583/82583_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 82583 Dorman Help 82583 Power Steering Pump Cap For Ford 1973-76 Ford Trucks"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179585/wnc_parts/DOR_82583/82583_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 82583 Dorman Help 82583 Power Steering Pump Cap For Ford 1973-76 Ford Trucks"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179587/wnc_parts/DOR_82583/82583_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 82583 Dorman Help 82583 Power Steering Pump Cap For Ford 1973-76 Ford Trucks"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179588/wnc_parts/DOR_82583/82583_4.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 82583 Dorman Help 82583 Power Steering Pump Cap For Ford 1973-76 Ford Trucks"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.054196+00:00"
+}

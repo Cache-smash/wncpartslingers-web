@@ -1,0 +1,67 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "49127",
+  "clean_mpn": "49127",
+  "title": "Help 4-in-1 Dual Head Grease Fitting Tool for 1/8\" NPT Angled & Straight Zerks",
+  "slug": "dorman-help-49127",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "<p>Dorman #49127 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "Fittings & Adapters",
+  "store_category": "Fittings & Adapters",
+  "department": "Fittings & Adapters",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 15.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-49127",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Grease fitting tool. Multi-purpose tool for removing clogg- ed or broken fittings and retaps threads for replacing 4\u201d grease fitting"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179227/wnc_parts/DOR_49127/49127_1.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 49127 Help 4-in-1 Dual Head Grease Fitting Tool for 1/8\" NPT Angled & Straight Zerks"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179229/wnc_parts/DOR_49127/49127_2.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 49127 Help 4-in-1 Dual Head Grease Fitting Tool for 1/8\" NPT Angled & Straight Zerks"
+    },
+    {
+      "url": "https://res.cloudinary.com/ddlzkx9sz/image/upload/v1789179231/wnc_parts/DOR_49127/49127_3.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "cloudinary",
+      "alt_text": "Dorman Help 49127 Help 4-in-1 Dual Head Grease Fitting Tool for 1/8\" NPT Angled & Straight Zerks"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.975690+00:00"
+}

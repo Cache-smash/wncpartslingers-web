@@ -1,0 +1,854 @@
+{
+  "brand": "Dorman, Help",
+  "mpn": "61106",
+  "clean_mpn": "61106",
+  "title": "Universal 1/4\" NPT Radiator Drain Plug with Outlet Dorman Help 61106",
+  "slug": "dorman-help-61106",
+  "upc": null,
+  "epid": "2351067202",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This radiator drain petcock is a direct replacement for the original equipment plug that may have deteriorated or corroded. Made of quality materials, this petcock is engineered to strict standards for durable use over time. Direct replacement - this radiator drain petcock matches the fit and function of the original equipment part Durable construction - this part is made of quality materials for a long service life Saves money - offers original equipment quality at a competitive price Quality assured - this petcock has undergone virtual testing to assure proper fit and function Detailed Applications Year Make Model Configuration Positions Application Notes 1997 Chevrolet P30 V8 454 7.4L Brass; 1/4 In. NPT 1997 Ford Aerostar V6 245 4.0L Brass; 1/4 In. NPT 1997 GMC P3500 V8 454 7.4L Brass; 1/4 In. NPT 1996 Chevrolet P30 V8 454 7.4L Brass; 1/4 In. NPT 1996 Dodge B1500 Brass; 1/4 In. NPT 1996 Dodge B2500 Brass; 1/4 In. NPT 1996 Dodge B3500 Brass; 1/4 In. NPT 1996 Dodge Dakota V6 239 3.9L (3906cc) w/Max Duty Cooling; Brass; 1/4 In. NPT 1996 Dodge Dakota V8 318 5.2L (5211cc) w/Max Duty Cooling; Brass; 1/4 In. NPT 1996 Ford Aerostar V6 245 4.0L Brass; 1/4 In. NPT 1996 GMC P3500 V8 454 7.4L Brass; 1/4 In. NPT 1995 Chevrolet P30 V8 454 7.4L Brass; 1/4 In. NPT 1995 Dodge B1500 Brass; 1/4 In. NPT 1995 Dodge B2500 Brass; 1/4 In. NPT 1995 Dodge B3500 Brass; 1/4 In. NPT 1995 Dodge Dakota V6 239 3.9L (3906cc) w/Max Duty Cooling; Brass; 1/4 In. NPT 1995 Dodge Dakota V8 318 5.2L (5211cc) w/Max Duty Cooling; Brass; 1/4 In. NPT 1995 Ford Aerostar V6 245 4.0L Brass; 1/4 In. NPT 1995 Ford Mustang V8 302 5.0L Brass; 1/4 In. NPT 1995 GMC P3500 V8 454 7.4L Brass; 1/4 In. NPT 1994 Chevrolet P30 V8 454 7.4L Brass; 1/4 In. NPT 1994 Dodge B150 Brass; 1/4 In. NPT 1994 Dodge B250 Brass; 1/4 In. NPT 1994 Dodge B350 Brass; 1/4 I",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Power Steering Pumps",
+  "store_category": "Drain Plugs",
+  "department": "Drain Plugs",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-61106",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Ba :"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1990-3 a\u201d"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "155 6 Cy; AT"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1981,
+      "year_end": 1965,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "992-85 -"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "964 Gas Eng"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "380-77 -"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Toecar Exc. Capri"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "COLONY PARK"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "COUGAR"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "GRAND MARQUIS"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "LYNX, LN7"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "MONARCH \u2014\u2014"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ROUNTAREER -"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "SCORPIQ"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1986,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1980 wean Dum Saale"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1988,
+      "year_end": 1935,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1992 -"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1a w/Oil Cooie:"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "790086 \u2014Cli\u2014-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1991,
+      "year_end": 1990,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1991,
+      "year_end": 1990,
+      "engine": null,
+      "notes": "w/Heavy Duty Cooling"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "IRV SSL Eng"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "oo s"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1979 -"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1973,
+      "year_end": 1971,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1976,
+      "year_end": 1970,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1968,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1971,
+      "year_end": 1968,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1989 w/AC"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1986 2.2Eng"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1983,
+      "year_end": 1978,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1983,
+      "year_end": 1981,
+      "engine": null,
+      "notes": ":"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "4989 2.2 Eng; w/Turbo"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1983,
+      "year_end": 1974,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1991,
+      "year_end": 1990,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1988,
+      "engine": null,
+      "notes": "6Cyl"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1991,
+      "year_end": 1990,
+      "engine": null,
+      "notes": "w/Heavy Duty Cooling"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1986,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "14H"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "me"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "="
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "19388 2BWEn"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1908"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1985,
+      "year_end": 1975,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1991,
+      "year_end": 1990,
+      "engine": null,
+      "notes": "w Heavy Duty Cooling ;"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ";"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Wa:"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1975,
+      "year_end": 1946,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1980"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1993,
+      "year_end": 900,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1988,
+      "engine": null,
+      "notes": "6Cyl"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1993,
+      "year_end": 1992,
+      "engine": null,
+      "notes": "3.8L"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1991,
+      "year_end": 1990,
+      "engine": null,
+      "notes": "Brass"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1993,
+      "year_end": 1992,
+      "engine": null,
+      "notes": "Gas Eng; 7.4/454"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1991,
+      "year_end": 1988,
+      "engine": null,
+      "notes": "Copper"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1987,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "to Exc."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Exc. Motor Home"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "oe"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "coe"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "BI"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Gmc",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "es ____"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "a} sar Itt"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "os"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "= Ci"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1990 4Cyl 2.2 Eng"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1980 2.2Eng"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1999,
+      "year_end": 1977,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1989 2.2 Eng; w/Turbo"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1983,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1978"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1989 w/AC"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "2.2 Eng: w,/Turbo"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "2.2Eng w/Turbo"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "61106 Drain cock with outlet fitting. %\" P.T."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman, Help 61106"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - HELP! - Carded",
+      "Color": "Brass",
+      "Material": "Brass",
+      "Thread Size": "1/4 in NPT",
+      "Tube Length": "1.52 in",
+      "Packaging Type": "Card",
+      "Package Contents": "1 Drain Cock",
+      "Package Quantity": "1",
+      "Overall Width (in)": "1.41 in",
+      "Universal Or Specific Fit": "Specific"
+    },
+    "oe_numbers": [
+      "9437207",
+      "1686198"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.953575+00:00"
+}

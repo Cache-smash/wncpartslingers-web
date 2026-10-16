@@ -1,0 +1,598 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "42065",
+  "clean_mpn": "42065",
+  "title": "PCV Valve Grommet Dorman 42065",
+  "slug": "dormanhelp-42065",
+  "upc": null,
+  "epid": "4080100256",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This PCV valve grommet is designed to match the fit and function of the original grommet on specified vehicles, and is engineered for durability and reliable performance. Direct replacement - this PCV valve grommet is designed to match the fit and function of the original grommet on specified vehicles Restores functionality - this grommet is made to fit and fully restore part functionality after the original grommet fails Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Detailed Applications Year Make Model Configuration Positions Application Notes 1997 Ford F-250 HD V8 460 7.5L Elbow to Oil Filler 1997 Ford F-350 V8 460 7.5L Elbow to Oil Filler 1997 Ford F-53 Motorhome Chassis Elbow to Oil Filler 1997 Ford F-Super Duty V8 460 7.5L Elbow to Oil Filler 1996 Ford E-350 Econoline V8 460 7.5L Elbow to Oil Filler 1996 Ford E-350 Econoline Club Wagon V8 460 7.5L Elbow to Oil Filler 1996 Ford Econoline Super Duty V8 460 7.5L Elbow to Oil Filler 1996 Ford F-250 V8 460 7.5L Elbow to Oil Filler 1996 Ford F-350 V8 460 7.5L Elbow to Oil Filler 1996 Ford F-53 Motorhome Chassis Elbow to Oil Filler 1996 Ford F-Super Duty V8 460 7.5L Elbow to Oil Filler 1995 Ford E-350 Econoline V8 460 7.5L Elbow to Oil Filler 1995 Ford E-350 Econoline Club Wagon V8 460 7.5L Elbow to Oil Filler 1995 Ford F-250 V8 460 7.5L Elbow to Oil Filler 1995 Ford F-350 V8 460 7.5L Elbow to Oil Filler 1995 Ford F-53 Motorhome Chassis Elbow to Oil Filler 1995 Ford F-Super Duty V8 460 7.5L Elbow to Oil Filler 1994 Ford E-350 Econoline V8 460 7.5L Elbow to Oil Filler 1994 Ford E-350 Econoline Club Wagon V8 460 7.5L Elbow to Oil Filler 1994 Ford F-250 V8 46",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air & Fuel Delivery > Other Air & Fuel Delivery",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 8.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "42065-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ES"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Oil Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1983,
+      "year_end": 1971,
+      "engine": null,
+      "notes": "Elbow to"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "L6-3.9L (240 CID) 1972 Elbow to Oil Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- Cover"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "BB RTL Ld CID",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "(429 C10)"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "V8 -75L (460"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1971,
+      "year_end": 1970,
+      "engine": null,
+      "notes": "Elbow to Air Cleaner"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1979,
+      "year_end": 1973,
+      "engine": null,
+      "notes": "Elbow to Oil Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1971,
+      "year_end": 1970,
+      "engine": null,
+      "notes": "Elbow to Ar Cleaner: Ory Type"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Y6~3 L6- 4.91 OL (182 (300 CID) CIDy 1968 1993.97 PCV Elbow to to Valve Oi Filler Cover 5068"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- Ory Type"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "to"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Cover"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- to Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- to Oil Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- to DryType"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- to Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- Valve to Oil Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "- to Air Cleaner"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1972,
+      "year_end": 1971,
+      "engine": null,
+      "notes": "Elbow to Oil Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1983,
+      "year_end": 1971,
+      "engine": null,
+      "notes": "Elbow to Oil Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "_ L6- 3.9L (240CID) 1972 Elbow to Oil Filler"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "to"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "| V8 5.8L (351 CID) 1970__"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "V8 6.6L (400 CID)"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "V8 6.6L (400 CID)"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": ") 497%"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1971 ove let ;"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "valve"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Vo\"3 to Fil or"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "85 Oil Fille"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "i641 2-68 Ol Fille ;"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "LL ="
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "VE LL Sif lL. 3 \u00abEDowtcGi Filer ~~~"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\\i- i. Sill. rese EtowtcOrFiler"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "paca"
+    },
+    {
+      "make": "Honda",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "-"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Direct OE Replacement"
+    },
+    {
+      "make": "Amc",
+      "model": "~",
+      "year_start": 1971,
+      "year_end": 1967,
+      "engine": null,
+      "notes": "Disc Brakes _\u2014"
+    },
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "PCV vaive grommet. 12\u201d."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42065-002.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42065 PCV Valve Grommet Dorman 42065"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42065-001.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42065 PCV Valve Grommet Dorman 42065"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42065-003.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42065 PCV Valve Grommet Dorman 42065"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42065-007.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42065 PCV Valve Grommet Dorman 42065"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/42065_1.jpg",
+      "is_primary": false,
+      "order": 4,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 42065 PCV Valve Grommet Dorman 42065"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Material": "Rubber",
+      "Thickness": "0.404 in",
+      "Packaging Type": "Card",
+      "Inside Diameter": "0.566 In",
+      "Outside Diameter": "1.39 in",
+      "Package Contents": "Grommet",
+      "Package Quantity": "1",
+      "Attachment Method": "Push On"
+    },
+    "Material": "Rubber",
+    "Thickness": "0.404 in",
+    "OE_Numbers": "C8AZ 6A892-A (FORD MOTOR COMPANY)",
+    "oe_numbers": [
+      ""
+    ],
+    "Inside Diameter": "0.566 In",
+    "Outside Diameter": "1.39 in",
+    "Package Contents": "Grommet",
+    "Attachment Method": "Push On"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.073910+00:00"
+}

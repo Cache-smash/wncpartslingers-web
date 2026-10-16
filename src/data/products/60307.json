@@ -1,0 +1,65 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "60307",
+  "clean_mpn": "60307",
+  "title": "HELP! #60307 Battery Side Post Bolts Universal",
+  "slug": "dorman-help-60307",
+  "upc": null,
+  "epid": "27079955245",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This battery terminal bolt is designed to match the fit and function of the original part on specified vehicles. Made of quality materials, it is engineered for reliable performance. Direct replacement - this battery terminal bolt matches the fit and function of the factory part on specified years, makes and models Ideal solution - this bolt is a reliable replacement for an original part that is missing or has failed due to fatigue Durable construction - this part is made from quality materials to ensure reliable performance and long service life Trustworthy quality - backed by team of product experts in the United States and more than a century of automotive experience Product Specifications Corrosion Resistant: No Length: 1.125 in Material: Steel Package Contents: Side Terminal Bolt Package Quantity: 2 Terminal Bolt Use Location: Side Mount Thread Diameter: 3/8 in; 1/2 in; 5/8 in; 3/4 in; 1 in Packaging Type: Card",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Power Steering Pumps",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.99,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "HELP-60307",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "Battery side bolts. To replace worn, stripped or corroded OEM bolts, two bolts per card. \u00a2 Alternator and Starter Parts ."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 60307"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Length": "1.125 in",
+      "Material": "Steel",
+      "Packaging Type": "Card",
+      "Thread Diameter": "3/8 in; 1/2 in; 5/8 in; 3/4 in; 1 in",
+      "Package Contents": "Side Terminal Bolt",
+      "Package Quantity": "2",
+      "Corrosion Resistant": "No",
+      "Terminal Bolt Use Location": "Side Mount"
+    },
+    "oe_numbers": []
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.050195+00:00"
+}

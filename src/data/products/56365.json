@@ -1,0 +1,67 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "56365",
+  "clean_mpn": "56365",
+  "title": "Dorman Help 56365 HVAC Heater Hose Fitting for 5/8\" Hose x 3/8\" NPT x 2-\u00be\" Long",
+  "slug": "dorman-help-56365",
+  "upc": null,
+  "epid": "28080107118",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Made of quality materials, this HVAC heater hose connector matches the fit and function of an original equipment connector to restore leak-free performance. Quality replacement - this heater hose connector matches the fit and function of the original equipment connector Durable construction - this heater hose connector is made of quality materials for a precise fit and leak-free durability Cost-effective solution - offers original equipment quality at competitive price Performance tested - this connector has been rigorously pressure tested to ensure reliable performance Product Specifications Package Contents: Heater Hose Fitting Selling Package Quantity UOM: Piece Packaging Type: Card Package Quantity: 1",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Air Conditioning & Heating > Other Air Conditioning & Heating",
+  "store_category": "Hoses & Tubing",
+  "department": "Hoses & Tubing",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 12.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-56365",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56365-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56365 Dorman Help 56365 HVAC Heater Hose Fitting for 5/8\" Hose x 3/8\" NPT x 2-\u00be\" Long"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56365-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56365 Dorman Help 56365 HVAC Heater Hose Fitting for 5/8\" Hose x 3/8\" NPT x 2-\u00be\" Long"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/56365_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 56365 Dorman Help 56365 HVAC Heater Hose Fitting for 5/8\" Hose x 3/8\" NPT x 2-\u00be\" Long"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Packaging Type": "Card",
+      "Package Contents": "Heater Hose Fitting",
+      "Package Quantity": "1",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "oe_numbers": [],
+    "Package Contents": "Heater Hose Fitting"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.994822+00:00"
+}

@@ -1,0 +1,204 @@
+---
+// VehicleSelectorHero.astro - Dual-tab Automotive YMM & Direct OE Interchange Finder
+---
+
+<section class="search-panel" aria-label="Parts finder" id="parts-finder">
+  <div class="tab-list" role="tablist" aria-label="Search mode">
+    <button
+      type="button"
+      id="tab-btn-vehicle"
+      class="tab active"
+      role="tab"
+      aria-selected="true"
+      aria-controls="panel-vehicle"
+    >
+      <span>01</span> Search by vehicle
+    </button>
+    <button
+      type="button"
+      id="tab-btn-oe"
+      class="tab"
+      role="tab"
+      aria-selected="false"
+      aria-controls="panel-oe"
+    >
+      <span>02</span> OE / casting number
+    </button>
+  </div>
+
+  <!-- Panel 01: Vehicle Selector -->
+  <div id="panel-vehicle" class="selector-body" role="tabpanel">
+    <div class="selector-heading">
+      <div>
+        <p class="eyebrow dark">Garage fitment selector</p>
+        <h2>What are you working on?</h2>
+      </div>
+      <p class="selector-note">
+        Your vehicle stays saved while you browse.
+      </p>
+    </div>
+    <form class="selector-grid" onsubmit="event.preventDefault();">
+      <label>
+        <span>Year</span>
+        <select id="select-year">
+          <option value="">Select year</option>
+          <option value="1970">1970</option>
+          <option value="1971">1971</option>
+          <option value="1972">1972</option>
+          <option value="1973">1973</option>
+          <option value="1974">1974</option>
+        </select>
+      </label>
+      <label>
+        <span>Make</span>
+        <select id="select-make" disabled>
+          <option value="">Select make</option>
+          <option value="Chevrolet">Chevrolet</option>
+          <option value="Ford">Ford</option>
+          <option value="Dodge">Dodge</option>
+        </select>
+      </label>
+      <label>
+        <span>Model</span>
+        <select id="select-model" disabled>
+          <option value="">Select model</option>
+          <option value="Chevelle">Chevelle</option>
+          <option value="Camaro">Camaro</option>
+          <option value="C10 Pickup">C10 Pickup</option>
+        </select>
+      </label>
+      <label>
+        <span>Engine</span>
+        <select id="select-engine" disabled>
+          <option value="">Select engine</option>
+          <option value="5.7L 350 V8">5.7L 350 V8</option>
+          <option value="7.4L 454 V8">7.4L 454 V8</option>
+        </select>
+      </label>
+      <button type="submit" class="primary-button selector-submit">
+        Find exact-fit parts <b>&rarr;</b>
+      </button>
+    </form>
+    <div class="fitment-status">
+      <span class="status-dot"></span>
+      Catalog fitment data covers 1950–2004 American vehicles
+    </div>
+  </div>
+
+  <!-- Panel 02: Direct OE Lookup -->
+  <div id="panel-oe" class="selector-body oe-search" role="tabpanel" style="display: none;">
+    <div class="selector-heading">
+      <div>
+        <p class="eyebrow dark">Direct interchange lookup</p>
+        <h2>Find it by the number.</h2>
+      </div>
+      <p class="selector-note">Spaces and hyphens are optional.</p>
+    </div>
+    <form class="oe-input-label" onsubmit="event.preventDefault();">
+      <span>OE, casting, or manufacturer part number</span>
+      <div class="oe-input-row">
+        <input
+          id="oe-search-input"
+          type="text"
+          aria-label="OE part number"
+          placeholder="e.g. D4AZ-1234-A"
+        />
+        <button type="submit" class="primary-button">
+          Search inventory <b>&rarr;</b>
+        </button>
+      </div>
+    </form>
+    <div class="lookup-examples">
+      <span>Try a lookup:</span>
+      <button type="button" class="example-btn" data-oe="D4AZ-7A039-A">D4AZ-7A039-A</button>
+      <button type="button" class="example-btn" data-oe="3981842">3981842</button>
+      <button type="button" class="example-btn" data-oe="2946402">2946402</button>
+    </div>
+  </div>
+</section>
+
+<script>
+  // Tab Switching
+  const tabVehicle = document.getElementById('tab-btn-vehicle');
+  const tabOE = document.getElementById('tab-btn-oe');
+  const panelVehicle = document.getElementById('panel-vehicle');
+  const panelOE = document.getElementById('panel-oe');
+
+  function showVehicleTab() {
+    tabVehicle?.classList.add('active');
+    tabVehicle?.setAttribute('aria-selected', 'true');
+    tabOE?.classList.remove('active');
+    tabOE?.setAttribute('aria-selected', 'false');
+    if (panelVehicle) panelVehicle.style.display = 'block';
+    if (panelOE) panelOE.style.display = 'none';
+  }
+
+  function showOETab() {
+    tabOE?.classList.add('active');
+    tabOE?.setAttribute('aria-selected', 'true');
+    tabVehicle?.classList.remove('active');
+    tabVehicle?.setAttribute('aria-selected', 'false');
+    if (panelVehicle) panelVehicle.style.display = 'none';
+    if (panelOE) panelOE.style.display = 'block';
+    const input = document.getElementById('oe-search-input');
+    input?.focus();
+  }
+
+  tabVehicle?.addEventListener('click', showVehicleTab);
+  tabOE?.addEventListener('click', showOETab);
+
+  // Progressive Cascading Dropdowns
+  const selectYear = document.getElementById('select-year') as HTMLSelectElement | null;
+  const selectMake = document.getElementById('select-make') as HTMLSelectElement | null;
+  const selectModel = document.getElementById('select-model') as HTMLSelectElement | null;
+  const selectEngine = document.getElementById('select-engine') as HTMLSelectElement | null;
+
+  selectYear?.addEventListener('change', () => {
+    const hasVal = Boolean(selectYear.value);
+    if (selectMake) {
+      selectMake.disabled = !hasVal;
+      if (!hasVal) selectMake.value = '';
+    }
+    if (selectModel) {
+      selectModel.disabled = true;
+      selectModel.value = '';
+    }
+    if (selectEngine) {
+      selectEngine.disabled = true;
+      selectEngine.value = '';
+    }
+  });
+
+  selectMake?.addEventListener('change', () => {
+    const hasVal = Boolean(selectMake.value);
+    if (selectModel) {
+      selectModel.disabled = !hasVal;
+      if (!hasVal) selectModel.value = '';
+    }
+    if (selectEngine) {
+      selectEngine.disabled = true;
+      selectEngine.value = '';
+    }
+  });
+
+  selectModel?.addEventListener('change', () => {
+    const hasVal = Boolean(selectModel.value);
+    if (selectEngine) {
+      selectEngine.disabled = !hasVal;
+      if (!hasVal) selectEngine.value = '';
+    }
+  });
+
+  // Example OE button filling
+  document.querySelectorAll('.example-btn').forEach((btn) => {
+    btn.addEventListener('click', (e) => {
+      const target = e.currentTarget as HTMLElement;
+      const oeVal = target.getAttribute('data-oe');
+      const oeInput = document.getElementById('oe-search-input') as HTMLInputElement | null;
+      if (oeInput && oeVal) {
+        oeInput.value = oeVal;
+        oeInput.focus();
+      }
+    });
+  });
+</script>

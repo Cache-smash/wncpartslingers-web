@@ -1,0 +1,74 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "45384",
+  "clean_mpn": "45384",
+  "title": "Dorman Help 45384 12 Piece Universal Thread Cutting Nut Assortment 5 Sizes",
+  "slug": "dorman-help-45384",
+  "upc": null,
+  "epid": "230373076",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description These nuts are manufactured using durable materials and corrosion tested to ensure required strength and longevity. Durable materials - manufactured to specific thread tolerance standards Corrosion tested - hardware undergoes salt spray testing to ensure corrosion resistance Multipurpose usefulness - can be used in a variety of applications, from auto to home Trustworthy quality - backed by team of professional engineers and quality control specialists in the United States Product Specifications Callout Size: 1/8; 3/16; 1/4; 5/32; 5/16 Material: Steel Metric Or SAE: SAE Package Contents: Thread Cutting Nut Assortment - Universal - 12 Pcs. Packaging Type: Card Selling Package Quantity UOM: Piece Thread Type: Medium Package Quantity: 12",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 3.99,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-45384",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "45384 Thread cutting nut assortment. Used on nameplates, side markers, turn signals and all nylon studs. Fits studs Me thru 54,\" diameter. Five sizes, twelve pieces per card. \u00a2 Bumper Bolts OEM duplicate replacements for lost or worn bumper bolts. Stops rat- tles and squeaks caused by old loose bolts. Premium chrome plating or stainless steel capped heads for corrosion resistance. Kits contain 2 bolts, 2 nuts and 2 special retaining washers."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 45384"
+    }
+  ],
+  "specifications": {
+    "1/4": "Yes",
+    "3/16": "Yes",
+    "5/16": "Yes",
+    "5/32": "Yes",
+    "specs": {
+      "Material": "Steel",
+      "Thread Type": "Medium",
+      "Callout Size": "1/8; 3/16; 1/4; 5/32; 5/16",
+      "Metric Or SAE": "SAE",
+      "Packaging Type": "Card",
+      "Package Contents": "Thread Cutting Nut Assortment - Universal - 12 Pcs.",
+      "Package Quantity": "12",
+      "Selling Package Quantity UOM": "Piece"
+    },
+    "Material": "Steel",
+    "oe_numbers": [],
+    "Thread Type": "Medium",
+    "Callout Size": "1/8",
+    "Metric Or SAE": "SAE",
+    "Package Contents": "Thread Cutting Nut Assortment - Universal - 12 Pcs."
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.043075+00:00"
+}

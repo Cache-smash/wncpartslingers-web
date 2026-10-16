@@ -1,0 +1,65 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "55104",
+  "clean_mpn": "55104",
+  "title": "Dorman Help 55104 Carburetor Choke/Throttle Conversion Kit Auto to Manual Choke",
+  "slug": "dorman-help-55104",
+  "upc": null,
+  "epid": "10079965117",
+  "description_markdown": "Authentic Dorman Help part 55104. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Engines & Engine Parts > Other Engine Parts",
+  "store_category": "Carburetor Parts & Kits",
+  "department": "Carburetor Parts & Kits",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 15.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-55104",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/55104-007.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 55104 Dorman Help 55104 Carburetor Choke/Throttle Conversion Kit Auto to Manual Choke"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/55104-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 55104 Dorman Help 55104 Carburetor Choke/Throttle Conversion Kit Auto to Manual Choke"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/55104_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman Help 55104 Dorman Help 55104 Carburetor Choke/Throttle Conversion Kit Auto to Manual Choke"
+    }
+  ],
+  "specifications": {
+    "Material": "Steel",
+    "Grade Type": "Standard Replacement",
+    "2 Thermostat Cap": "Yes",
+    "Package Contents": "1 9 Ft Control Cable",
+    "1 Hardware Package": "Yes",
+    "Universal Or Specific Fit": "Universal"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.917340+00:00"
+}

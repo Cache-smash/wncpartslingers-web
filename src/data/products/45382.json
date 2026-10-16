@@ -1,0 +1,88 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "45382",
+  "clean_mpn": "45382",
+  "title": "Dorman Help 45382 Multi-Purpose Clip / Speed Nut / Spring Nut",
+  "slug": "dormanhelp-45382",
+  "upc": null,
+  "epid": "230319085",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description Dorman offers a comprehensive line of Clip / Spring Nuts for a range of automotive applications. They are available for use with a large variety of screw sizes, throat depths, and panel ranges. Constructed of high-quality materials for long-lasting durability Many different styles are available, including threaded and wide panel Packaged in a variety of piece counts for use with both small and large projects Also suitable for a broad range of industrial and commercial uses Product Specifications ACQ Rated: No Callout Size: #6 and 3/16 in Color: Black Grade: J Style and U Style Integral Washer: No Material: Steel Metric Or SAE: SAE Open End Design: Yes Package Contents: Clip Nut Assortment - 10 Pcs. Package Quantity: 10 Packaging Type: Card SAE Size: #6 Thread Direction: Clockwise",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Other Auto Tools & Supplies",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 9.95,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-45382",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\u201cU\u201d or \u201cJ\u201d speed nut assortment. Clips over sheet material to provide screw clamping. 4\u201d thru %2\u2019'. Nine sizes, ten pieces per card. @."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 45382"
+    }
+  ],
+  "specifications": {
+    "Brand": "Dorman",
+    "Color": "Black",
+    "specs": {
+      "Color": "Black",
+      "Grade": "J Style and U Style",
+      "Material": "Steel",
+      "SAE Size": "#6",
+      "ACQ Rated": "No",
+      "Callout Size": "#6 and 3/16 in",
+      "Metric Or SAE": "SAE",
+      "Packaging Type": "Card",
+      "Integral Washer": "No",
+      "Open End Design": "Yes",
+      "Package Contents": "Clip Nut Assortment - 10 Pcs.",
+      "Package Quantity": "10",
+      "Thread Direction": "Clockwise"
+    },
+    "Material": "Steel",
+    "SAE Size": "#6",
+    "ACQ Rated": "No",
+    "oe_numbers": [],
+    "Callout Size": "#6 and 3/16 in",
+    "Fitment Type": "Direct Replacement",
+    "Metric Or SAE": "SAE",
+    "Integral Washer": "No",
+    "Open End Design": "Yes",
+    "oe_interchanges": [
+      "45382",
+      "45383"
+    ],
+    "Package Contents": "Clip Nut Assortment - 10 Pcs.",
+    "Thread Direction": "Clockwise",
+    "Interchange Part Number": "",
+    "Manufacturer Part Number": "45382"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.089841+00:00"
+}

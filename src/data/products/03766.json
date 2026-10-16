@@ -1,0 +1,72 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "03766",
+  "clean_mpn": "03766",
+  "title": "Dorman Leaf Spring Center Bolt 03766 Suspension Fastener",
+  "slug": "dormanhelp-03766",
+  "upc": null,
+  "epid": "230515265",
+  "description_markdown": "Authentic Dorman/Help part 03766. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Steering & Suspension > Other Steering & Suspension Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 16.85,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "03766-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "03766 Spring center bolt and nut. 12\" x 12\u201d bolt with 93%\u201d thread length. One bolt and nut per card. \u00a2 Spring \u201cU\u201d Bolts Exact OEM duplicates SAE Grade 5 steel. Plated for corrosion resistance. Replaces broken, stripped or rusted spring bolts to assure suspension system is secure. Packaged two bolts, four nuts per kit. One kit per box. Priced and sold per kit. Bolt Inside Overall Thread Catalog # Spring \u201cU\u201d Bolts Type Dia. Width Length Length NEW 1."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03766-003.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 03766 Dorman Leaf Spring Center Bolt 03766 Suspension Fastener"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03766-007.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 03766 Dorman Leaf Spring Center Bolt 03766 Suspension Fastener"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/03766_1.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 03766 Dorman Leaf Spring Center Bolt 03766 Suspension Fastener"
+    }
+  ],
+  "specifications": {
+    "Item Grade": "Standard Replacement",
+    "Thread Size": "1/2-20 X 12 in",
+    "Package Contents": "1 Bolt and 1 Nut",
+    "Universal Or Specific Fit": "Universal"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.061344+00:00"
+}

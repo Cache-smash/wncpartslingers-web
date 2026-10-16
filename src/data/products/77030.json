@@ -1,0 +1,44 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "77030",
+  "clean_mpn": "77030",
+  "title": "Dorman 77030 Interior Door Handle 1978-88 Buick Chevrolet Olds Pontiac - LH Side",
+  "slug": "dormanhelp-77030",
+  "upc": null,
+  "epid": "17080038431",
+  "description_markdown": "Authentic Dorman/Help part 77030. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Interior Parts & Accessories > Window Cranks, Grab Handles & Door Pulls",
+  "store_category": "Interior Door Handles",
+  "department": "Interior Door Handles",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 25.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "Help-77030",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 77030"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:54.998956+00:00"
+}

@@ -1,0 +1,75 @@
+{
+  "brand": "CARQUEST",
+  "mpn": "14553",
+  "clean_mpn": "14553",
+  "title": "Dorman 14553 Clutch Fork for 1999-2002 Mercury Cougar New Old Stock",
+  "slug": "carquest-14553",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic CARQUEST part 14553. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 62.56,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "DOR-14553",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Eagle",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "ss WOO 3"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "5 UL i 7"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "54 VLG, \u2018Ts From \u20187M #0G0001"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "CARQUEST 14553"
+    }
+  ],
+  "specifications": {
+    "oe_interchanges": [
+      "AP14553",
+      "AP14553:8",
+      "20429500"
+    ]
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.007578+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "brand": "Wall Lenk",
+  "mpn": "LC75",
+  "clean_mpn": "LC75",
+  "title": "Wall Lenk 75 Watt Soldering Iron Pyramid Tip Sealed Model LC75 Made in USA",
+  "slug": "wall-lenk-lc75",
+  "upc": null,
+  "epid": null,
+  "description_markdown": "Authentic Wall Lenk part LC75. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "Other / General Parts",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 40.0,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-LC75",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Wall Lenk LC75"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.143025+00:00"
+}

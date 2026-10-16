@@ -1,0 +1,53 @@
+{
+  "brand": "Dorman Help",
+  "mpn": "22019",
+  "clean_mpn": "22019",
+  "title": "Dorman Help 22019 Sliding Razor Blade Box Cutter Utility Knife w/  5 Razors",
+  "slug": "dorman-help-22019",
+  "upc": null,
+  "epid": "230050537",
+  "description_markdown": "Authentic Dorman Help part 22019. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Automotive Tools & Supplies > Hand Tools > Cutting Tools",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 2.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "WNC-22019",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Universal / Hardware",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "22019 Razor knife kit. Contains one razor knife and five razor \u2018 blades. Knife holds razor securely for cutting or slitting and arate into handle when not in use. Back of knife holds razor blade for lig scraping. t for engine and"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman Help 22019"
+    }
+  ],
+  "specifications": {},
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.036507+00:00"
+}

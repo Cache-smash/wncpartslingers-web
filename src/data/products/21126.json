@@ -1,0 +1,70 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "21126",
+  "clean_mpn": "21126",
+  "title": "Dorman Parking Brake Cable Connector 21126 Direct Replacement",
+  "slug": "dormanhelp-21126",
+  "upc": null,
+  "epid": "230436635",
+  "description_markdown": "Authentic Dorman/Help part 21126. New Old Stock factory hardware, precision inspected and ready to ship.",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Brakes & Brake Parts > Brake Cables",
+  "store_category": "Wire & Cables",
+  "department": "Wire & Cables",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 11.15,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "21126-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [],
+  "media": [
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/21126-001.jpg",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 21126 Dorman Parking Brake Cable Connector 21126 Direct Replacement"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/21126-003.jpg",
+      "is_primary": false,
+      "order": 1,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 21126 Dorman Parking Brake Cable Connector 21126 Direct Replacement"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/21126-007.jpg",
+      "is_primary": false,
+      "order": 2,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 21126 Dorman Parking Brake Cable Connector 21126 Direct Replacement"
+    },
+    {
+      "url": "https://static.dormanproducts.com/images/product/medium/21126_1.jpg",
+      "is_primary": false,
+      "order": 3,
+      "media_source": "user_upload",
+      "alt_text": "Dorman/Help 21126 Dorman Parking Brake Cable Connector 21126 Direct Replacement"
+    }
+  ],
+  "specifications": {
+    "Material": "Steel",
+    "OE_Numbers": "15714661 (GENERAL MOTORS)",
+    "Package Contents": "Assortment Contains 1 Each Of The Following Type Connectors inc in Type and Cylindrical Type",
+    "Universal Or Specific Fit": "Universal"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.191892+00:00"
+}

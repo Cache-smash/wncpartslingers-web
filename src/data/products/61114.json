@@ -1,0 +1,91 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "61114",
+  "clean_mpn": "61114",
+  "title": "Dorman Radiator Drain Petcock 61114 10mm x 1.25 Thread Plastic",
+  "slug": "dormanhelp-61114",
+  "upc": null,
+  "epid": "24080059017",
+  "description_markdown": "table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; } th { background-color: #f2f2f2; text-align: left; } Product Description This radiator drain petcock is a direct replacement for the original equipment plug that may have deteriorated or corroded. Made of quality materials, this petcock is engineered to strict standards for durable use over time. Direct replacement - this radiator drain petcock matches the fit and function of the original equipment part Durable construction - this part is made of quality materials for a long service life Saves money - offers original equipment quality at a competitive price Quality assured - this petcock has undergone virtual testing to assure proper fit and function Detailed Applications Year Make Model Configuration Positions Application Notes 1989 Subaru DL M10 x 1.25 Thread; Lower Mount 1989 Subaru GL M10 x 1.25 Thread; Lower Mount 1989 Subaru GL-10 M10 x 1.25 Thread; Lower Mount 1989 Subaru RX M10 x 1.25 Thread; Lower Mount 1989 Subaru XT GL Submodel M10 x 1.25 Thread; Lower Mount 1988 Subaru DL M10 x 1.25 Thread; Lower Mount 1988 Subaru GL M10 x 1.25 Thread; Lower Mount 1988 Subaru GL-10 M10 x 1.25 Thread; Lower Mount 1988 Subaru RX M10 x 1.25 Thread; Lower Mount 1988 Subaru XT DL Submodel M10 x 1.25 Thread; Lower Mount 1988 Subaru XT GL Submodel M10 x 1.25 Thread; Lower Mount 1987 Subaru Brat M10 x 1.25 Thread; Lower Mount 1987 Subaru DL M10 x 1.25 Thread; Lower Mount 1987 Subaru GL M10 x 1.25 Thread; Lower Mount 1987 Subaru GL-10 M10 x 1.25 Thread; Lower Mount 1987 Subaru RX M10 x 1.25 Thread; Lower Mount 1987 Subaru Standard M10 x 1.25 Thread; Lower Mount 1987 Subaru XT M10 x 1.25 Thread; Lower Mount 1986 Subaru Brat M10 x 1.25 Thread; Lower Mount 1986 Subaru DL M10 x 1.25 Thread; Lower Mount 1986 Subaru GL M10 x 1.25 Thread; Lower Mount 1986 Subaru GL-10 M10 x 1.25 Thread; Lower Mount 1986 Subaru RX M10 x 1.25 Thread; Lower Mount 1986 Subaru Standard M10 x 1.25 Thread; Lower M",
+  "description_html": null,
+  "category_breadcrumb": "Steering & Suspension > Power Steering Pumps",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 7.8,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "61114-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "wen."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "\"967-80 M10-1.25, Lower Mount"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1989,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "M10-1.25, Lower Mount"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Truck",
+      "year_start": 1970,
+      "year_end": 1985,
+      "engine": null,
+      "notes": "1980 M10-1.25, Lower Mount"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 61114"
+    }
+  ],
+  "specifications": {
+    "specs": {
+      "Brand": "Dorman - HELP! - Carded",
+      "Color": "White",
+      "Material": "Plastic",
+      "Thread Size": "10 mm X 1.25",
+      "Tube Length": "1.602 in",
+      "Packaging Type": "Card",
+      "Package Contents": "1 Radiator Drain Cock",
+      "Package Quantity": "1",
+      "Overall Width (in)": "0.337 in",
+      "Universal Or Specific Fit": "Specific"
+    },
+    "oe_numbers": []
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.095827+00:00"
+}

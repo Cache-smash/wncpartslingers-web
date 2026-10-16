@@ -1,0 +1,79 @@
+{
+  "brand": "Dorman/Help",
+  "mpn": "04990",
+  "clean_mpn": "04990",
+  "title": "Dorman Help Spindle Lock Nut Kit 04990 3/4-16 Thread Front Rear",
+  "slug": "dormanhelp-04990",
+  "upc": null,
+  "epid": "14079936628",
+  "description_markdown": "<p>Dorman #04990 Auto Part</p>",
+  "description_html": null,
+  "category_breadcrumb": "eBay Motors > Parts & Accessories > Car & Truck Parts & Accessories > Transmission & Drivetrain > Other Transmission & Drivetrain",
+  "store_category": "Other / General Parts",
+  "department": "Other / General Parts",
+  "condition_badge": "NOS (New Old Stock)",
+  "price": 14.5,
+  "quantity": 3,
+  "is_in_stock": true,
+  "sku": "04990-1",
+  "ebay_item_id": null,
+  "interchanges": [],
+  "fitments": [
+    {
+      "make": "Chrysler / Amc",
+      "model": "Truck",
+      "year_start": 1967,
+      "year_end": 1978,
+      "engine": null,
+      "notes": "AMC 1967-1978, with K-H brake system, 1978-1983 Chrysler (rear wheels), 1936-1983 Chrysler drive, 1978-1983 Chrysler (rear wheels), 1936-1983 rysier, al"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://images.unsplash.com/photo-1763848843613-f8c2ca3a31a1?auto=format&fit=crop&w=900&q=85",
+      "is_primary": true,
+      "order": 0,
+      "media_source": "placeholder",
+      "alt_text": "Dorman/Help 04990"
+    }
+  ],
+  "specifications": {
+    "1 Washer": "Yes",
+    "1 Retainer": "Yes",
+    "OE_Numbers": "3173399 (AMERICAN MOTORS) | 3173401 (AMERICAN MOTORS) | J3173399 (AMERICAN MOTORS) | J3173401 (AMERICAN MOTORS) | 1673324 (CHRYSLER) | 1732300 (CHRYSLER) | 6029692 (CHRYSLER) | 374504-S (FORD MOTOR COMPANY) | 374504-S100 (FORD MOTOR COMPANY) | 374536-S (FORD MOTOR COMPANY) | 390622-S (FORD MOTOR COMPANY) | C2AZ 1195-A (FORD MOTOR COMPANY) | 9X37-45-04A0 (MAZDA) | 40264-68200 (NISSAN)",
+    "Thread Size": "3/4-16",
+    "1 Cotter Pin": "Yes",
+    "One Time Use": "Yes",
+    "oe_interchanges": [
+      "Kit",
+      "Thread Size: 3/4-16",
+      "1673324",
+      "1732300",
+      "3173399",
+      "3173401",
+      "374504S",
+      "374504S100",
+      "374536S",
+      "390622S",
+      "4026468200",
+      "6029692",
+      "... Show All 9X374504A0",
+      "C2AZ1195A",
+      "J3173399",
+      "J3173401 Show Fewer"
+    ],
+    "Package Contents": "1 Nut"
+  },
+  "shipping": {
+    "weight_major_lbs": 0,
+    "weight_minor_oz": 6,
+    "total_weight_oz": 6,
+    "package_type": "Package/Thick Envelope"
+  },
+  "is_published": true,
+  "data_sources": [
+    "inventory_reference_sheet",
+    "wnc_parts_master"
+  ],
+  "updated_at": "2026-10-06T21:40:55.062339+00:00"
+}
