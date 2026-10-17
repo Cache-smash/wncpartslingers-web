@@ -1,61 +1,153 @@
 ---
-// index.astro - WNCPARTSLINGERS High-Velocity Jamstack Storefront
+// src/pages/index.astro - WNCPARTSLINGERS Automotive Jamstack Storefront
 import '../styles/global.css';
-import Header from '../components/Header.astro';
-import VehicleSelectorHero from '../components/VehicleSelectorHero.astro';
-import TrustStrip from '../components/TrustStrip.astro';
-import CategoryGrid from '../components/CategoryGrid.astro';
-import WarehouseFinds from '../components/WarehouseFinds.astro';
-import MechanicPicks from '../components/MechanicPicks.astro';
-import ProductDetailPreview from '../components/ProductDetailPreview.astro';
-import SellYourNOS from '../components/SellYourNOS.astro';
-import Footer from '../components/Footer.astro';
+import activeItems from '../data/active_ebay_items.json';
 
-const garageImage =
-  "https://images.unsplash.com/photo-1763848843732-a36a8c9c37da?auto=format&fit=crop&w=1600&q=85";
+// Take the first 48 items for initial server-side render, full list available for client search
+const initialItems = activeItems.slice(0, 48);
 ---
 
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="generator" content={Astro.generator} />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WNCPARTSLINGERS | NOS & Vintage Automotive Components</title>
-    <meta
-      name="description"
-      content="Hard-to-find New Old Stock (NOS) automotive parts, vintage factory restoration hardware, and Dorman HELP! fasteners. Warehouse direct from Hendersonville, NC."
-    />
+    <meta name="description" content="Authentic New Old Stock (NOS) automotive parts, vintage restoration hardware, and factory components. Warehouse direct from Hendersonville, NC." />
     <meta name="p:domain_verify" content="84b06eac7f89764d1148798575c74a4a" />
-  </head>
-  <body class="app">
-    <Header />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+</head>
+<body>
 
-    <main>
-      <section class="hero">
-        <img class="hero-bg" src={garageImage} alt="" fetchpriority="high" />
-        <div class="hero-overlay"></div>
-        <div class="shell hero-content">
-          <div class="hero-copy">
-            <p class="eyebrow amber">Warehouse inventory · Western North Carolina</p>
-            <h1>THE PART THEY<br />STOPPED MAKING.</h1>
-            <p>
-              New old stock, restoration hardware, and hard-to-find fasteners—
-              cataloged by people who know the difference.
-            </p>
-          </div>
-          <VehicleSelectorHero />
+    <!-- Header & Navigation -->
+    <header class="navbar">
+        <a href="#home" class="logo">
+            <span class="highlight">WNC</span>PARTSLINGERS
+        </a>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#home" class="active">Home</a></li>
+                <li><a href="#catalog">Inventory Catalog</a></li>
+                <li><a href="https://www.ebay.com/str/wncpartslingers" target="_blank" rel="noopener">eBay Store</a></li>
+                <li><a href="/privacy">Privacy</a></li>
+            </ul>
+        </nav>
+        <div class="nav-actions">
+            <a href="https://www.ebay.com/str/wncpartslingers" target="_blank" rel="noopener" class="btn-primary">
+                <i class="fa-solid fa-store"></i> eBay Storefront
+            </a>
         </div>
-      </section>
+    </header>
 
-      <TrustStrip />
-      <CategoryGrid />
-      <WarehouseFinds />
-      <MechanicPicks />
-      <ProductDetailPreview />
-      <SellYourNOS />
-    </main>
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <span class="tagline">// PRECISION VINTAGE & NOS</span>
+            <h1>Authentic Automotive <br><span class="highlight">Component Inventory</span></h1>
+            <p>High-velocity e-commerce specializing in genuine New Old Stock (NOS) automotive parts, vintage restoration hardware, and rare factory components. Dispatched within 24 hours from Hendersonville, NC.</p>
+            <div class="hero-buttons">
+                <a href="#catalog" class="btn-primary">
+                    <i class="fa-solid fa-boxes-stacked"></i> Browse Catalog ({activeItems.length} Parts)
+                </a>
+                <a href="https://www.ebay.com/str/wncpartslingers" target="_blank" rel="noopener" class="btn-secondary">
+                    <i class="fa-solid fa-arrow-up-right-from-square"></i> eBay Store
+                </a>
+            </div>
+        </div>
+    </section>
 
-    <Footer />
-  </body>
+    <!-- Features / Parts Grid -->
+    <section id="catalog" class="parts-section">
+        <div class="section-header">
+            <h2>Featured Inventory</h2>
+            <p>Verified New Old Stock parts, clips, fasteners, and factory replacement assemblies.</p>
+        </div>
+
+        <div class="search-container">
+            <i class="fa-solid fa-magnifying-glass search-icon"></i>
+            <input 
+                type="text" 
+                id="catalog-search" 
+                class="search-input" 
+                placeholder="Search by part name, MPN, brand, or number..." 
+            />
+        </div>
+
+        <div class="parts-grid" id="parts-grid">
+            {initialItems.map((item) => (
+                <div class="part-card" data-title={item.title.toLowerCase()} data-sku={(item.sku || '').toLowerCase()}>
+                    <div class="part-image-wrap">
+                        <img 
+                            src={item.image_url} 
+                            alt={item.title} 
+                            loading="lazy" 
+                            onerror="this.src='https://placehold.co/400x400/181b22/f5f6f8?text=NOS+Part'" 
+                        />
+                    </div>
+                    <h3>{item.title}</h3>
+                    <div class="part-price">${typeof item.price === 'number' ? item.price.toFixed(2) : item.price}</div>
+                    <div class="card-footer">
+                        <span class="spec">{item.sku || 'NOS OEM'}</span>
+                        <a href={`/parts/${item.item_id}`} class="download-link">
+                            <i class="fa-solid fa-arrow-right"></i> View Details
+                        </a>
+                    </div>
+                </div>
+            ))}
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 WNCPARTSLINGERS. Built for automotive restorers and performance technicians. · <a href="/privacy">Privacy Policy</a> · <a href="https://www.ebay.com/str/wncpartslingers" target="_blank" rel="noopener">eBay Store</a></p>
+    </footer>
+
+    <script is:inline define:vars={{ allItems: activeItems }}>
+        const searchInput = document.getElementById('catalog-search');
+        const grid = document.getElementById('parts-grid');
+
+        if (searchInput && grid) {
+            searchInput.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase().trim();
+                if (!query) {
+                    // Show initial batch
+                    renderItems(allItems.slice(0, 48));
+                    return;
+                }
+                const filtered = allItems.filter(item => 
+                    item.title.toLowerCase().includes(query) ||
+                    (item.sku && item.sku.toLowerCase().includes(query)) ||
+                    item.item_id.includes(query)
+                ).slice(0, 60);
+                renderItems(filtered);
+            });
+
+            function renderItems(items) {
+                grid.innerHTML = items.map(item => `
+                    <div class="part-card">
+                        <div class="part-image-wrap">
+                            <img 
+                                src="${item.image_url}" 
+                                alt="${item.title}" 
+                                loading="lazy" 
+                                onerror="this.src='https://placehold.co/400x400/181b22/f5f6f8?text=NOS+Part'"
+                            />
+                        </div>
+                        <h3>${item.title}</h3>
+                        <div class="part-price">$${typeof item.price === 'number' ? item.price.toFixed(2) : item.price}</div>
+                        <div class="card-footer">
+                            <span class="spec">${item.sku || 'NOS OEM'}</span>
+                            <a href="/parts/${item.item_id}" class="download-link">
+                                <i class="fa-solid fa-arrow-right"></i> View Details
+                            </a>
+                        </div>
+                    </div>
+                `).join('');
+            }
+        }
+    </script>
+
+</body>
 </html>
