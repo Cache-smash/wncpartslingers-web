@@ -30,6 +30,7 @@ const initialItems = activeItems.slice(0, 48);
             <ul class="nav-links">
                 <li><a href="#home" class="active">Home</a></li>
                 <li><a href="#catalog">Catalog</a></li>
+                <li><a href="/about">About</a></li>
                 <li><a href="/shipping">Shipping</a></li>
                 <li><a href="/returns">Returns</a></li>
                 <li><a href="/contact">Contact</a></li>
@@ -56,6 +57,32 @@ const initialItems = activeItems.slice(0, 48);
                 <a href="https://www.ebay.com/str/wncpartslingers" target="_blank" rel="noopener" class="btn-secondary">
                     <i class="fa-solid fa-arrow-up-right-from-square"></i> eBay Store
                 </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Trust & Operational Guarantees Banner -->
+    <section style="background-color: var(--bg-card); border-top: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color); padding: 24px 20px;">
+        <div style="max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center;">
+            <div>
+                <i class="fa-solid fa-truck-fast" style="color: var(--accent-neon); font-size: 1.5rem; margin-bottom: 8px;"></i>
+                <h4 style="font-size: 0.95rem; margin-bottom: 4px; color: var(--text-main);">24-Hour Dispatch</h4>
+                <p style="font-size: 0.8rem; color: var(--text-muted); margin: 0;">Dispatched daily from Hendersonville, NC (<a href="/shipping" style="color: var(--accent-neon);">Shipping Policy</a>)</p>
+            </div>
+            <div>
+                <i class="fa-solid fa-shield-halved" style="color: var(--accent-neon); font-size: 1.5rem; margin-bottom: 8px;"></i>
+                <h4 style="font-size: 0.95rem; margin-bottom: 4px; color: var(--text-main);">30-Day Money-Back Returns</h4>
+                <p style="font-size: 0.8rem; color: var(--text-muted); margin: 0;">Hassle-free 30-day return window (<a href="/returns" style="color: var(--accent-neon);">Return Policy</a>)</p>
+            </div>
+            <div>
+                <i class="fa-solid fa-certificate" style="color: var(--accent-neon); font-size: 1.5rem; margin-bottom: 8px;"></i>
+                <h4 style="font-size: 0.95rem; margin-bottom: 4px; color: var(--text-main);">Authentic NOS Guarantee</h4>
+                <p style="font-size: 0.8rem; color: var(--text-muted); margin: 0;">Verified uncirculated OEM parts (<a href="/about" style="color: var(--accent-neon);">About Us</a>)</p>
+            </div>
+            <div>
+                <i class="fa-solid fa-headset" style="color: var(--accent-neon); font-size: 1.5rem; margin-bottom: 8px;"></i>
+                <h4 style="font-size: 0.95rem; margin-bottom: 4px; color: var(--text-main);">Live Fitment Support</h4>
+                <p style="font-size: 0.8rem; color: var(--text-muted); margin: 0;">Direct technician assistance (<a href="/contact" style="color: var(--accent-neon);">Contact Desk</a>)</p>
             </div>
         </div>
     </section>
@@ -103,7 +130,7 @@ const initialItems = activeItems.slice(0, 48);
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 WNCPARTSLINGERS. Built for automotive restorers and performance technicians. · <a href="/shipping">Shipping Policy</a> · <a href="/returns">Return Policy</a> · <a href="/privacy">Privacy Policy</a> · <a href="/contact">Contact Us</a> · <a href="https://www.ebay.com/str/wncpartslingers" target="_blank" rel="noopener">eBay Store</a></p>
+        <p>&copy; 2026 WNCPARTSLINGERS. Built for automotive restorers and performance technicians. · <a href="/about">About Us</a> · <a href="/shipping">Shipping Policy</a> · <a href="/returns">Return Policy</a> · <a href="/privacy">Privacy Policy</a> · <a href="/terms">Terms of Service</a> · <a href="/contact">Contact Us</a> · <a href="https://www.ebay.com/str/wncpartslingers" target="_blank" rel="noopener">eBay Store</a></p>
     </footer>
 
     <script is:inline define:vars={{ allItems: activeItems }}>

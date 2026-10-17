@@ -81,6 +81,7 @@ const interchangeList: Array<[string, string]> = (product.interchanges || []).ma
             <ul class="nav-links">
                 <li><a href="/">Home</a></li>
                 <li><a href="/#catalog">Catalog</a></li>
+                <li><a href="/about">About</a></li>
                 <li><a href="/shipping">Shipping</a></li>
                 <li><a href="/returns">Returns</a></li>
                 <li><a href="/contact">Contact</a></li>
@@ -163,9 +164,18 @@ const interchangeList: Array<[string, string]> = (product.interchanges || []).ma
                     </a>
                 </div>
 
-                <p style="font-size: 0.85rem; color: var(--text-muted);">
-                    *Shipping combines automatically on multi-item orders at checkout. Ships via USPS Ground Advantage or UPS with tracking.
-                </p>
+                <!-- Merchant Trust & Operational Guarantee Box -->
+                <div style="background-color: var(--bg-card); border: 1px solid var(--border-color); padding: 16px; margin-top: 16px; margin-bottom: 16px; border-radius: 4px;">
+                    <div style="font-size: 0.85rem; font-weight: 700; color: var(--text-main); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
+                        <i class="fa-solid fa-shield-check" style="color: var(--accent-neon);"></i> Merchant Guarantees & Protection
+                    </div>
+                    <ul style="font-size: 0.82rem; color: var(--text-muted); list-style: none; padding: 0; margin: 0; line-height: 1.8;">
+                        <li><i class="fa-solid fa-check" style="color: var(--accent-neon); margin-right: 6px;"></i> <strong>30-Day Money-Back Guarantee:</strong> Return uninstalled parts for a full refund (<a href="/returns" style="color: var(--accent-neon);">Return Policy</a>).</li>
+                        <li><i class="fa-solid fa-check" style="color: var(--accent-neon); margin-right: 6px;"></i> <strong>24-Hour Dispatch:</strong> Fast order handling from Hendersonville, NC (<a href="/shipping" style="color: var(--accent-neon);">Shipping Policy</a>).</li>
+                        <li><i class="fa-solid fa-check" style="color: var(--accent-neon); margin-right: 6px;"></i> <strong>Combined Shipping:</strong> Multi-item discounts calculated automatically.</li>
+                        <li><i class="fa-solid fa-check" style="color: var(--accent-neon); margin-right: 6px;"></i> <strong>Dedicated Support:</strong> Technical fitment help at <a href="mailto:parts@wncpartslingers.com" style="color: var(--accent-neon);">parts@wncpartslingers.com</a> or <a href="/contact" style="color: var(--accent-neon);">Contact Us</a>.</li>
+                    </ul>
+                </div>
             </div>
         </div>
 
@@ -186,7 +196,7 @@ const interchangeList: Array<[string, string]> = (product.interchanges || []).ma
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 WNCPARTSLINGERS. Built for automotive restorers and performance technicians. · <a href="/shipping">Shipping Policy</a> · <a href="/returns">Return Policy</a> · <a href="/privacy">Privacy Policy</a> · <a href="/contact">Contact Us</a> · <a href="https://www.ebay.com/str/wncpartslingers" target="_blank" rel="noopener">eBay Store</a></p>
+        <p>&copy; 2026 WNCPARTSLINGERS. Built for automotive restorers and performance technicians. · <a href="/about">About Us</a> · <a href="/shipping">Shipping Policy</a> · <a href="/returns">Return Policy</a> · <a href="/privacy">Privacy Policy</a> · <a href="/terms">Terms of Service</a> · <a href="/contact">Contact Us</a> · <a href="https://www.ebay.com/str/wncpartslingers" target="_blank" rel="noopener">eBay Store</a></p>
     </footer>
 
 </body>
